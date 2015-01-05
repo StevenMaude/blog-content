@@ -1,8 +1,10 @@
 Title: Android device encryption is (mostly) good
-Date: 2014-04-05 10:32
+Date: 2014-04-05 10:21
+Modified: 2014-04-05 10:32
 Author: Steven Maude
 Tags: encryption, Android
 Slug: android-device-encryption-is-mostly-good
+Summary: Encrypting Android and the usability issues that arise.
 
 If you've read other posts here, you might notice that I've gone through
 a phase of
@@ -55,6 +57,3 @@ fresh install, re-root and restore everything.
 It would be nice if encryption on Android was more user-friendly, though
 as the problems aren't particularly onerous, the extra security is
 definitely welcome.
-
-</p>
-
