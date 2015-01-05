@@ -3,6 +3,7 @@ Date: 2014-05-10 17:52
 Author: Steven Maude
 Tags: self-indulgence, musings
 Slug: 52-weeks-52-posts
+Summary: Thoughts on writing a blog for a year.
 
 A year ago, I started writing this blog. I didn't really have any
 expectations of what I wanted to get out of it, but I think it's been
@@ -45,6 +46,3 @@ my existing content to Markdown or RestructuredText are the obstacles at
 the moment. Really though, it's a question of **just doing it** rather
 than procrastinating and getting distracted writing blog posts about how
 I'm going to do things.
-
-</p>
-
