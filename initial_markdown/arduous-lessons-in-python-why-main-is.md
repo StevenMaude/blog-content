@@ -19,8 +19,6 @@ What I expected is the tests to run pretty quickly as before.
 What happened instead is that Python started hogging a CPU and I saw a
 lonely blinking cursor where I expected my test results.
 
-<a name="more"></a>
-
 Something was happening, but none of the tests were seemingly running.
 That is, I wasn't seeing any pass/fail indicators, which was strange.
 

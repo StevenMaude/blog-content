@@ -21,8 +21,6 @@ was holding an event for postdoctoral researchers to find out more about
 paths outside of university. I'd been invited to talk about data
 science.
 
-<a name="more"></a>
-
 The day started with brief talks from the careers staff and one of the
 guests. In a short session, they divulged several ideas that I'd taken
 far longer to collect either from reading around, the careers programme

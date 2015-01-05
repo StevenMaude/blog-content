@@ -15,7 +15,7 @@ PC entirely from scratch was new to me and I'd decided to do this for a
 Christmas gift since I couldn't find any off-the-shelf PCs for the
 recipient that had the specification I was looking for.  
   
-<a name="more"></a>It's rewarding when you throw a lot of individual
+It's rewarding when you throw a lot of individual
 pieces into a box, assemble them and find that **it actually works**when
 you power it up. Disappointingly, this victory was shortlived. One of
 the issues with buying lots of separate components is that you have to

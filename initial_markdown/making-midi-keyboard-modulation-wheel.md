@@ -8,8 +8,6 @@ Been playing around with third-party VSTs in FL Studio and found I
 couldn't get the modulation wheel to work (though it works fine in the
 bundled plugins).
 
-<a name="more"></a>
-
 Eventually I found the fix
 [here](http://music.tutsplus.com/tutorials/quick-tip-how-to-enable-the-mod-wheel-in-fl-studio--audio-10778).
 

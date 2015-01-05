@@ -11,7 +11,7 @@ found that when I was looking up info about commands using
 that although
 <span style="font-family: Courier New, Courier, monospace;">man</span>
 was still running perfectly fine, I was getting this
-message:<a name="more"></a>
+message:
 
 <div class="bgcode">
 man: can't resolve /usr/share/man/man6/LS.6.gz: No such file or

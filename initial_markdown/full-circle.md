@@ -11,8 +11,6 @@ blog ten months ago. Funnily enough, [it
 discussed](http://www.stevenmaude.co.uk/2013/05/blogger-versus-wordpress.html)
 what I'm thinking about right now: how best to blog.
 
-<a name="more"></a>
-
 Writing using the Blogger editor is not a great experience. Not great,
 but adequate. It removes that the need for the user to know HTML. With
 that, it also removes the possibility to do anything beyond the limited

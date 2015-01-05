@@ -20,7 +20,7 @@ and some I hadn't (ROC curves, expected value in decision analysis; the
 latter of which I found really interesting in how it can help give a
 framework to problems).  
   
-<a name="more"></a>With it being business-oriented, the emphasis
+With it being business-oriented, the emphasis
 throughout is definitely on how the data science process both relates to
 (the focus is on marketing and churn) and fits into business (for
 example, if you don't already have the right data to answer your

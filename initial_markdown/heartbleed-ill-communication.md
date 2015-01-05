@@ -12,8 +12,6 @@ logo](http://3.bp.blogspot.com/-6lxHTvE7mNw/U2ZvC2CF7rI/AAAAAAAAANU/aHJ0ZG428vc/
 Even if you're not particularly into technology, you probably wouldn't
 have escaped hearing about Heartbleed last month.
 
-<a name="more"></a>
-
 Without going into details here — the [site written by researchers who
 disclosed the vulnerability](http://heartbleed.com/) has a detailed
 technical summary, and [XKCD](http://xkcd.com/1354/) had a nice

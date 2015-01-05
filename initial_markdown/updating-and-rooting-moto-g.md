@@ -17,8 +17,6 @@ you're say using Google Maps for driving navigation which is quite
 hideous. Even the option to postpone the reminder for a week or a month
 would be nice. A rubbish, rubbish, rubbish user experience.
 
-<a name="more"></a>
-
 A simple upgrade is as easy as pressing "upgrade". Because my phone was
 rooted and encrypted, the upgrade was likely to fail, so I had to
 restore it to stock firmware first.

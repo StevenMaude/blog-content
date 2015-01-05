@@ -21,7 +21,7 @@ DJing](http://www.digitaldjtips.com/2013/05/is-it-right-to-ban-laptops-from-dj-b
 beatmatch](http://djworx.com/sync-the-djs-big-red-button/). Algorithms
 for beat detection usually work well enough these days that software can
 usually have a good go at this for you.  
-<a name="more"></a>  
+
 It's a slightly odd opinion though, and one that I actually think does
 DJing a disservice. The implication of beatmatching being so important
 is that there's little more to DJing than that. Just get the beats

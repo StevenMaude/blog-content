@@ -19,8 +19,6 @@ did seem like encryption isn't a widely used feature. But, as I was
 starting afresh with my phone anyway, it seemed a good time to test it
 out.
 
-<a name="more"></a>
-
 On my phone, out of the box, it encrypted in just a few minutes. I
 didn't bother running any before and after benchmarks, but it doesn't
 *feel* like there's any impact on the responsiveness of the phone.

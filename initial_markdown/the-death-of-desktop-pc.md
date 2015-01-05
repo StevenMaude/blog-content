@@ -20,7 +20,7 @@ first laptop for work, and **still** haven't been converted to mobile
 devices.  
   
 So, why such distinct differences between the needs of mainstream users
-and enthusiasts?<a name="more"></a> Here's what my experiences tell me.  
+and enthusiasts? Here's what my experiences tell me.
   
 
 ### Upgradability

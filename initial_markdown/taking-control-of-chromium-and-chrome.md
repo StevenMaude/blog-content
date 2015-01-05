@@ -19,8 +19,6 @@ In fact, the adblocking part of HTTP Switchboard has now been separated
 out into another project, µblock. Both are still useful. I'll explain
 why below.
 
-<a name="more"></a>
-
 ### Why are you blocking content at all?
 
 Many content-driven websites use advertising as their business model. My

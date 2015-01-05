@@ -8,8 +8,6 @@ A year ago, I started writing this blog. I didn't really have any
 expectations of what I wanted to get out of it, but I think it's been
 successful despite my lack of lofty ambitions.
 
-<a name="more"></a>
-
 Back then, I hadn't written any blog back then. So it's a little strange
 that in the past year, I've had blog posts on another two other blogs
 aside from this one.

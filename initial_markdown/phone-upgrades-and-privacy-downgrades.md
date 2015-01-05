@@ -17,8 +17,6 @@ was to stick with an older CyanogenMod version. It's annoying that I was
 stuck on old Android and the phone's slowness has started to frustrate
 me, leading me to decide to get a new one.
 
-<a name="more"></a>
-
 I did consider a Nexus 5, but heard bad things about battery life which
 put me off; I thought I'd get frustrated with paying quite a lot
 (although [they were on offer for

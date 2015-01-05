@@ -32,8 +32,6 @@ could. However, it may not be immediately obvious how you can get
 started, particularly if you're not a developer. Here are a few
 suggestions.
 
-<a name="more"></a>
-
 ### If you can code:
 
 #### Share your own projects

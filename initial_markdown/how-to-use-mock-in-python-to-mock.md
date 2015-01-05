@@ -14,8 +14,6 @@ how you write your code, in a positive way: the process of making unit
 tests can require you to rethink how your code operates in order to make
 it testable.
 
-<a name="more"></a>
-
 If you're unfamiliar and want to know more, probably the single most
 useful resources I've found are two of Ned Batchelder's PyCon talks, one
 from [Pycon 2010](http://nedbatchelder.com/text/testability.html), and

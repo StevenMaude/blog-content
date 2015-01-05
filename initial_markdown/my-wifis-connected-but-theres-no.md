@@ -16,8 +16,6 @@ another office to work and tried to connect to their wifi. I knew the
 network should have been OK as no-one else seemed to be having an issue,
 and I'd entered the WPA password correctly.
 
-<a name="more"></a>
-
 What I saw was that the wifi showed as connected, but I couldn't connect
 to anything. Occasionally, I could try and ping a server, and when I
 bothered to wait long enough to see anything, what I saw was connection

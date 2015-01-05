@@ -14,8 +14,6 @@ selection of videos of the talks up at
 haven't got through all of the ones I want to take a look at, but the
 ones I've checked already were pretty good.
 
-<a name="more"></a>
-
 ### Regular expressions and testing
 
 Out of those I saw, I can definitely recommend two great mini tutorial
