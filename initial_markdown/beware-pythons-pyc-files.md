@@ -1,8 +1,10 @@
 Title: Beware Python's pyc files
-Date: 2014-05-09 22:35
+Date: 2014-05-09 21:29
+Modified: 2014-05-09 22:35
 Author: Steven Maude
 Tags: Python, pyc
 Slug: beware-pythons-pyc-files
+Summary: When Python's pyc files cause errors, it's time to remove them.
 
 A quick reminder to myself more than anything.
 
@@ -21,5 +23,3 @@ have inexplicable errors like this with no obvious explanation, it's
 worth perhaps deleting the cached `.pyc` files. That is, unless
 [this](https://www.youtube.com/watch?v=wsczq6j3_bA#t=22m15s) applies to
 your coding workflow.
-
-
