@@ -3,8 +3,9 @@ Date: 2014-03-22 14:59
 Author: Steven Maude
 Tags: Wordpress, blog, static, Jekyll, blogging, site, Pelican
 Slug: full-circle
+Summary: Thoughts on moving away from Blogger to a static site.
 
-### Blogger and blogging
+## Blogger and blogging
 
 To me, it doesn't seem that long ago, but I wrote the first post on this
 blog ten months ago. Funnily enough, [it
@@ -31,7 +32,7 @@ blog](http://drj11.wordpress.com/) to [Jekyll](http://jekyllrb.com), I
 had the inspiration of starting to write blog posts in Markdown and then
 converting them to HTML.
 
-### What's Markdown?
+## What's Markdown?
 
 You might be asking that if you're not a developer. I hadn't heard of it
 at all before I started using GitHub, but I'm a convert now. It's a
@@ -50,7 +51,7 @@ Furthermore, there are fantastic tools such as
 to a host of other outputs too, e.g. PDF via LaTeX, Word docx,
 LibreOffice, even the epub ebook format.
 
-### What next?
+## What next?
 
 After finding that I prefer writing posts in Markdown, my next thought
 was: why not remove the middleman and use a system, like Jekyll, that
@@ -93,5 +94,3 @@ but hosting WordPress somewhere costs money. It also gets me into the
 quagmire of shopping around for a host and hosting plan, and managing
 security updates. Once the static page generator is initially setup, I
 can deploy the site to GitHub Pages, then focus on writing again.
-
-
