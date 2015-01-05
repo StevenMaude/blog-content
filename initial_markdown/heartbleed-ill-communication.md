@@ -3,12 +3,10 @@ Date: 2014-05-04 16:49
 Author: Steven Maude
 Tags: Heartbleed, security, communication
 Slug: heartbleed-ill-communication
+Summary: On the lack of communication of websites as to the impact of Heartbleed.
 
-<div class="separator" style="clear: both; text-align: center;">
-[![Heartbleed
-logo](http://3.bp.blogspot.com/-6lxHTvE7mNw/U2ZvC2CF7rI/AAAAAAAAANU/aHJ0ZG428vc/s320/heartbleed.png)](http://3.bp.blogspot.com/-6lxHTvE7mNw/U2ZvC2CF7rI/AAAAAAAAANU/aHJ0ZG428vc/s1600/heartbleed.png)
+![Heartbleed logo]({filename}/images/heartbleed.png)
 
-</div>
 Even if you're not particularly into technology, you probably wouldn't
 have escaped hearing about Heartbleed last month.
 
@@ -43,6 +41,3 @@ everything is OK with them.
 It's unrealistic to expect that some widespread security issue won't
 happen again. If something does happen though, I do hope that sites do a
 better job in clarifying their position.
-
-</p>
-
