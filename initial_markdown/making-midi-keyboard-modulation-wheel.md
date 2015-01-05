@@ -1,8 +1,10 @@
 Title: Making a MIDI keyboard modulation wheel work with third-party VSTs in FL Studio
-Date: 2014-04-27 18:21
+Date: 2014-04-27 18:19
+Modified: 2014-04-27 18:21
 Author: Steven Maude
 Tags: MIDI, production, keyboard, FL, VST, Studio, music, audio
 Slug: making-midi-keyboard-modulation-wheel
+Summary: How to get a mod wheel working with third-party plugins in FL Studio.
 
 Been playing around with third-party VSTs in FL Studio and found I
 couldn't get the modulation wheel to work (though it works fine in the
@@ -22,6 +24,3 @@ setup, then deleting the VST and saving the project as a template, which
 is handy to avoid repeating this every time you work on a new project.
 Just make a sub-directory in one of the existing FL Studio Templates
 directories and save the .flp file in there.
-
-</p>
-
