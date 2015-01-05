@@ -1,6 +1,6 @@
 Title: Updating and rooting Moto G
 Date: 2014-08-25 18:34
-Author: Steven Maude (noreply@blogger.com)
+Author: Steven Maude
 Tags: Moto, firmware, upgrade, Android, system, root
 Slug: updating-and-rooting-moto-g
 

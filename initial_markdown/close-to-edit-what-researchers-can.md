@@ -1,6 +1,6 @@
 Title: Close to the edit: what researchers can learn from journal editing
 Date: 2013-07-14 13:12
-Author: Steven Maude (noreply@blogger.com)
+Author: Steven Maude
 Tags: journal, research, job, academic, editing, publishing
 Slug: close-to-edit-what-researchers-can
 

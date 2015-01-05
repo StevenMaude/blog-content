@@ -1,6 +1,6 @@
 Title: How to access GitHub over SSH on Ubuntu
 Date: 2013-09-07 12:07
-Author: Steven Maude (noreply@blogger.com)
+Author: Steven Maude
 Tags: GitHub, SSH, remote, shell, Ubuntu
 Slug: how-to-access-github-over-ssh-on-ubuntu
 

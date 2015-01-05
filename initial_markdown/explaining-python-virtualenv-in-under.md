@@ -1,6 +1,6 @@
 Title: Explaining Python virtualenv (in under two minutes)
 Date: 2013-08-30 22:02
-Author: Steven Maude (noreply@blogger.com)
+Author: Steven Maude
 Tags: virtualenv, development, Linux, programming, Python, Ubuntu, coding
 Slug: explaining-python-virtualenv-in-under
 

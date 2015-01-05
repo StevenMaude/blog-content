@@ -1,6 +1,6 @@
 Title: Beatmatching; five reasons why digital DJs should learn, and how Traktor can help
 Date: 2014-02-09 20:41
-Author: Steven Maude (noreply@blogger.com)
+Author: Steven Maude
 Tags: sync, DJ, laptop, Traktor, beatmatching, digital
 Slug: beatmatching-five-reasons-why-digital
 

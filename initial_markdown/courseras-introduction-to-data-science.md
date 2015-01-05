@@ -1,6 +1,6 @@
 Title: Coursera's Introduction to Data Science course
 Date: 2013-07-14 13:13
-Author: Steven Maude (noreply@blogger.com)
+Author: Steven Maude
 Tags: data, course, Coursera, analytics, science
 Slug: courseras-introduction-to-data-science
 

@@ -1,6 +1,6 @@
 Title: Scraping Nature's job website
 Date: 2013-07-14 13:15
-Author: Steven Maude (noreply@blogger.com)
+Author: Steven Maude
 Tags: scraping, Nature, naturejobs, web, Python, script
 Slug: scraping-natures-job-website
 

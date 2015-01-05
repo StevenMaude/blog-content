@@ -1,6 +1,6 @@
 Title: How to give back to open source software
 Date: 2014-03-22 17:58
-Author: Steven Maude (noreply@blogger.com)
+Author: Steven Maude
 Tags: documentation, open, software, source, coding
 Slug: how-to-give-back-to-open-source-software
 

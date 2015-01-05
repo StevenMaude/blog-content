@@ -1,6 +1,6 @@
 Title: Converting PDFs to a series of images
 Date: 2013-07-14 13:09
-Author: Steven Maude (noreply@blogger.com)
+Author: Steven Maude
 Tags: PDF, ImageMagick, convert
 Slug: converting-pdfs-to-series-of-images
 

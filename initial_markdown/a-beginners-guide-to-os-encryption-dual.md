@@ -1,6 +1,6 @@
 Title: A beginner's guide to OS encryption: dual booting and encrypting Windows and Ubuntu
 Date: 2013-11-22 20:01
-Author: Steven Maude (noreply@blogger.com)
+Author: Steven Maude
 Tags: disk, Bitlocker, Linux, Windows, encryption, TrueCrypt, drive, Ubuntu
 Slug: a-beginners-guide-to-os-encryption-dual
 

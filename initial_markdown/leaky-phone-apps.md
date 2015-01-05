@@ -1,6 +1,6 @@
 Title: Leaky phone apps
 Date: 2013-07-14 13:13
-Author: Steven Maude (noreply@blogger.com)
+Author: Steven Maude
 Tags: data, app, leaky, Android, Juniper, privacy, PDroid
 Slug: leaky-phone-apps
 

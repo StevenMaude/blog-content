@@ -1,6 +1,6 @@
 Title: Fixing Chromium on Ubuntu video playback issues (no video, black screen)
 Date: 2013-09-22 21:49
-Author: Steven Maude (noreply@blogger.com)
+Author: Steven Maude
 Tags: video, YouTube, screen, black, Chromium, Ubuntu
 Slug: fixing-chromium-on-ubuntu-video
 

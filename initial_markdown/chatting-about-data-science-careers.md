@@ -1,6 +1,6 @@
 Title: Chatting about data science careers
 Date: 2014-06-22 21:47
-Author: Steven Maude (noreply@blogger.com)
+Author: Steven Maude
 Tags: data, careers, university, research, science, Cambridge
 Slug: chatting-about-data-science-careers
 

@@ -1,6 +1,6 @@
 Title: Ensuring scheduled cron jobs are run using anacron
 Date: 2014-01-31 16:38
-Author: Steven Maude (noreply@blogger.com)
+Author: Steven Maude
 Tags: Raspbian, anacron, Pi, Linux, Raspberry, cron, schedule
 Slug: ensuring-scheduled-cron-jobs-are-run
 

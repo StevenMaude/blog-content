@@ -1,6 +1,6 @@
 Title: My wifi's connected, but there's no internet...? (Intel Centrino versus Ubuntu)
 Date: 2014-07-29 23:15
-Author: Steven Maude (noreply@blogger.com)
+Author: Steven Maude
 Tags: connection, Centrino, wifi, Ubuntu, Intel, fix
 Slug: my-wifis-connected-but-theres-no
 

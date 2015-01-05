@@ -1,6 +1,6 @@
 Title: Types of data scientist
 Date: 2013-07-14 13:14
-Author: Steven Maude (noreply@blogger.com)
+Author: Steven Maude
 Tags: data, big, science, career
 Slug: types-of-data-scientist
 

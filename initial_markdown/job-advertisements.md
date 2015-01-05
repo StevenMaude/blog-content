@@ -1,6 +1,6 @@
 Title: Job advertisements
 Date: 2013-07-14 13:11
-Author: Steven Maude (noreply@blogger.com)
+Author: Steven Maude
 Tags: vacancy, advert, job, fraction
 Slug: job-advertisements
 

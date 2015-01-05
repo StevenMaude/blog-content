@@ -1,6 +1,6 @@
 Title: 52 weeks, 52 posts
 Date: 2014-05-10 17:52
-Author: Steven Maude (noreply@blogger.com)
+Author: Steven Maude
 Tags: self-indulgence, musings
 Slug: 52-weeks-52-posts
 

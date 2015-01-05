@@ -1,6 +1,6 @@
 Title: How to secure your storage and backup drives on Windows and Linux
 Date: 2013-10-19 14:08
-Author: Steven Maude (noreply@blogger.com)
+Author: Steven Maude
 Tags: Bitlocker, backup, encryption, USB, HDD, external, TrueCrypt, drive
 Slug: how-to-secure-your-storage-and-backup
 

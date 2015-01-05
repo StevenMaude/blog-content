@@ -1,6 +1,6 @@
 Title: Working with multiple SSH keys: setting up git over SSH with GitHub and Bitbucket
 Date: 2013-10-08 19:41
-Author: Steven Maude (noreply@blogger.com)
+Author: Steven Maude
 Tags: GitHub, key, SSH, Bitbucket
 Slug: working-with-multiple-ssh-keys-setting
 

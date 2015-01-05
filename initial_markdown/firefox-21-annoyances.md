@@ -1,6 +1,6 @@
 Title: Firefox 21 annoyances
 Date: 2013-07-14 13:10
-Author: Steven Maude (noreply@blogger.com)
+Author: Steven Maude
 Tags: annoyance, Windows, Firefox
 Slug: firefox-21-annoyances
 

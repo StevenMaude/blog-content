@@ -1,6 +1,6 @@
 Title: Migrating email from POP to IMAP in Thunderbird
 Date: 2014-05-06 18:50
-Author: Steven Maude (noreply@blogger.com)
+Author: Steven Maude
 Tags: Thunderbird, migration, POP, IMAP, Gmail
 Slug: migrating-email-from-pop-to-imap
 

@@ -1,6 +1,6 @@
 Title: Full circle
 Date: 2014-03-22 14:59
-Author: Steven Maude (noreply@blogger.com)
+Author: Steven Maude
 Tags: Wordpress, blog, static, Jekyll, blogging, site, Pelican
 Slug: full-circle
 

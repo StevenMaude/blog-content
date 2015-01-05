@@ -1,6 +1,6 @@
 Title: Fixing no ink levels being displayed in Epson Status Monitor
 Date: 2014-01-18 13:45
-Author: Steven Maude (noreply@blogger.com)
+Author: Steven Maude
 Tags: level, printer, ink, Epson, driver
 Slug: fixing-no-ink-levels-being-displayed-in
 

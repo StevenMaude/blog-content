@@ -1,6 +1,6 @@
 Title: Explaining Python virtualenvwrapper (in a couple of minutes)
 Date: 2013-09-19 17:56
-Author: Steven Maude (noreply@blogger.com)
+Author: Steven Maude
 Tags: virtualenv, development, Python, Ubuntu
 Slug: explaining-python-virtualenvwrapper-in
 

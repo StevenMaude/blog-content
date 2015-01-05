@@ -1,6 +1,6 @@
 Title: It's not often that I think of technical fixes as favourites, but...
 Date: 2013-11-10 17:12
-Author: Steven Maude (noreply@blogger.com)
+Author: Steven Maude
 Tags: LED, Revolution, charging, bash, mouse, Logitech, slam, MX, red, fix
 Slug: its-not-often-that-i-think-of-technical
 

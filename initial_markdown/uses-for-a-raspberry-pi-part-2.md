@@ -1,6 +1,6 @@
 Title: Uses for a Raspberry Pi (part 2)
 Date: 2013-08-31 12:07
-Author: Steven Maude (noreply@blogger.com)
+Author: Steven Maude
 Tags: server, Samba, radio, Pi, tracklisting, Raspberry, iplayer, Python, get_iplayer
 Slug: uses-for-a-raspberry-pi-part-2
 

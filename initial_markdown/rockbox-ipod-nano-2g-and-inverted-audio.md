@@ -1,6 +1,6 @@
 Title: Rockbox, iPod Nano 2G and inverted audio channels
 Date: 2014-04-08 21:25
-Author: Steven Maude (noreply@blogger.com)
+Author: Steven Maude
 Tags: Rockbox, Nano, iPod, bug
 Slug: rockbox-ipod-nano-2g-and-inverted-audio
 

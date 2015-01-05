@@ -1,6 +1,6 @@
 Title: Blogger versus WordPress
 Date: 2013-07-14 10:56
-Author: Steven Maude (noreply@blogger.com)
+Author: Steven Maude
 Tags: Wordpress, Blogger, blogging
 Slug: blogger-versus-wordpress
 

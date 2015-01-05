@@ -1,6 +1,6 @@
 Title: Uninstalling the Windows GoToMeeting client
 Date: 2013-07-14 13:08
-Author: Steven Maude (noreply@blogger.com)
+Author: Steven Maude
 Tags: uninstall, GoToMeeting, Citrix
 Slug: uninstalling-gotomeeting
 

@@ -1,6 +1,6 @@
 Title: Making Aero theme settings stick in Windows (resetting on log off)
 Date: 2014-01-12 15:12
-Author: Steven Maude (noreply@blogger.com)
+Author: Steven Maude
 Tags: theme, Aero, Windows, lag, delay
 Slug: making-aero-theme-settings-stick-in
 

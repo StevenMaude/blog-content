@@ -1,6 +1,6 @@
 Title: Arduous lessons in Python: why main() is useful
 Date: 2014-07-05 11:42
-Author: Steven Maude (noreply@blogger.com)
+Author: Steven Maude
 Tags: foolishness, name, main, Python, fix
 Slug: arduous-lessons-in-python-why-main-is
 

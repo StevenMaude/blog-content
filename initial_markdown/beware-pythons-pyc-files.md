@@ -1,6 +1,6 @@
 Title: Beware Python's pyc files
 Date: 2014-05-09 22:35
-Author: Steven Maude (noreply@blogger.com)
+Author: Steven Maude
 Tags: Python, pyc
 Slug: beware-pythons-pyc-files
 

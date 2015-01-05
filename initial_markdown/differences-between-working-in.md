@@ -1,6 +1,6 @@
 Title: Differences between working in university research and a tech startup
 Date: 2013-11-03 23:12
-Author: Steven Maude (noreply@blogger.com)
+Author: Steven Maude
 Tags: university, startup, academia, research, tech, job, career
 Slug: differences-between-working-in
 

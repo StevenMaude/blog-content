@@ -1,6 +1,6 @@
 Title: The death of the desktop PC?
 Date: 2014-03-17 19:11
-Author: Steven Maude (noreply@blogger.com)
+Author: Steven Maude
 Tags: laptop, tablet, desktop, PC
 Slug: the-death-of-desktop-pc
 

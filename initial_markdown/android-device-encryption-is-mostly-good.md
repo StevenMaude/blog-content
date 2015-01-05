@@ -1,6 +1,6 @@
 Title: Android device encryption is (mostly) good
 Date: 2014-04-05 10:32
-Author: Steven Maude (noreply@blogger.com)
+Author: Steven Maude
 Tags: encryption, Android
 Slug: android-device-encryption-is-mostly-good
 

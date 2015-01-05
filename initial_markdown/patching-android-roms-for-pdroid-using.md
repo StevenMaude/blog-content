@@ -1,6 +1,6 @@
 Title: Patching Android ROMs for PDroid using Auto-Patcher
 Date: 2014-03-28 22:01
-Author: Steven Maude (noreply@blogger.com)
+Author: Steven Maude
 Tags: Android, PDroid, Auto-Patcher
 Slug: patching-android-roms-for-pdroid-using
 

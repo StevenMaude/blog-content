@@ -1,6 +1,6 @@
 Title: Installing matplotlib in a virtualenv
 Date: 2013-10-01 19:38
-Author: Steven Maude (noreply@blogger.com)
+Author: Steven Maude
 Tags: dependency, virtualenv, install, matplotlib, solution, Python, PyGTK
 Slug: installing-matplotlib-in-virtualenv
 

@@ -1,6 +1,6 @@
 Title: Taking control of Chromium (and Chrome) with µblock and HTTP Switchboard
 Date: 2014-09-28 00:02
-Author: Steven Maude (noreply@blogger.com)
+Author: Steven Maude
 Tags: ad, µblock, HTTP Switchboard, blocking, privacy, adblock
 Slug: taking-control-of-chromium-and-chrome
 

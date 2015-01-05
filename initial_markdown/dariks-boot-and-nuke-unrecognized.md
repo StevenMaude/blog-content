@@ -1,6 +1,6 @@
 Title: Darik's Boot and Nuke: fixing an "unrecognized device" error
 Date: 2014-01-06 11:21
-Author: Steven Maude (noreply@blogger.com)
+Author: Steven Maude
 Tags: device, unrecognized, error, HDD, erase, DBAN
 Slug: dariks-boot-and-nuke-unrecognized
 

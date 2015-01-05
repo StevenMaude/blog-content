@@ -1,6 +1,6 @@
 Title: Some spring winter Ubuntu cleaning
 Date: 2013-12-24 00:25
-Author: Steven Maude (noreply@blogger.com)
+Author: Steven Maude
 Tags: clean, free, LTS, TRIM, space, 12.04, kernel, encryption, dm-crypt, Ubuntu, boot
 Slug: some-spring-winter-ubuntu-cleaning
 

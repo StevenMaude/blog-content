@@ -1,6 +1,6 @@
 Title: Installing Python modules on Windows: unable to find vcvarsall.bat
 Date: 2013-10-05 21:42
-Author: Steven Maude (noreply@blogger.com)
+Author: Steven Maude
 Tags: scikit-learn, install, Python
 Slug: installing-python-modules-on-windows
 

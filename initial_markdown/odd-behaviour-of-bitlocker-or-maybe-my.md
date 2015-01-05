@@ -1,6 +1,6 @@
 Title: Odd behaviour of Bitlocker, or maybe my HDD...
 Date: 2013-10-13 20:55
-Author: Steven Maude (noreply@blogger.com)
+Author: Steven Maude
 Tags: partition, Bitlocker, backup, enclosure, bug, drive
 Slug: odd-behaviour-of-bitlocker-or-maybe-my
 

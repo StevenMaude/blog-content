@@ -1,6 +1,6 @@
 Title: Uses for a Raspberry Pi (part 1)
 Date: 2013-07-14 13:45
-Author: Steven Maude (noreply@blogger.com)
+Author: Steven Maude
 Tags: adapter, Pi, Airprint, Raspberry, wireless, wifi
 Slug: uses-for-a-raspberry-pi-part-1
 

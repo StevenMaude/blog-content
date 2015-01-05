@@ -1,6 +1,6 @@
 Title: Phone upgrades and privacy downgrades
 Date: 2014-03-28 21:59
-Author: Steven Maude (noreply@blogger.com)
+Author: Steven Maude
 Tags: Moto, G300, XPrivacy, Android, PDroid, Auto-Patcher
 Slug: phone-upgrades-and-privacy-downgrades
 

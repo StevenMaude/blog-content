@@ -1,6 +1,6 @@
 Title: Securely erasing SSD drives
 Date: 2014-01-12 15:13
-Author: Steven Maude (noreply@blogger.com)
+Author: Steven Maude
 Tags: hdparm, ATA, Secure, erase
 Slug: securely-erasing-ssd-drives
 

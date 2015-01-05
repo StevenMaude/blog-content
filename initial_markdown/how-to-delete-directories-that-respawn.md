@@ -1,6 +1,6 @@
 Title: How to delete directories that respawn in Windows 7
 Date: 2014-01-11 23:54
-Author: Steven Maude (noreply@blogger.com)
+Author: Steven Maude
 Tags: annoyance, respawn, folder
 Slug: how-to-delete-directories-that-respawn
 

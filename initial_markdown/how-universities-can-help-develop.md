@@ -1,6 +1,6 @@
 Title: How universities can help develop researchers' post-university careers
 Date: 2014-12-13 00:27
-Author: Steven Maude (noreply@blogger.com)
+Author: Steven Maude
 Tags: researcher, university, postdoc, PhD, job, career
 Slug: how-universities-can-help-develop
 

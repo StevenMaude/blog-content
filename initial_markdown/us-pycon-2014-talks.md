@@ -1,6 +1,6 @@
 Title: US PyCon 2014 talks
 Date: 2014-04-19 16:31
-Author: Steven Maude (noreply@blogger.com)
+Author: Steven Maude
 Tags: scraping, lxml, BeautifulSoup, regular, testing, Python, expressions
 Slug: us-pycon-2014-talks
 

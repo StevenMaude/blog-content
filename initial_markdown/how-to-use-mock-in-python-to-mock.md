@@ -1,6 +1,6 @@
 Title: How to use mock in Python to mock methods on objects
 Date: 2014-05-10 11:05
-Author: Steven Maude (noreply@blogger.com)
+Author: Steven Maude
 Tags: mock, testing, test, unit, Python
 Slug: how-to-use-mock-in-python-to-mock
 
