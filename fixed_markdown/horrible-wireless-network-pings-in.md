@@ -56,7 +56,7 @@ and add the following lines to the newly created file:
 
 
 ```shell
-\#!/bin/sh
+#!/bin/sh
 
 /sbin/iwconfig wlan0 power off
 ```
