@@ -21,7 +21,7 @@ lonely blinking cursor where I expected my test results.
 Something was happening, but none of the tests were seemingly running.
 That is, I wasn't seeing any pass/fail indicators, which was strange.
 
-### What actually happened
+## What actually happened
 
 Something was running that evidently wasn't what I intended.
 
@@ -54,7 +54,7 @@ So, when this module was being imported by the test module, the
 eventually, the tests would have run, but they'd run *after* the code in
 the `import` had finished, which would have taken **hours**.
 
-### Fixing the problem
+## Fixing the problem
 
 Normally, I routinely use:
 
