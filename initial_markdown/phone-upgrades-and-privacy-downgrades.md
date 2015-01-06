@@ -1,10 +1,12 @@
 Title: Phone upgrades and privacy downgrades
-Date: 2014-03-28 21:59
+Date: 2014-03-28 21:56
+Modified: 2014-03-28 21:59
 Author: Steven Maude
 Tags: Moto, G300, XPrivacy, Android, PDroid, Auto-Patcher
 Slug: phone-upgrades-and-privacy-downgrades
+Summary: Thoughts on upgrading my phone and app permissions.
 
-### G300 to Moto G
+## G300 to Moto G
 
 My G300 has been getting tired. It's a little irritating that I know
 it's inherently defective. There's a [flash memory
@@ -37,7 +39,7 @@ rooting the phone with Motorola's server not recognising the phone's
 unlock data. A couple of days later all went fine, but I've only just
 got time to start setting it up again.
 
-### PDroid to XPrivacy
+## PDroid to XPrivacy
 
 By setting it up, I mean the necessary business of moving existing data
 across from my old phone, as well as making sure my phone's rooted and
@@ -60,6 +62,3 @@ install it directly from Play Store.
 
 There's a CyanogenMod port for Moto G, but it's only nightly at the
 moment, so I think I'll try and see how I get on with stock for now.
-
-</p>
-
