@@ -1,14 +1,13 @@
 Title: Arduous lessons in Python: why main() is useful
-Date: 2014-07-05 11:42
+Date: 2014-07-05 11:34
+Modified: 2014-07-05 11:42
 Author: Steven Maude
 Tags: foolishness, name, main, Python, fix
 Slug: arduous-lessons-in-python-why-main-is
+Summary: Why if __name__ == '__main__'; is a sensible check in code you're reusing.
 
-<div class="separator" style="clear: both; text-align: center;">
-[![Python
-logo](http://1.bp.blogspot.com/-H-pwiTI3Mss/U7fgl39aaTI/AAAAAAAAAO0/hQH96CfEwmY/s320/python-logo-master-v3-TM.png)](http://1.bp.blogspot.com/-H-pwiTI3Mss/U7fgl39aaTI/AAAAAAAAAO0/hQH96CfEwmY/s1600/python-logo-master-v3-TM.png)
+![Python logo]({filename}/images/python_logo.png)
 
-</div>
 An ordinary afternoon and I'd wanted to work on some code locally on my
 machine. I knew the tests previously ran without any issue. So, after
 I'd cloned the repository locally, I ran `nosetests` to make sure
@@ -29,11 +28,19 @@ Something was running that evidently wasn't what I intended.
 On inspection, one of the import statements in the test code had a
 structure somewhat like:
 
-<div class="bgcode">
-    def some_function():    do some thingsdef another_function():    do some other thingsdef really_long_winded_scraping_function():    do lots of thingsreally_long_winded_scraping_function()
+```python
+def some_function():
+    do some things
 
-</div>
-</p>
+def another_function():
+    do some other things
+
+def really_long_winded_scraping_function():
+    do lots of things
+
+really_long_winded_scraping_function()
+```
+
 Bear in mind that when you import a module, the statements are actually
 executed. If you've just got function and class definitions in there,
 then this means that they get defined, but they aren't executed until
@@ -51,11 +58,11 @@ the `import` had finished, which would have taken **hours**.
 
 Normally, I routinely use:
 
-<div class="bgcode">
-    if __name__ == '__main__':    main()
+```python
+if __name__ == '__main__':
+    main()
+```
 
-</div>
-</p>
 in Python code that I start writing.
 
 From the [official
@@ -88,6 +95,3 @@ connection between our fix to the code and the tests taking an age.
 (This isn't a test specific problem. You'd notice it whenever you
 imported the code into another module. It just happened to be that the
 tests were the only other module that we'd imported the code into.)
-
-</p>
-
