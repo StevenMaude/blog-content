@@ -25,4 +25,4 @@ gave me the easy fix: **install Epson's Network
 Utility**.
 
 [^1]: That message made me revisit a [favourite track from
-2013](https://www.youtube.com/watch?v=2vtgHoBrh4w).</span>
+2013](https://www.youtube.com/watch?v=2vtgHoBrh4w).
