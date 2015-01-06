@@ -1,8 +1,10 @@
 Title: How to give back to open source software
-Date: 2014-03-22 17:58
+Date: 2014-03-21 22:53
+Modified: 2014-03-22 17:58
 Author: Steven Maude
 Tags: documentation, open, software, source, coding
 Slug: how-to-give-back-to-open-source-software
+Summary: Ways for developers and non-coders alike to contribute to open source software.
 
 Even if you have no idea what open source software is, it's likely
 you've either used some or, at the least, had some indirect experience
@@ -32,9 +34,9 @@ could. However, it may not be immediately obvious how you can get
 started, particularly if you're not a developer. Here are a few
 suggestions.
 
-### If you can code:
+## If you can code:
 
-#### Share your own projects
+### Share your own projects
 
 GitHub and Bitbucket both allow you to publish your own code as Git
 repositories, making them available to anyone. The sharing aspect aside,
@@ -42,7 +44,7 @@ it also provides you with a public backup (incidentally, Bitbucket
 offers free private repositories too), and means that you can access
 your code from any computer with an internet connection.
 
-#### Add features or fix bugs in other open source projects
+### Add features or fix bugs in other open source projects
 
 [GitHub
 suggest](https://help.github.com/articles/where-can-i-find-open-source-projects-to-work-on)
@@ -58,7 +60,7 @@ If you're using existing software, you may well encounter issues
 yourself that you want to fix for your own use case. I think I'd find
 this more motivating than just trying to pick out some project
 
-### If you're not a developer:
+## If you're not a developer:
 
 From the outside looking in, it's easy to think along the lines of,
 "software is code, so if I can't code, I can't contribute". That
@@ -66,7 +68,7 @@ couldn't be more wrong. There's much more to software projects than just
 the code, and there are still valuable ways for you to contribute that
 would be no less appreciated by the owners of a project.
 
-#### Write or translate
+### Write or translate
 
 At a very basic level, submitting documentation fixes or improvements is
 a great help as it helps other users get started. If no documentation,
@@ -84,7 +86,7 @@ then click "Send pull request" on the next page. The owner of the
 project will be notified that you've suggested some changes, which they
 can easily pull back into their project from their copy.
 
-#### Raise issues
+### Raise issues
 
 While you're using an open source project, you might spot a bug or think
 of something which would make a neat feature. If you check the available
@@ -100,12 +102,12 @@ save them to text files, but it should also tag the audio file too. This
 was something I hadn't thought of, but it seemed a nifty feature so I
 was happy to work on adding it as I felt it improved the software.
 
-#### Design
+### Design
 
 Maybe a project is looking for designers, for assets in the software
 (e.g. icons) or for their website?
 
-#### Contribute to the community
+### Contribute to the community
 
 Is there a piece of open source software that you know a lot about? Can
 you help out other users questions on an official forum, user group or
@@ -118,7 +120,7 @@ a lightweight audio editor (more so than Audacity) thanks to this post
 on
 [kvraudio](http://www.kvraudio.com/forum/viewtopic.php?f=7&t=405650&sid=290141ba72f888578036b63bf6bd3981)
 
-#### Donate
+### Donate
 
 Some open source projects have contributions made by paid employees, but
 many projects are developed by enthusiasts without any funding and in
@@ -135,12 +137,9 @@ quit their day jobs to work on projects.)
 In some cases, certainly, developers may well [welcome donations to
 acquire hardware for testing](http://www.rockbox.org/wiki/DonatedMoney).
 
-### Conclusion
+## Conclusion
 
 There are plenty of ways to get involved. The next time you're
 downloading an open source project, maybe consider taking a look around
 their web pages or their repositories to see if there's anything you can
 help with.
-
-</p>
-
