@@ -1,20 +1,20 @@
 Title: US PyCon 2014 talks
-Date: 2014-04-19 16:31
+Date: 2014-04-19 15:57
+Modified: 2014-04-19 16:31
 Author: Steven Maude
 Tags: scraping, lxml, BeautifulSoup, regular, testing, Python, expressions
 Slug: us-pycon-2014-talks
+Summary: Rundown of some great US PyCon talks I recently watched.
 
-<div class="separator" style="clear: both; text-align: center;">
-[![image](http://3.bp.blogspot.com/-KJkePvUHy8g/U1KcgYQYUoI/AAAAAAAAAM0/_Smeqo1-xIU/s320/python_logo.png)](http://3.bp.blogspot.com/-KJkePvUHy8g/U1KcgYQYUoI/AAAAAAAAAM0/_Smeqo1-xIU/s1600/python_logo.png)
+![Python logo]({filename}/images/python_logo.png)
 
-</div>
 The US PyCon took place over the last week or so and there are a huge
 selection of videos of the talks up at
 [pyvideo.org](http://pyvideo.org/category/50/pycon-us-2014). Still
 haven't got through all of the ones I want to take a look at, but the
 ones I've checked already were pretty good.
 
-### Regular expressions and testing
+## Regular expressions and testing
 
 Out of those I saw, I can definitely recommend two great mini tutorial
 talks; one on testing and one on regular expressions. What I loved about
@@ -62,7 +62,7 @@ Again, I'd seen, and have used, several of these ideas before, but to
 see them all presented in one place, and explained so well, makes it a
 good resource.
 
-### Scraping
+## Scraping
 
 Since I do a bit of web scraping, I also skimmed a couple of
 presentations given by Katharine Jarmul. [Her
@@ -94,6 +94,3 @@ you can hear a snippet of N.W.A.'s "Straight Outta Compton".
 
 If you watch any particularly thought-provoking or useful talks, please
 let me know! There's way too many to practically sit through.
-
-</p>
-
