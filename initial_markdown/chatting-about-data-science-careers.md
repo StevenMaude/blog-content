@@ -3,14 +3,12 @@ Date: 2014-06-22 21:47
 Author: Steven Maude
 Tags: data, careers, university, research, science, Cambridge
 Slug: chatting-about-data-science-careers
+Summary: Write-up of a careers event I participated in at the University of Cambridge.
 
-### Visiting Cambridge
+## Visiting Cambridge
 
-<div class="separator" style="clear: both; text-align: center;">
-[![A photo of a street in
-Cambridge](http://4.bp.blogspot.com/-FTqXwz96-Vs/U6dNoLWxfzI/AAAAAAAAAOQ/-d8l2kmvrSI/s320/Cambridge_1.jpg)](http://4.bp.blogspot.com/-FTqXwz96-Vs/U6dNoLWxfzI/AAAAAAAAAOQ/-d8l2kmvrSI/s1600/Cambridge_1.jpg)
+![A photo of a street in Cambridge]({filename}/images/Cambridge_1.jpg)
 
-</div>
 I visited Cambridge this week. Though I know Oxford fairly well, somehow
 I'd manage to avoid ever travelling to Cambridge before, so being in a
 lovely city and surrounded by things new to me (though mostly far older
@@ -25,13 +23,12 @@ The day started with brief talks from the careers staff and one of the
 guests. In a short session, they divulged several ideas that I'd taken
 far longer to collect either from reading around, the careers programme
 I attended last year, or by a slow realisation during my career
-searching process last year. [[1]](#f1)
+searching process last year.[^1]
 
 After a brief session where I and the other nine invited speakers
 introduced themselves to everyone, the rest of the day was spent talking
 with small groups of postdocs. Much discussion seemed to centre around
-what my work involves, and how I eventually found my job.
-[[2]](#f2)[[3]](#f3)
+what my work involves, and how I eventually found my job.[^2][^3]
 
 This type of event seems a great way for people to get inspired about
 what kind of careers they could consider a move into, especially if
@@ -47,7 +44,7 @@ managed to encourage those who, on speaking to them, seemed like they
 definitely had relevant skills, but they weren't entirely sure whether
 it was an option for them to explore.
 
-### PhDs moving from research to industry
+## PhDs moving from research to industry
 
 There were two thoughts that I took away from the event. First, contrary
 to my preconceptions, it seemed that from the experiences of some of the
@@ -62,11 +59,8 @@ a disconnect between employers looking for well qualified PhDs and the
 candidates themselves. The jobs are there. The candidates are there.
 But, for whatever reason, they're missing each other.
 
-<div class="separator" style="clear: both; text-align: center;">
-[![Another photo taken in
-Cambridge](http://4.bp.blogspot.com/-jHIHUga_35U/U6dOFZpX8AI/AAAAAAAAAOY/cFX7i45hnUg/s320/Cambridge_2.jpg)](http://4.bp.blogspot.com/-jHIHUga_35U/U6dOFZpX8AI/AAAAAAAAAOY/cFX7i45hnUg/s1600/Cambridge_2.jpg)
+![Another photo taken in Cambridge]({filename}/images/Cambridge_2.jpg)
 
-</div>
 From my experience as a researcher, I'd suggest a part of the problem is
 that PhDs and postdocs may be simply unaware of the range of
 opportunities available to them. For data science at least, there are
@@ -86,8 +80,7 @@ in my career move. Thanks to Anne Forde of Cambridge University's
 Careers Service and Kim Nilsson of [S2DS](http://s2ds.org/) for inviting
 me to participate!
 
-<div style="font-size: x-small;">
-<a name="f1">[1]</a> More specifically, small bits of wisdom such as
+[^1]: More specifically, small bits of wisdom such as
 these. Figuring out what you like in your current work, what your
 strengths are and what your priorities in work are. Having these things
 clear in your mind really does help you filter prospective jobs or
@@ -106,18 +99,14 @@ And, another point that was emphasised, which is really important, is
 title alone. You may find that you're already more than capable of
 meeting the candidate requirements.
 
-<a name="f2">[2]</a> One good question that came up a couple of times
+[^2]: One good question that came up a couple of times
 and I didn't have an instinctive answer for was: how do the longer term
 careers of data scientists progress? My excuse was that I'd just started
 out in my career and data science is still relatively new. Kim also
 mentioned that she saw lots of opportunities to specialise and find a
 niche.
 
-<a name="f3">[3]</a> Perhaps it shouldn't have surprised me so much.
+[^3]: Perhaps it shouldn't have surprised me so much.
 Checking over my own notes from last year, those were the main questions
 I was asking the data scientists that I chatted to in informational
 interviews.
-
-</div>
-</p>
-
