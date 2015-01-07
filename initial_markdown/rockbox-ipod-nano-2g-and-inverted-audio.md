@@ -1,13 +1,13 @@
 Title: Rockbox, iPod Nano 2G and inverted audio channels
-Date: 2014-04-08 21:25
+Date: 2014-04-08 21:24
+Modified: 2014-04-08 21:25
 Author: Steven Maude
 Tags: Rockbox, Nano, iPod, bug
 Slug: rockbox-ipod-nano-2g-and-inverted-audio
+Summary: Discovering an (old) bug in Rockbox swapping audio channels on iPod Nano 2G.
 
-<div class="separator" style="clear: both; text-align: center;">
-[![image](http://3.bp.blogspot.com/-0gt5eqMCNec/U0RopBNQJrI/AAAAAAAAAME/X9HHTp6eYGk/s320/rockbox3540.jpg)](http://3.bp.blogspot.com/-0gt5eqMCNec/U0RopBNQJrI/AAAAAAAAAME/X9HHTp6eYGk/s1600/rockbox3540.jpg)
+![Rockbox logo]({filename}/images/rockbox3540.jpg)
 
-</div>
 I do a lot of listening to music and podcasts with a trusty old second
 generation iPod Nano running [Rockbox](http://www.rockbox.org). What
 [XBMC](http://xbmc.org) is to video playback, Rockbox is for audio
@@ -29,6 +29,3 @@ In the end, searching Rockbox's issue tracker eventually confirmed this:
 the swapping of channels is a known bug, [though no-one's fixed it
 yet](http://www.rockbox.org/tracker/task/12708). Not a big deal, and the
 easy fix, of course, is to just switch headphones around.
-
-</p>
-
