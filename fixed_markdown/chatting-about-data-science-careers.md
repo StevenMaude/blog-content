@@ -28,7 +28,9 @@ searching process last year.[^1]
 After a brief session where I and the other nine invited speakers
 introduced themselves to everyone, the rest of the day was spent talking
 with small groups of postdocs. Much discussion seemed to centre around
-what my work involves, and how I eventually found my job.[^2][^3]
+what my work involves, and how I eventually found my job.[^2] [^3]
+
+[//]: # (Footnote styling needs tidying, maybe [1][2]?)
 
 This type of event seems a great way for people to get inspired about
 what kind of careers they could consider a move into, especially if
