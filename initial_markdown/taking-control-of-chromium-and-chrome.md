@@ -1,25 +1,33 @@
 Title: Taking control of Chromium (and Chrome) with µblock and HTTP Switchboard
 Date: 2014-09-28 00:02
+Modified: 2015-01-09 00:20
 Author: Steven Maude
 Tags: ad, µblock, HTTP Switchboard, blocking, privacy, adblock
 Slug: taking-control-of-chromium-and-chrome
+Summary: How you can use µblock and HTTP Switchboard to take control of what your browser loads.
+
+Edit 2015-01-09: HTTP Switchboard development is discontinued and has been
+replaced with [µMatrix](https://github.com/gorhill/uMatrix). The
+interface is largely unchanged. One problem at the time of writing is a
+[Chromium bug](https://github.com/gorhill/uBlock/issues/419) which I
+think is the cause of the UI being really laggy to appear. Hopefully,
+this should be fixed soon.
 
 After tinkering around with Adblock's filters to block some ads, I
 remembered that I'd read about an alternative to Adblock for
 Chromium-based browsers called [HTTP
-Switchboard](https://github.com/gorhill/httpswitchboard)a few months ago
+Switchboard](https://github.com/gorhill/httpswitchboard) a few months ago
 and figured I should actually give it a try.
 
 One of the reasons that HTTP Switchboard was notable is that it promised
-to be much more CPU and memory friendly than [Adblock
-Plus](https://blog.mozilla.org/nnethercote/2014/05/14/adblock-pluss-effect-on-firefoxs-memory-usage/)currently
-is.
+to be much more CPU and memory friendly than [Adblock Plus](https://blog.mozilla.org/nnethercote/2014/05/14/adblock-pluss-effect-on-firefoxs-memory-usage/)
+currently is.
 
 In fact, the adblocking part of HTTP Switchboard has now been separated
 out into another project, µblock. Both are still useful. I'll explain
 why below.
 
-### Why are you blocking content at all?
+## Why are you blocking content at all?
 
 Many content-driven websites use advertising as their business model. My
 feeling is that, while sites are welcome to try and send content to my
@@ -36,7 +44,7 @@ But, my privacy and computer security are more important to me than the
 financial success or failure of an external organisation. That I put my
 priorities in this order is kind of obvious though, right?
 
-### Why shouldn't sites and advertisers worry so much?
+## Why shouldn't sites and advertisers worry so much?
 
 Even with "despicable" users like me, there are two reasons I can think
 of as to why advertisers and sites dependent on them shouldn't feel so
@@ -51,14 +59,15 @@ glum:
     are going to bother to root their devices or install alternative
     browsers just for adblocking?
 
-### But why worry about where displayed web content originates from?
+## But why worry about where displayed web content originates from?
 
-#### Privacy
+### Privacy
 
 One contentious issue with ads and cookies is privacy.
 
 As [this Economist
-article](http://www.economist.com/news/special-report/21615871-everything-people-do-online-avidly-followed-advertisers-and-third-party)highlights,
+article](http://www.economist.com/news/special-report/21615871-everything-people-do-online-avidly-followed-advertisers-and-third-party)
+highlights,
 the depth of what advertisers collect about your browsing habits is
 extensive, and it's handled and passed around by many organisations.
 Unless you're all for being advertised at, this isn't for your benefit.
@@ -74,7 +83,7 @@ But, the sheer amount of information being collected is worrying,
 especially when, as a user, I've no idea of what's actually being
 tracked and what the intended end use is.
 
-#### Malware
+### Malware
 
 As well as that, web advertising has been a conduit for the deployment
 of malware previously and will no doubt continue to be. (It's a nice way
@@ -84,9 +93,9 @@ company providing the advertising, they don't need to go to the trouble
 of hacking the site directly.)
 
 There have been
-[one](http://arstechnica.com/security/2014/09/google-stops-malicious-advertising-campaign-that-could-have-reached-millions/)or
-[two](http://www.washingtonpost.com/blogs/the-switch/wp/2014/01/04/thousands-of-visitors-to-yahoo-com-hit-with-malware-attack-researchers-say/)high-profile
-incidents this year too.
+[one](http://arstechnica.com/security/2014/09/google-stops-malicious-advertising-campaign-that-could-have-reached-millions/)
+or [two](http://www.washingtonpost.com/blogs/the-switch/wp/2014/01/04/thousands-of-visitors-to-yahoo-com-hit-with-malware-attack-researchers-say/)
+high-profile incidents this year too.
 
 In terms of potentially malicious content, it's not only just ad
 providers that I'm concerned with, but allowing large numbers of
@@ -108,7 +117,7 @@ load from can't be a bad thing. (There's some risk wherever you go, but
 in some cases, I've seen sites loading in content from more sites than I
 can count on both hands.)
 
-### Controlling what your browser displays
+## Controlling what your browser displays
 
 So, what can you do? There are browser extensions for Firefox and Chrome
 that give you more control over what your browser loads.
@@ -131,21 +140,18 @@ was.
 HTTP Switchboard was a big, all encompassing project for Chromium-based
 browsers that had features comparable to Adblock Plus, and the Firefox
 extensions, NoScript, RequestPolicy. Recently, the [adblocking,
-pattern-based
-filtering](https://github.com/gorhill/httpswitchboard/issues/378)has
-been split out into another project,
+pattern-based filtering](https://github.com/gorhill/httpswitchboard/issues/378)
+has been split out into another project,
 [µblock](https://github.com/gorhill/ublock).
 
-### µblock
+## µblock
 
 By virtue of what HTTP Switchboard aims to do — give you full control of
 what is allowed by your browser — this makes its user interface slightly
 more complex, which I'll soon get onto.
 
-<div class="separator" style="clear: both; text-align: center;">
-[![image](http://3.bp.blogspot.com/-0MuAJn8Si6k/VCdIaeZshCI/AAAAAAAAARw/doYayogGl-Q/s240/ublock.png)](http://3.bp.blogspot.com/-0MuAJn8Si6k/VCdIaeZshCI/AAAAAAAAARw/doYayogGl-Q/s1600/ublock.png)
+![µblock's simple user interface]({filename}/images/ublock.png)
 
-</div>
 Stripping out this sophistication seems like a smart move, since
 µblock's incredibly easy to use. Really, it requires the same amount of
 setup as Adblock Plus does: not much at all.
@@ -163,13 +169,13 @@ looking at. Even if you're still happy using Adblock Plus (or one of its
 forks), µblock is definitely worth spending the couple of minutes to try
 it out.
 
-### HTTP Switchboard
+## HTTP Switchboard
 
 On to HTTP Switchboard, which allows fine grained control of the types
 and locations of content that Chromium-based browser can access.
 
 Note that with the current version of HTTP Switchboard, there's a little
-[initial setup](https://github.com/gorhill/httpswitchboard/issues/378)to
+[initial setup](https://github.com/gorhill/httpswitchboard/issues/378) to
 disable the adblocking filtering that µBlock covers.
 
 HTTP Switchboard's interface can feel initially overwhelming; more so
@@ -178,14 +184,9 @@ I use which all have similar menus to allow or deny permission for a
 site to run scripts or store cookies. These have a text explanation of
 what the option does.
 
-<div class="separator" style="clear: both; text-align: center;">
-<figure>
-[![image](http://2.bp.blogspot.com/-AAc5-9CQ5mc/VCdKdXcWLlI/AAAAAAAAAR8/J4lxUUmo7c8/s400/Firefox_menus.png)](http://2.bp.blogspot.com/-AAc5-9CQ5mc/VCdKdXcWLlI/AAAAAAAAAR8/J4lxUUmo7c8/s1600/Firefox_menus.png)<figcaption>From
-left to right, examples of NoScript, CookieMonster and RequestPolicy
-permission menus when accessing Google Books.</figcaption>
+![From left to right, examples of NoScript, CookieMonster and RequestPolicy
+permission menus when accessing Google Books.]({filename}/images/Firefox_menus.png)
 
-</figure>
-</div>
 The problem with this menu format is, though it's explicit and clear,
 it's cumbersome when you're dealing with several extensions. For each
 extension, you need to repeat the process of whitelisting every site
@@ -196,14 +197,9 @@ simplicity clicks. HTTP Switchboard opts for a table-like interface.
 Each site is represented as a row, and each type of content is shown as
 a column.
 
-<div class="separator" style="clear: both; text-align: center;">
-<figure>
-[![image](http://2.bp.blogspot.com/-ciOxCsPhCIA/VCdLY8mKNbI/AAAAAAAAASE/hxpHxzHBZ_A/s400/HTTP_Switchboard.png)](http://2.bp.blogspot.com/-ciOxCsPhCIA/VCdLY8mKNbI/AAAAAAAAASE/hxpHxzHBZ_A/s1600/HTTP_Switchboard.png)<figcaption>Example
-of HTTP Switchboard's interface when accessing Google Books. Green
-entries are whitelisted.</figcaption>
+![Example of HTTP Switchboard's interface when accessing Google
+Books.]({filename}/images/HTTP_Switchboard.png)
 
-</figure>
-</div>
 This lets the user approve different permissions for different sites
 quickly. Just read down the list of sites, click on those you want to
 whitelist completely, and for those you don't you can allow specific
@@ -225,9 +221,9 @@ requests through, apart from those blacklisted by filters. What
 initially confused me was at what level the filters apply. (Do they
 apply to this site? To this domain? globally?).
 
-What I'd recommend is, like the extension developer, is to [block
-everything](https://github.com/gorhill/httpswitchboard/wiki/How-to-use-HTTP-Switchboard:-Two-opposing-views)by
-default and then whitelist only what you want to allow.
+What I'd recommend is, like the extension developer, is to
+[block everything](https://github.com/gorhill/httpswitchboard/wiki/How-to-use-HTTP-Switchboard:-Two-opposing-views)
+by default and then whitelist only what you want to allow.
 
 There's an option in the HTTP Switchboard settings under "more security"
 to create a new site-specific scope for every site you visit which is
@@ -252,7 +248,7 @@ delivery network" or "this is tracking how you're using the site; you
 probably don't need it for the site to function properly". Yes, I can
 search, but it's a bit clunky to do that.
 
-### A summary
+## A summary
 
 These are really great browser extensions, and credit to Raymond Hill
 for an awesome job on them. Every time I'm managing permissions with
@@ -264,11 +260,7 @@ Longer term, I'd really hope that a Firefox add-on developer [picks up
 the baton to port these](https://github.com/gorhill/uBlock/issues/27).
 
 (As a postscript, I should point out that as well as adblocking and
-control over requests, [HTTPS
-Everywhere](https://www.eff.org/https-everywhere)is another useful
-privacy-enhancing extension for Firefox and Chromium browsers. Where
-HTTPS browsing is available on sites but not always used, HTTPS
-Everywhere enables it for you.)
-
-</p>
-
+control over requests, [HTTPS Everywhere](https://www.eff.org/https-everywhere)
+is another useful privacy-enhancing extension for Firefox and Chromium
+browsers. Where HTTPS browsing is available on sites but not always used,
+HTTPS Everywhere enables it for you.)
