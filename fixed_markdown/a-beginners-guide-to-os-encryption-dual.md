@@ -43,7 +43,7 @@ Here's details of the three approaches I tested.
 
 * * * * *
 
-### Approach 1: Encrypt Windows 8 Pro with Bitlocker; encrypt Ubuntu with [LUKS](https://en.wikipedia.org/wiki/Linux_Unified_Key_Setup)
+## Approach 1: Encrypt Windows 8 Pro with Bitlocker; encrypt Ubuntu with [LUKS](https://en.wikipedia.org/wiki/Linux_Unified_Key_Setup)
 
 I followed [this guide](http://linuxtutorialscratchpad.blogspot.com/)
 with some success in that I was able to encrypt both systems.
@@ -69,7 +69,7 @@ getting these errors. I couldn't find much support for the problems I
 found, so perhaps it was some dual booting issue; if you have any ideas,
 please email or [let me know via Twitter](https://twitter.com/StevenMaude).
 
-### Approach 2: Encrypt Windows 7 Enterprise/Ultimate with Bitlocker; encrypt Ubuntu with LUKS
+## Approach 2: Encrypt Windows 7 Enterprise/Ultimate with Bitlocker; encrypt Ubuntu with LUKS
 
 ![Screengrab of Bitlocker's user interface in Windows
 7]({filename}/images/Bitlocker.png)
@@ -95,7 +95,7 @@ and just left it plugged in the whole time, it could easily be stolen
 with the PC. So, it was best that I didn't spend any more time
 considering this option.
 
-### Approach 3: Encrypt Windows 7 (any version) with TrueCrypt; encrypt Ubuntu with LUKS
+## Approach 3: Encrypt Windows 7 (any version) with TrueCrypt; encrypt Ubuntu with LUKS
 
 ![TrueCrypt program window showing options to create a new encrypted
 volume]({filename}/images/TrueCrypt.png)
@@ -135,7 +135,7 @@ and maybe more easily, [you can just delete the `efi` folder
 from the Ubuntu USB stick you
 prepare](http://askubuntu.com/questions/338894/how-to-disable-the-efi-check-in-13-04-x64).
 
-### Issues
+## Issues
 
 In terms of usability, apart from having to enter another password
 before I boot either OS, everything seems pretty much as if the drives
@@ -156,7 +156,7 @@ are:
 
 All in all, not too bad.
 
-### SSD encryption?
+## SSD encryption?
 
 After all that effort, software encryption might not even be the best
 way to go. Instead, as SSDs have become more affordable, using
