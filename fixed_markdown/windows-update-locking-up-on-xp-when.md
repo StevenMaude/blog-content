@@ -1,5 +1,5 @@
 Title: Windows Update locking up on XP when checking for updates: fixing the svchost.exe CPU usage problem
-Date: 2014-01-04 11:27
+Date: 2013-12-11 10:36
 Modified: 2014-01-04 11:27
 Author: Steven Maude
 Tags: hog, 100%, XP, Windows, freeze, CPU, update, security, fix
