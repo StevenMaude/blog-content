@@ -5,6 +5,7 @@ Author: Steven Maude
 Tags: PDF, ImageMagick, convert
 Slug: converting-pdfs-to-series-of-images
 Summary: Using ImageMagick or GraphicsMagick to convert pages of a PDF to individual images.
+Alias: /2013/05/converting-pdfs-to-series-of-images.html
 
 I'm currently taking the "[Introduction to Data
 Science](https://class.coursera.org/datasci-001/)" course via Coursera

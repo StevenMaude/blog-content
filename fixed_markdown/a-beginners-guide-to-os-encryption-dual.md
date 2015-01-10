@@ -5,6 +5,7 @@ Author: Steven Maude
 Tags: disk, Bitlocker, Linux, Windows, encryption, TrueCrypt, drive, Ubuntu
 Slug: a-beginners-guide-to-os-encryption-dual
 Summary: How to encrypt Windows and Ubuntu in a dual boot system.
+Alias: /2013/09/a-beginners-guide-to-os-encryption-dual.html
 
 ![A padlock with a key]({filename}/images/Padlock_and_key.jpg)
 

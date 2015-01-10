@@ -5,6 +5,7 @@ Author: Steven Maude
 Tags: Bitlocker, backup, encryption, USB, HDD, external, TrueCrypt, drive
 Slug: how-to-secure-your-storage-and-backup
 Summary: A guide to securing data on external and backup drives by encrypting them.
+Alias: /2013/09/how-to-secure-your-storage-and-backup.html
 
 If you use computers even a little, you'll probably have acquired a few
 external USB drives. They're cheap, reasonably quick and small, so it's

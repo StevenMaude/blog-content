@@ -5,6 +5,7 @@ Author: Steven Maude
 Tags: encryption, Android
 Slug: android-device-encryption-is-mostly-good
 Summary: Encrypting Android and the usability issues that arise.
+Alias: /2014/04/android-device-encryption-is-mostly-good.html
 
 If you've read other posts here, you might notice that I've gone through
 a phase of

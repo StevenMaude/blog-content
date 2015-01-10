@@ -5,6 +5,7 @@ Author: Steven Maude
 Tags: university, startup, academia, research, tech, job, career
 Slug: differences-between-working-in
 Summary: A comparison of the differences between working in university research and working in a technology startup.
+Alias: /2013/11/differences-between-working-in.html
 
 In August this year, my academic postdoc contract ended and I moved on
 to working at a [data science tech startup](https://scraperwiki.com/)

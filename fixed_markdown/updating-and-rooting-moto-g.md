@@ -5,6 +5,7 @@ Author: Steven Maude
 Tags: Moto, firmware, upgrade, Android, system, root
 Slug: updating-and-rooting-moto-g
 Summary: How to restore a Moto G to stock firmware, unlock bootloader and gain root access.
+Alias: /2014/08/updating-and-rooting-moto-g.html
 
 ## My Moto G has been nagging me to upgrade firmware
 

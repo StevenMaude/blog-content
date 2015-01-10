@@ -5,6 +5,7 @@ Author: Steven Maude
 Tags: Moto, G300, XPrivacy, Android, PDroid, Auto-Patcher
 Slug: phone-upgrades-and-privacy-downgrades
 Summary: Thoughts on upgrading my phone and app permissions.
+Alias: /2014/03/phone-upgrades-and-privacy-downgrades.html
 
 ## G300 to Moto G
 

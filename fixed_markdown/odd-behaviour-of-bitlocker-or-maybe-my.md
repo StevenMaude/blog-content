@@ -5,6 +5,7 @@ Author: Steven Maude
 Tags: partition, Bitlocker, backup, enclosure, bug, drive
 Slug: odd-behaviour-of-bitlocker-or-maybe-my
 Summary: Description of some strange behaviour I observed when setting up a USB drive with Bitlocker.
+Alias: /2013/10/odd-behaviour-of-bitlocker-or-maybe-my.html
 
 As [I'd previously
 mentioned](http://www.stevenmaude.co.uk/2013/09/how-to-secure-your-storage-and-backup.html),

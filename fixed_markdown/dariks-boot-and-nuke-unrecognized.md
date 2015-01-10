@@ -5,6 +5,7 @@ Author: Steven Maude
 Tags: device, unrecognized, error, HDD, erase, DBAN
 Slug: dariks-boot-and-nuke-unrecognized
 Summary: Fixing unrecognized device errors in Darik's Boot and Nuke.
+Alias: /2013/08/dariks-boot-and-nuke-unrecognized.html
 
 *Edit 2014/01/04: I've written a [more recent
 post](http://www.stevenmaude.co.uk/2014/01/securely-erasing-ssd-drives.html)

@@ -5,6 +5,7 @@ Author: Steven Maude
 Tags: high, ping, latency, wireless, wifi, Ubuntu
 Slug: horrible-wireless-network-pings-in
 Summary: A quick guide on how to fix high and variable pings when connecting to wireless networks using Ubuntu Linux.
+Alias: /2013/11/horrible-wireless-network-pings-in.html
 
 Yesterday I had an important video call that I needed to carry out under
 Ubuntu as I need to demo some of my work. About two minutes before it

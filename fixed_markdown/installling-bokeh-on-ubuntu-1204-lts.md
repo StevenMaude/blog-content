@@ -5,6 +5,7 @@ Author: Steven Maude
 Tags: plot, Python, Bokeh
 Slug: installling-bokeh-on-ubuntu-1204-lts
 Summary: Fixing a problem with installing Bokeh on Ubuntu.
+Alias: /2013/11/installling-bokeh-on-ubuntu-1204-lts.html
 
 Today I plotted some data which I intend to use in a blog post. The
 Google Docs output I was working with wasn't exactly that pleasant to

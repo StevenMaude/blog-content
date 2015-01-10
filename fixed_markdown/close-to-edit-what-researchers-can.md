@@ -5,6 +5,7 @@ Author: Steven Maude
 Tags: journal, research, job, academic, editing, publishing
 Slug: close-to-edit-what-researchers-can
 Summary: What scientific researchers can get out of working at journals; my experience of applying for a role as editor at a high-profile journal.
+Alias: /2013/05/close-to-edit-what-researchers-can.html
 
 As I mentioned previously, I've been looking for a new job over the past
 few months, since my current research contract is ending imminently.

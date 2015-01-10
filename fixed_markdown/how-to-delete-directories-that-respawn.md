@@ -5,6 +5,7 @@ Author: Steven Maude
 Tags: annoyance, respawn, folder, Windows
 Slug: how-to-delete-directories-that-respawn
 Summary: How to delete seemingly undeletable folders that instantly reappear in Windows 7.
+Alias: /2014/01/how-to-delete-directories-that-respawn.html
 
 I'd migrated a huge collection of files from a backup of a dusty old XP
 install to a shiny new Windows 7 install. I'd copied everything across

@@ -5,6 +5,7 @@ Author: Steven Maude
 Tags: Wordpress, blog, static, Jekyll, blogging, site, Pelican
 Slug: full-circle
 Summary: Thoughts on moving away from Blogger to a static site.
+Alias: /2014/03/full-circle.html
 
 ## Blogger and blogging
 

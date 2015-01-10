@@ -5,6 +5,7 @@ Author: Steven Maude
 Tags: data, app, leaky, Android, Juniper, privacy, PDroid
 Slug: leaky-phone-apps
 Summary: My view on third party phone apps that leak data.
+Alias: /2013/06/leaky-phone-apps.html
 
 My phone doesn't have a huge number of third party apps installed, but
 saw this chart today and it's a little worrying nonetheless:

@@ -5,6 +5,7 @@ Author: Steven Maude
 Tags: Heartbleed, security, communication
 Slug: heartbleed-ill-communication
 Summary: On the lack of communication of websites as to the impact of Heartbleed.
+Alias: /2014/05/heartbleed-ill-communication.html
 
 ![Heartbleed logo]({filename}/images/heartbleed.png)
 

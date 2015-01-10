@@ -5,6 +5,7 @@ Author: Steven Maude
 Tags: server, Samba, radio, Pi, tracklisting, Raspberry, iplayer, Python, get_iplayer
 Slug: uses-for-a-raspberry-pi-part-2
 Summary: Running the Raspberry Pi as a file and media server, and as a PVR with get_iplayer.
+Alias: /2013/07/uses-for-a-raspberry-pi-part-2.html
 
 ![A Raspberry Pi working hard!]({filename}/images/Raspberry_Pi.jpg)
 

@@ -5,6 +5,7 @@ Author: Steven Maude
 Tags: clean, free, LTS, TRIM, space, 12.04, kernel, encryption, dm-crypt, Ubuntu, boot
 Slug: some-spring-winter-ubuntu-cleaning
 Summary: Some Ubuntu tips: setting up TRIM on an encrypted drive for 12.04 LTS and freeing up space on the boot partition.
+Alias: /2013/12/some-spring-winter-ubuntu-cleaning.html
 
 [//]: # (Title needs strikethrough - <s> works, but is there a better way?)
 

@@ -5,6 +5,7 @@ Author: Steven Maude
 Tags: Android, PDroid, Auto-Patcher
 Slug: patching-android-roms-for-pdroid-using
 Summary: How to modify Android ROMs using Auto-Patcher to enable the PDroid privacy controls app.
+Alias: /2013/05/patching-android-roms-for-pdroid-using.html
 
 Edit 2014/03/28: Auto-Patcher is deprecated; see [my more recent
 post](http://www.stevenmaude.co.uk/2014/03/phone-upgrades-and-privacy-downgrades.html).

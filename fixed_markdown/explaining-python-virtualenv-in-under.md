@@ -5,6 +5,7 @@ Author: Steven Maude
 Tags: virtualenv, development, Linux, programming, Python, Ubuntu, coding
 Slug: explaining-python-virtualenv-in-under
 Summary: How to setup virtualenvs to simplify Python software development.
+Alias: /2013/08/explaining-python-virtualenv-in-under.html
 
 I've been busy the last couple of weeks. Recently, I started a late
 summer/early autumn internship at

@@ -5,6 +5,7 @@ Author: Steven Maude
 Tags: hog, 100%, XP, Windows, freeze, CPU, update, security, fix
 Slug: windows-update-locking-up-on-xp-when
 Summary: How to fix the recent (2013) freezing of Windows Update on XP machines due to svchost.exe being stuck at full (100%) CPU usage.
+Alias: /2013/12/windows-update-locking-up-on-xp-when.html
 
 It does seem ridiculous that Windows XP has been around for quite so
 long. Of course, you should be thinking about moving away from Windows

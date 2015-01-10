@@ -5,6 +5,7 @@ Author: Steven Maude
 Tags: theme, Aero, Windows, lag, delay
 Slug: making-aero-theme-settings-stick-in
 Summary: How to fix Aero visual effects settings that keep resetting to default in Windows.
+Alias: /2014/01/making-aero-theme-settings-stick-in.html
 
 If you've used any recent version of Windows which is running an [Aero
 theme](https://en.wikipedia.org/wiki/Windows_Aero), you've probably

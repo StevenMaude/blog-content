@@ -5,6 +5,7 @@ Author: Steven Maude
 Tags: hdparm, ATA, Secure, erase
 Slug: securely-erasing-ssd-drives
 Summary: How to securely erase drives with the ATA Secure Erase function via hdparm.
+Alias: /2014/01/securely-erasing-ssd-drives.html
 
 So, it turns out that [I was wrong about the motherboard being the cause
 of my recent Windows hibernate

@@ -5,6 +5,7 @@ Author: Steven Maude
 Tags: ad, µblock, HTTP Switchboard, blocking, privacy, adblock
 Slug: taking-control-of-chromium-and-chrome
 Summary: How you can use µblock and HTTP Switchboard to take control of what your browser loads.
+Alias: /2014/09/taking-control-of-chromium-and-chrome.html
 
 Edit 2015-01-09: HTTP Switchboard development is discontinued and has been
 replaced with [µMatrix](https://github.com/gorhill/uMatrix). The

@@ -5,6 +5,7 @@ Author: Steven Maude
 Tags: documentation, open, software, source, coding
 Slug: how-to-give-back-to-open-source-software
 Summary: Ways for developers and non-coders alike to contribute to open source software.
+Alias: /2014/03/how-to-give-back-to-open-source-software.html
 
 Even if you have no idea what open source software is, it's likely
 you've either used some or, at the least, had some indirect experience

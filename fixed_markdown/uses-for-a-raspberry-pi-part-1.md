@@ -5,6 +5,7 @@ Author: Steven Maude
 Tags: adapter, Pi, Airprint, Raspberry, wireless, wifi
 Slug: uses-for-a-raspberry-pi-part-1
 Summary: A few simple, but useful, applications for a Raspberry Pi, including a wireless adapter and AirPrint server.
+Alias: /2013/07/uses-for-a-raspberry-pi-part-1.html
 
 ![A powered on Raspberry Pi]({filename}/images/Raspberry_Pi.jpg)
 

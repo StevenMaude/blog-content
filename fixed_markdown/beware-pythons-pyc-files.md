@@ -5,6 +5,7 @@ Author: Steven Maude
 Tags: Python, pyc
 Slug: beware-pythons-pyc-files
 Summary: When Python's pyc files cause errors, it's time to remove them.
+Alias: /2014/05/beware-pythons-pyc-files.html
 
 A quick reminder to myself more than anything.
 

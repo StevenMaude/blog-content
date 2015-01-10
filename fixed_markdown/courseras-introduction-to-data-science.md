@@ -5,6 +5,7 @@ Author: Steven Maude
 Tags: data, course, Coursera, analytics, science
 Slug: courseras-introduction-to-data-science
 Summary: What I made of the recent Coursera Introduction to Data Science course.
+Alias: /2013/06/courseras-introduction-to-data-science.html
 
 I've recently become a lot more interested in what [data
 science](http://en.wikipedia.org/wiki/Data_science) involves — to the

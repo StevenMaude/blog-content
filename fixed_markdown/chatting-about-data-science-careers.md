@@ -4,6 +4,7 @@ Author: Steven Maude
 Tags: data, careers, university, research, science, Cambridge
 Slug: chatting-about-data-science-careers
 Summary: Write-up of a careers event I participated in at the University of Cambridge.
+Alias: /2014/06/chatting-about-data-science-careers.html
 
 ## Visiting Cambridge
 

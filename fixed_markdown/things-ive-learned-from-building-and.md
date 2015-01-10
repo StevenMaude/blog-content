@@ -5,6 +5,7 @@ Author: Steven Maude
 Tags: Bitlocker, build, PC, learning, heatsink, motherboard, ASUS, assembly
 Slug: things-ive-learned-from-building-and
 Summary: Things I've learned from building (and rebuilding) a PC.
+Alias: /2013/12/things-ive-learned-from-building-and.html
 
 ![Image of an assembled PC.]({filename}/images/PC.jpg)
 

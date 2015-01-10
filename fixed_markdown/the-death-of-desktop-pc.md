@@ -5,6 +5,7 @@ Author: Steven Maude
 Tags: laptop, tablet, desktop, PC
 Slug: the-death-of-desktop-pc
 Summary: On why desktop PCs still have life in them yet.
+Alias: /2014/03/the-death-of-desktop-pc.html
 
 Today I saw [this clip](https://www.youtube.com/watch?v=zO4JIg-68gg)
 which declares that desktop PCs are ready to be consigned to the

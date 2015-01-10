@@ -5,6 +5,7 @@ Author: Steven Maude
 Tags: annoyance, Windows, Firefox
 Slug: firefox-21-annoyances
 Summary: A couple of recent Firefox features that annoyed me.
+Alias: /2013/05/firefox-21-annoyances.html
 
 This week Firefox 21 was released
 and there are two features of it that have irritated me.

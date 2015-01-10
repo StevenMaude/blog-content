@@ -5,6 +5,7 @@ Author: Steven Maude
 Tags: researcher, university, postdoc, PhD, job, career
 Slug: how-universities-can-help-develop
 Summary: My account of a new and intensive career development programme for postdoctoral researchers leaving university.
+Alias: /2013/08/how-universities-can-help-develop.html
 
 > "You do three years, then a couple
 > more, and then – my God, what next? A master's, a PhD … and never a

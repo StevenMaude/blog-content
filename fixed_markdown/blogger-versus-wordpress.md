@@ -5,6 +5,7 @@ Author: Steven Maude
 Tags: Wordpress, Blogger, blogging
 Slug: blogger-versus-wordpress
 Summary: Deciding on what blogging platform to use.
+Alias: /2013/05/blogger-versus-wordpress.html
 
 I've been wanting to start writing more and I figured a blog would be a
 sensible outlet for that. The problem is that it's very easy —

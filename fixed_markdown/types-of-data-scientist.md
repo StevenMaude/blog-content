@@ -5,6 +5,7 @@ Author: Steven Maude
 Tags: data, big, science, career
 Slug: types-of-data-scientist
 Summary: My take on the "Analyzing the Analyzers" report by Harlan Harris and co-authors.
+Alias: /2013/07/types-of-data-scientist.html
 
 A couple of days ago, I read this O'Reilly report, [Analyzing the
 Analyzers](http://oreilly.com/data/stratareports/analyzing-the-analyzers.csp),

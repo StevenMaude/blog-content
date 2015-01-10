@@ -5,6 +5,7 @@ Author: Steven Maude
 Tags: dependency, virtualenv, install, matplotlib, solution, Python, PyGTK
 Slug: installing-matplotlib-in-virtualenv
 Summary: Solving matplotlib's plotting backends being inaccessible in virtualenvs.
+Alias: /2013/09/installing-matplotlib-in-virtualenv.html
 
 Today I've been spending far too long installing
 [matplotlib](http://matplotlib.org/) into a Python virtualenv on Ubuntu

@@ -5,6 +5,7 @@ Author: Steven Maude
 Tags: foolishness, name, main, Python, fix
 Slug: arduous-lessons-in-python-why-main-is
 Summary: Why if `__name__ == '__main__'` is a sensible check in code you're reusing.
+Alias: /2014/07/arduous-lessons-in-python-why-main-is.html
 
 ![Python logo]({filename}/images/python_logo.png)
 

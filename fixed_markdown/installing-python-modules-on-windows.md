@@ -5,6 +5,7 @@ Author: Steven Maude
 Tags: scikit-learn, install, Python
 Slug: installing-python-modules-on-windows
 Summary: How to install scientific modules in Python on Windows.
+Alias: /2013/06/installing-python-modules-on-windows.html
 
 I'm in the middle of taking the [Coursera Data
 Science](https://www.coursera.org/course/datasci) course which is

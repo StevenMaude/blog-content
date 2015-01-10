@@ -5,6 +5,7 @@ Author: Steven Maude
 Tags: virtualenv, development, Python, Ubuntu
 Slug: explaining-python-virtualenvwrapper-in
 Summary: How to use virtualenvwrapper to manage your Python virtualenvs.
+Alias: /2013/09/explaining-python-virtualenvwrapper-in.html
 
 As I wrote previously,
 [virtualenv](http://www.stevenmaude.co.uk/2013/08/explaining-python-virtualenv-in-under.html)

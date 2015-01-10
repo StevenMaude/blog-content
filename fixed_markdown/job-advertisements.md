@@ -5,6 +5,7 @@ Author: Steven Maude
 Tags: vacancy, advert, job, fraction
 Slug: job-advertisements
 Summary: A tautological job specification.
+Alias: /2013/05/job-advertisements.html
 
 As my current work contract ends in a couple of months, I'm frantically
 looking for work which, of course, means reading many job postings.

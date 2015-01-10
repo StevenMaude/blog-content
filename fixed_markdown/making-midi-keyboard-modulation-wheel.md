@@ -5,6 +5,7 @@ Author: Steven Maude
 Tags: MIDI, production, keyboard, FL, VST, Studio, music, audio
 Slug: making-midi-keyboard-modulation-wheel
 Summary: How to get a mod wheel working with third-party plugins in FL Studio.
+Alias: /2014/04/making-midi-keyboard-modulation-wheel.html
 
 Been playing around with third-party VSTs in FL Studio and found I
 couldn't get the modulation wheel to work (though it works fine in the

@@ -5,6 +5,7 @@ Author: Steven Maude
 Tags: LED, Revolution, charging, bash, mouse, Logitech, slam, MX, red, fix
 Slug: its-not-often-that-i-think-of-technical
 Summary: Fixing a common charging issue of the Logitech MX Revolution where the battery red LED flashes when charging.
+Alias: /2013/11/its-not-often-that-i-think-of-technical.html
 
 ...this one is great. Normally I'm just relieved I've got something
 finally working and file the problem under 'done'.

@@ -5,6 +5,7 @@ Author: Steven Maude
 Tags: Rockbox, Nano, iPod, bug
 Slug: rockbox-ipod-nano-2g-and-inverted-audio
 Summary: Discovering an (old) bug in Rockbox swapping audio channels on iPod Nano 2G.
+Alias: /2014/04/rockbox-ipod-nano-2g-and-inverted-audio.html
 
 ![Rockbox logo]({filename}/images/rockbox3540.jpg)
 
