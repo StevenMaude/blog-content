@@ -4,6 +4,7 @@ Modified: 2015-01-09 18:10
 Author: Steven Maude
 Slug: contact-me
 Summary: How to contact me.
+Alias: /p/contact.html
 
 Oh, hi there!
 
