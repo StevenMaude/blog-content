@@ -7,7 +7,7 @@ Slug: us-pycon-2014-talks
 Summary: Rundown of some great US PyCon talks I recently watched.
 Alias: /2014/04/us-pycon-2014-talks.html
 
-![Python logo]({filename}/images/python_logo.png)
+<img class="article-image" src="{filename}/images/2014/python_logo.png" alt="The Python logo.">
 
 The US PyCon took place over the last week or so and there are a huge
 selection of videos of the talks up at
