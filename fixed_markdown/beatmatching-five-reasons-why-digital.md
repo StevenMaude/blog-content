@@ -12,7 +12,8 @@ Alias: /2014/01/beatmatching-five-reasons-why-digital.html
 
 ## DJ software: complete with the kitsch in sync
 
-![Sync button from a Vestax VCI-100]({filename}/images/sync.jpg)
+<img class="article-image" src="{filename}/images/2014/sync.jpg" alt="Sync button from a Vestax VCI-100." width="400">
+
 There's a view — one I guess is primarily propagated by people who were DJing
 long before the likes of Traktor and Serato[^1] came
 along — that using [software on laptops doesn't really "count" as
@@ -85,7 +86,7 @@ learning to do this myself, I shouldn't use any of these tools ." But,
 when you're learning to manually beatmatch, **these features are still
 really useful**. So what do we have?
 
-![Traktor deck showing sync button, phase meter and grid options with a BPM counter]({filename}/images/Traktor_layout.png)
+<img class="article-image" src="{filename}/images/2014/Traktor_layout.png" alt="Traktor deck showing sync button, phase meter and grid options with a BPM counter.">
 
 ### Phase meter
 
@@ -148,7 +149,7 @@ the live track; also useful in developing beatmatching skills.
 
 ### Recording
 
-![Traktor's audio recorder options]({filename}/images/Audio_recorder.png)
+<img class="article-image" src="{filename}/images/2014/Audio_recorder.png" alt="Traktor's audio recorder options.">
 
 It's not always easy to judge how well your beatmatching is while you're
 actually doing it. Recording your practice and listening back to see how
