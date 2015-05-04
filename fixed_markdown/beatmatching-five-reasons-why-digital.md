@@ -8,8 +8,7 @@ Summary: Why digital DJs should learn to beatmatch, and the tools that Traktor o
 Alias: /2014/01/beatmatching-five-reasons-why-digital.html
 
 2014/02/09: An edited version of this post was recently republished on
-[DJ
-TechTools](http://www.djtechtools.com/2014/01/31/how-traktor-can-help-you-learn-to-beatmatch/).
+[DJ TechTools](http://www.djtechtools.com/2014/01/31/how-traktor-can-help-you-learn-to-beatmatch/).
 
 ## DJ software: complete with the kitsch in sync
 
