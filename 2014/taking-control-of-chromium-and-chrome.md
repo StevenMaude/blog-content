@@ -151,7 +151,7 @@ By virtue of what HTTP Switchboard aims to do — give you full control of
 what is allowed by your browser — this makes its user interface slightly
 more complex, which I'll soon get onto.
 
-<img class="center-block" src="{filename}/images/2014/ublock.png" alt="The µblock enable/disable icon." width="174">
+<img class="article-image" src="{filename}/images/2014/ublock.png" alt="The µblock enable/disable icon." width="174">
 
 Stripping out this sophistication seems like a smart move, since
 µblock's incredibly easy to use. Really, it requires the same amount of
