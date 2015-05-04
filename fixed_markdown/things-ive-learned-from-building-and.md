@@ -46,67 +46,65 @@ on it, I just gave up and just ordered another board instead, and
 
 ## So, some things I learned:
 
-1. Unless you constantly keep track of what's going on in the world of
+1\. Unless you constantly keep track of what's going on in the world of
 PC components, **the choice of PC components is a little overwhelming**.
 For me, getting several use out of a PC isn't unreasonable with some
 minor upgrades. My desktop is over six years old and I'm not that
 interested in keeping up with what's going on if my current setup works
 well enough...[^2]
 
-    For me, it kept feeling like I was always on the verge of making a poor
-    purchasing choice. There are plenty of reviews online, but it takes time
-    to delve into them. On the other hand,
-    [PCPartPicker](http://pcpartpicker.com/) didn't exist the last time I'd
-    bought lots of PC components and I found that useful for price
-    comparisons.
+For me, it kept feeling like I was always on the verge of making a poor
+purchasing choice. There are plenty of reviews online, but it takes time
+to delve into them. On the other hand,
+[PCPartPicker](http://pcpartpicker.com/) didn't exist the last time I'd
+bought lots of PC components and I found that useful for price
+comparisons.
 
-2. When I first applied thermal compound to the heatsink, I used this
+2\. When I first applied thermal compound to the heatsink, I used this
 [two parallel lines
 method](http://archive.benchmarkreviews.com/index.php?option=com_content&task=view&id=150&Itemid=62&limit=1&limitstart=5)
 as I was using a heatpipe direct touch (HDT) cooler. After removing the
 heatsink from the CPU when rebuilding, I found that it had worked well,
 giving a good uniform coating across the CPU.
 
-3. Small **70% isopropyl alcohol medical wipes do a great job of
+3\. Small **70% isopropyl alcohol medical wipes do a great job of
 removing thermal compound**: the alcohol evaporates really quickly and
 the wipes didn't leave fibres everywhere. You'll probably need a couple
 of wipes for your CPU and another couple for your heatsink; they're sold
 in huge packs very cheaply (I paid a couple of pounds for a hundred).
 
-4. **I didn't understand why there were so many complaints about Intel's
+4\. **I didn't understand why there were so many complaints about Intel's
 push pin cooler design until I had to install it the second time.**
 
-[//]: # (This image is maybe to fix or move, or alter the headings; image ends up aligned with the list.)
 <img class="article-image" src="{filename}/images/2014/Cooler_push_pin.jpg" alt="Close-up image of an Intel heatsink showing the push pin that holds the heatsink in place in a motherboard." width="300">
 
+You put the pins of the cooler through the motherboard then click them
+in place to open out the pins and lock them there. Sounds easy, until
+you find that all but one pin are through the board while one side of
+the final pin has bent completely out of shape. (Specifically, the force
+I was putting on the pin had pushed one of the two bits of pointed white
+plastic at the bottom of the pin to a near ninety degree angle against
+the motherboard. It was still fixable though.)
 
-    You put the pins of the cooler through the motherboard then click them
-    in place to open out the pins and lock them there. Sounds easy, until
-    you find that all but one pin are through the board while one side of
-    the final pin has bent completely out of shape. (Specifically, the force
-    I was putting on the pin had pushed one of the two bits of pointed white
-    plastic at the bottom of the pin to a near ninety degree angle against
-    the motherboard. It was still fixable though.)
-
-5. **Motherboard and case manufacturers don't write the greatest
+5\. **Motherboard and case manufacturers don't write the greatest
 documentation.** There were some steps missing entirely from the case
 instructions, e.g. how to pop out a front panel cover of the case to
 make room for a DVD drive which was less than obvious. I was lucky that
 I found a couple of YouTube videos where people were showing how they
 built their PCs using that case step-by-step.
 
-    ASUS decided to helpfully show a nice large pinout of the front panel to
-    motherboard wiring in the manual (e.g. HDD LED, power switch) so that
-    you didn't have to squint at the tiny print directly on the motherboard.
-    Unfortunately, the manual didn't bother to label the positive and
-    negative sides of the LEDs meaning I still had to stare at the
-    motherboard to figure this out...
+ASUS decided to helpfully show a nice large pinout of the front panel to
+motherboard wiring in the manual (e.g. HDD LED, power switch) so that
+you didn't have to squint at the tiny print directly on the motherboard.
+Unfortunately, the manual didn't bother to label the positive and
+negative sides of the LEDs meaning I still had to stare at the
+motherboard to figure this out...
 
-6. **Windows activation seems to tolerate motherboard changes when the
+6\. **Windows activation seems to tolerate motherboard changes when the
 boards have identical chipsets.** It needed reactivating once I swapped
 the board, but this was just another online activation.
 
-7. (**Unsurprisingly,) formatting a Bitlocker encrypted drive removes
+7\. (**Unsurprisingly,) formatting a Bitlocker encrypted drive removes
 the encryption.** I'm not sure why I thought it might be otherwise,
 though Windows doesn't bother to warn you about this. My use case was
 that I'd already encrypted an external backup drive for use with this
@@ -115,13 +113,13 @@ wanted to wipe the useless existing backups. (It was just the old
 Windows install there, no user files). The quickest way is to delete
 everything is to format.
 
-    However, if it's taken a long time to encrypt the drive, it's probably
-    better to just delete the existing files on the drive instead. (Windows
-    8 gives you the [option of encrypting used space
-    only](http://winsupersite.com/article/windows8/windows-8-tips-protect-portable-storage-bitlocker-143777)
-    which would have made this is a bit less painful. Fortunately, I'd
-    tested on a small USB drive first to discover this rather than the 2 TB
-    backup drive which had taken several hours to encrypt.)
+However, if it's taken a long time to encrypt the drive, it's probably
+better to just delete the existing files on the drive instead. (Windows
+8 gives you the [option of encrypting used space
+only](http://winsupersite.com/article/windows8/windows-8-tips-protect-portable-storage-bitlocker-143777)
+which would have made this is a bit less painful. Fortunately, I'd
+tested on a small USB drive first to discover this rather than the 2 TB
+backup drive which had taken several hours to encrypt.)
 
 [^1]: For
 reference, it was a Gigabyte H87-HD3. I couldn't find any reports of the
