@@ -20,16 +20,14 @@ Computer and click Properties, you can access the "Advanced system
 settings" which lets you access the Aero theme settings to disable these
 features.
 
-![The Windows System Properties and Performance Options (visual effects) menus.]({filename}/images/SystemPropertiesPerformance2.PNG)
+<img class="article-image" src="{filename}/images/2014/SystemPropertiesPerformance2.png" alt="The Windows System Properties and Performance Options (visual effects) menus.">
 
 However, on changing these settings, you might find that, although they
 work, they don't actually stick. When you next log on, the settings have
 been restored to the defaults. It may be an issue with running accounts
 as standard users, rather than administrators.
 
-![The Windows Start Menu with SystemPropertiesPerformance typed to
-display the settings menu that lets users change the Aero theme
-settings.]({filename}/images/SystemPropertiesPerformance.PNG)
+<img class="article-image" src="{filename}/images/2014/SystemPropertiesPerformance.png" alt="The Windows Start Menu with SystemPropertiesPerformance ty ed to display the settings menu that lets users change the Aero theme settings.">
 
 To ensure the settings are kept, access this settings panel instead by
 typing
