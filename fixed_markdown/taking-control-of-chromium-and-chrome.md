@@ -151,7 +151,7 @@ By virtue of what HTTP Switchboard aims to do — give you full control of
 what is allowed by your browser — this makes its user interface slightly
 more complex, which I'll soon get onto.
 
-![µblock's simple user interface]({filename}/images/ublock.png)
+<img class="center-block" src="{filename}/images/2014/ublock.png" alt="The µblock enable/disable icon." width="174">
 
 Stripping out this sophistication seems like a smart move, since
 µblock's incredibly easy to use. Really, it requires the same amount of
@@ -185,8 +185,10 @@ I use which all have similar menus to allow or deny permission for a
 site to run scripts or store cookies. These have a text explanation of
 what the option does.
 
-![From left to right, examples of NoScript, CookieMonster and RequestPolicy
-permission menus when accessing Google Books.]({filename}/images/Firefox_menus.png)
+<figure class="article-figure">
+    <img src="{filename}/images/2014/Firefox_menus.png" alt="Examples of NoScript, CookieMonster and RequestPolicy permission menus.">
+    <figcaption>From left to right, examples of NoScript, CookieMonster and RequestPolicy permission menus when accessing Google Books.</figcaption>
+</figure>
 
 The problem with this menu format is, though it's explicit and clear,
 it's cumbersome when you're dealing with several extensions. For each
@@ -198,8 +200,10 @@ simplicity clicks. HTTP Switchboard opts for a table-like interface.
 Each site is represented as a row, and each type of content is shown as
 a column.
 
-![Example of HTTP Switchboard's interface when accessing Google
-Books.]({filename}/images/HTTP_Switchboard.png)
+<figure class="article-figure">
+    <img src="{filename}/images/2014/HTTP_Switchboard.png" alt="Example of HTTP Switchboard's table interface.">
+    <figcaption>Example of HTTP Switchboard's interface when accessing Google Books.</figcaption>
+</figure>
 
 This lets the user approve different permissions for different sites
 quickly. Just read down the list of sites, click on those you want to
