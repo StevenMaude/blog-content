@@ -186,8 +186,8 @@ site to run scripts or store cookies. These have a text explanation of
 what the option does.
 
 <figure class="article-figure">
-    <img src="{filename}/images/2014/Firefox_menus.png" alt="Examples of NoScript, CookieMonster and RequestPolicy permission menus.">
-    <figcaption>From left to right, examples of NoScript, CookieMonster and RequestPolicy permission menus when accessing Google Books.</figcaption>
+  <img src="{filename}/images/2014/Firefox_menus.png" alt="Examples of NoScript, CookieMonster and RequestPolicy permission menus.">
+  <figcaption>From left to right, examples of NoScript, CookieMonster and RequestPolicy permission menus when accessing Google Books.</figcaption>
 </figure>
 
 The problem with this menu format is, though it's explicit and clear,
@@ -201,8 +201,8 @@ Each site is represented as a row, and each type of content is shown as
 a column.
 
 <figure class="article-figure">
-    <img src="{filename}/images/2014/HTTP_Switchboard.png" alt="Example of HTTP Switchboard's table interface.">
-    <figcaption>Example of HTTP Switchboard's interface when accessing Google Books.</figcaption>
+  <img src="{filename}/images/2014/HTTP_Switchboard.png" alt="Example of HTTP Switchboard's table interface.">
+  <figcaption>Example of HTTP Switchboard's interface when accessing Google Books.</figcaption>
 </figure>
 
 This lets the user approve different permissions for different sites
