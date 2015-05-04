@@ -7,7 +7,7 @@ Slug: heartbleed-ill-communication
 Summary: On the lack of communication of websites as to the impact of Heartbleed.
 Alias: /2014/05/heartbleed-ill-communication.html
 
-![Heartbleed logo]({filename}/images/heartbleed.png)
+<img class="article-image" src="{filename}/images/2014/heartbleed.png" alt="The Heartbleed logo." width="400">
 
 Even if you're not particularly into technology, you probably wouldn't
 have escaped hearing about Heartbleed last month.
