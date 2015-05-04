@@ -7,7 +7,8 @@ Slug: uses-for-a-raspberry-pi-part-2
 Summary: Running the Raspberry Pi as a file and media server, and as a PVR with get_iplayer.
 Alias: /2013/07/uses-for-a-raspberry-pi-part-2.html
 
-![A Raspberry Pi working hard!]({filename}/images/Raspberry_Pi.jpg)
+
+<img class="article-image" src="{filename}/images/2013/Raspberry_Pi.jpg" alt="A Raspberry Pi working hard!">
 
 In my [last
 post](http://www.stevenmaude.co.uk/2013/07/uses-for-a-raspberry-pi-part-1.html),
