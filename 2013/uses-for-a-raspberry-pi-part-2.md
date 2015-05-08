@@ -169,8 +169,7 @@ reasons.
 
 ### Scheduling the PVR to run
 
-![Crontab with get_iplayer
-scheduled]({filename}/images/get_iplayer_crontab.png)
+<img class="article-image" src="{filename}/images/2013/get_iplayer_crontab.png" alt="Crontab with get_iplayer scheduled.">
 
 However, it is more convenient to run the PVR regularly rather than have
 to run it manually. You can add the command to run the PVR to the [cron
