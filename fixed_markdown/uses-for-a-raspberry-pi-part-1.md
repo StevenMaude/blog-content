@@ -9,9 +9,12 @@ Alias: /2013/07/uses-for-a-raspberry-pi-part-1.html
 
 <img class="article-image" src="{filename}/images/2013/Raspberry_Pi.jpg" alt="A powered on Raspberry Pi.">
 
-> ["Don’t buy one and put it in the cupboard; buy one and do an
-> interesting thing with it and tell the world what you did." — Eben
-> Upton](http://www.dailybrink.com/?p=3304)
+<blockquote>
+  <p>Don’t buy one and put it in the cupboard; buy one and do an
+  interesting thing with it and tell the world what you did.
+  </p>
+  <cite><a href="http://www.dailybrink.com/?p=3304">Eben Upton</a></cite>
+</blockquote>
 
 When I finally got my hands on the low priced Raspberry Pi computer, it
 was autumn. Although it had been released in February, its low price and
