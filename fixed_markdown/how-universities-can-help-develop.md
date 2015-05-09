@@ -7,10 +7,12 @@ Slug: how-universities-can-help-develop
 Summary: My account of a new and intensive career development programme for postdoctoral researchers leaving university.
 Alias: /2013/08/how-universities-can-help-develop.html
 
-> "You do three years, then a couple
-> more, and then – my God, what next? A master's, a PhD … and never a
-> job at the end of it." - [Sylvia
-> Melchiorre](http://www.guardian.co.uk/world/2013/jul/01/jobless-europe-young-qualified)
+<blockquote>
+  <p>You do three years, then a couple
+  more, and then – my God, what next? A master's, a PhD &hellip; and never a
+  job at the end of it.</p>
+  <cite><a href="http://www.guardian.co.uk/world/2013/jul/01/jobless-europe-young-qualified">Sylvia Melchiorre</a></cite>
+</blockquote>
 
 In embarking on research work at university, there's always a risk that
 you can get dragged along uncontrollably with the tide. When finishing
