@@ -35,11 +35,12 @@ examples to run, but it's quite nice that you can embed plots directly
 into HTML. Take a look at the demo
 [here](http://continuum.io/blog/painless_streaming_plots_w_bokeh).
 
-Edit 11/12/2013: I forgot to add that on trying out Bokeh, I couldn't
-actually get [one of their
-tutorials](http://bokeh.pydata.org/tutorial.html#simple-script-based-plotting)
-to work as it should. Rather than two plots on the same set of axes, I
-was getting two separate plots on two different sets of axes... As this
-is something I actually needed for work, I reverted back to `matplotlib`
-as a result. So Bokeh looks promising, but might be worth trying again
-in a few months.
+!!! article-edit ""
+    Edit 11/12/2013: I forgot to add that on trying out Bokeh, I couldn't
+    actually get [one of their
+    tutorials](http://bokeh.pydata.org/tutorial.html#simple-script-based-plotting)
+    to work as it should. Rather than two plots on the same set of axes, I
+    was getting two separate plots on two different sets of axes... As this
+    is something I actually needed for work, I reverted back to `matplotlib`
+    as a result. So Bokeh looks promising, but might be worth trying again
+    in a few months.
