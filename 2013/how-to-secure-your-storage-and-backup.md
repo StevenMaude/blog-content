@@ -64,9 +64,10 @@ behaviour](http://www.stevenmaude.co.uk/2013/10/odd-behaviour-of-bitlocker-or-ma
 
 ## TrueCrypt
 
-Edit: see my [earlier encryption
-post](http://127.0.0.1:8000/a-beginners-guide-to-os-encryption-dual.html#fn:2)
-for notes on the current state of TrueCrypt.
+!!! article-edit ""
+    Edit: see my [earlier encryption
+    post](http://127.0.0.1:8000/a-beginners-guide-to-os-encryption-dual.html#fn:2)
+    for notes on the current state of TrueCrypt.
 
 The other main option is [TrueCrypt](http://www.truecrypt.org/) which is
 freely available, and has good cross-platform support, perhaps making it
