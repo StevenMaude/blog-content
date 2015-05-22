@@ -1,18 +1,23 @@
 Title: Taking control of Chromium (and Chrome) with µblock and HTTP Switchboard
 Date: 2014-09-28 00:02
-Modified: 2015-01-09 00:20
+Modified: 2015-05-18 12:00
 Author: Steven Maude
 Tags: ad, µblock, HTTP Switchboard, blocking, privacy, adblock
 Slug: taking-control-of-chromium-and-chrome
 Summary: How you can use µblock and HTTP Switchboard to take control of what your browser loads.
 Alias: /2014/09/taking-control-of-chromium-and-chrome.html
 
-Edit 2015-01-09: HTTP Switchboard development is discontinued and has been
-replaced with [µMatrix](https://github.com/gorhill/uMatrix). The
-interface is largely unchanged. One problem at the time of writing is a
-[Chromium bug](https://github.com/gorhill/uBlock/issues/419) which I
-think is the cause of the UI being really laggy to appear. Hopefully,
-this should be fixed soon.
+!!! article-edit ""
+    Edit 2015-05-18: The Chromium bug is fixed which should fix the µMatrix
+    UI sluggishness, and µMatrix is finally available as a Firefox addon.
+
+!!! article-edit ""
+    Edit 2015-01-09: HTTP Switchboard development is discontinued and has been
+    replaced with [µMatrix](https://github.com/gorhill/uMatrix). The
+    interface is largely unchanged. One problem at the time of writing is a
+    [Chromium bug](https://github.com/gorhill/uBlock/issues/419) which I
+    think is the cause of the UI being really laggy to appear. Hopefully,
+    this should be fixed soon.
 
 After tinkering around with Adblock's filters to block some ads, I
 remembered that I'd read about an alternative to Adblock for
