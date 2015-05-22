@@ -1,9 +1,9 @@
-Title: Installling Bokeh on Ubuntu 12.04 LTS
+Title: Installing Bokeh on Ubuntu 12.04 LTS
 Date: 2013-11-27 20:24
-Modified: 2013-12-11 09:55
+Modified: 2015-05-22 15:29
 Author: Steven Maude
 Tags: plot, Python, Bokeh
-Slug: installling-bokeh-on-ubuntu-1204-lts
+Slug: installing-bokeh-on-ubuntu-1204-lts
 Summary: Fixing a problem with installing Bokeh on Ubuntu.
 Alias: /2013/11/installling-bokeh-on-ubuntu-1204-lts.html
 
