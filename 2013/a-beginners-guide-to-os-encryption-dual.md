@@ -1,6 +1,6 @@
 Title: A beginner's guide to OS encryption: dual booting and encrypting Windows and Ubuntu
 Date: 2013-09-17 18:48
-Modified: 2015-01-09 13:33
+Modified: 2015-05-22 15:24
 Author: Steven Maude
 Tags: disk, Bitlocker, Linux, Windows, encryption, TrueCrypt, drive, Ubuntu
 Slug: a-beginners-guide-to-os-encryption-dual
@@ -99,11 +99,23 @@ considering this option.
 
 <img class="article-image" src="{filename}/images/2013/TrueCrypt.png" alt="TrueCrypt program window showing options to create a new encrypted volume.">
 
+!!! article-edit ""
+    Edit January 2015: TrueCrypt's
+    source was partly [audited](http://istruecryptauditedyet.com/) in 2014
+    and there was nothing found to immediately make users abandon it.
+    However, the developers unceremoniously ending development shortly after
+    that audit and telling people to use alternatives is at best unfortunate
+    (no more support) and at worst worrying. That said, there still seems no
+    known reason to panic if you're using it yet, and there are a couple of
+    potential successors to TrueCrypt (e.g. CipherShed, VeraCrypt). So, the
+    easy-to-use, cross-platform disk encryption that TrueCrypt offers should
+    live on.
+
 The fact that TrueCrypt has its source available is a plus. I'm nowhere
 near smart enough to start understanding the internals of cryptographic
 software, but there are people out there who are. And I would certainly
 hope that they would raise the alarm if they spot anything
-suspicious.[^1] [^2]
+suspicious.[^1]
 
 Unlike Bitlocker on Windows 7, TrueCrypt allows you to use a
 user-entered password to unlock the PC. However, at the moment, [it
@@ -192,16 +204,3 @@ dual boot systems, I'd be interested to hear them.
 [^1]: At the time of writing, [this is a
 particularly relevant
 concern](http://www.theguardian.com/world/2013/sep/05/nsa-gchq-encryption-codes-security).
-
-[//]: # (Maybe the edit needs to be highlighted at the top of the article.)
-
-[^2]: Edit January 2015: TrueCrypt's
-source was partly [audited](http://istruecryptauditedyet.com/) in 2014
-and there was nothing found to immediately make users abandon it.
-However, the developers unceremoniously ending development shortly after
-that audit and telling people to use alternatives is at best unfortunate
-(no more support) and at worst worrying. That said, there still seems no
-known reason to panic if you're using it yet, and there are a couple of
-potential successors to TrueCrypt (e.g. CipherShed, VeraCrypt). So, the
-easy-to-use, cross-platform disk encryption that TrueCrypt offers should
-live on.
