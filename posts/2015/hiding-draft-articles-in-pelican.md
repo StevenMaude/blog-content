@@ -46,7 +46,15 @@ if you're using `git` to push new versions of your blog for publication.
 Add `drafts/` to your `.gitignore` and you'd have to make a deliberate
 effort to add them for publication.
 
-## Using Pelican's `IGNORE_FILES`
+## Stopping Pelican from seeing the draft posts
+
+The other option is to just prevent Pelican from seeing draft posts
+completely.
+
+This does mean that they won't appear in your local preview of your
+site, not even as an unlinked page.
+
+### Using Pelican's `IGNORE_FILES`
 
 Putting "draft" in the filename of any drafts is another option. Then,
 you can use the `IGNORE_FILES` setting in `pelicanconf.py` to
@@ -61,9 +69,7 @@ For instance, the [default](http://docs.getpelican.com/en/latest/settings.html)
 `IGNORE_FILES` setting is `IGNORE_FILES = ['.#*']` so we'll need to
 add `IGNORE_FILES = ['.#*', '*draft*']` to our Pelican settings.
 
-## Hiding them completely (in Ubuntu, at least)
-
-Another option is to just hide draft files from Pelican completely.
+### Hiding the files completely (in Ubuntu, at least)
 
 Under Linux, I thought that preceding the filename with a dot would hide
 posts from Pelican, but it doesn't seem to. However, sticking a tilde on
