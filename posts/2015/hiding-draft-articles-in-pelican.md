@@ -1,5 +1,6 @@
 Title: Hiding draft articles in Pelican
 Date: 2015-05-31 20:16
+Modified: 2015-06-01 13:53
 Author: Steven Maude
 Tags: draft,article,Pelican
 Slug: hiding-draft-articles-in-pelican
