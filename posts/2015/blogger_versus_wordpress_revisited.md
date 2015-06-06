@@ -97,7 +97,7 @@ why Wordpress didn't seem a suitable replacement:
   if I ever did want to do any low-level customisation, I'd need to
   learn it.
 
-* Wordpress seems too heavy-handed for what I need: a simple way of
+* **Wordpress seems too heavy-handed for what I need**: a simple way of
   presenting text-based articles on the web. This is reflected both in
   its frequent security updates (though an [automatic update option](https://codex.wordpress.org/Configuring_Automatic_Background_Updates)
   is available) and its byzantine menus which ordinarily see me
