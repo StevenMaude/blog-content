@@ -14,7 +14,7 @@ well be storing personal data on them, meaning that if you lost them and
 they're unencrypted, anyone can read their contents.
 
 Compared with the painful time [I previously
-spent](http://www.stevenmaude.co.uk/2013/09/a-beginners-guide-to-os-encryption-dual.html)
+spent](http://www.stevenmaude.co.uk/2013/09/a-beginners-guide-to-os-encryption-dual)
 encrypting operating system drives, it's a relief that encrypting
 non-system drives is far, far simpler.
 
@@ -60,7 +60,7 @@ writing).
 
 Update 2: USB 3 works fine, but there's [some weird Bitlocker or drive
 specific issue
-behaviour](http://www.stevenmaude.co.uk/2013/10/odd-behaviour-of-bitlocker-or-maybe-my.html)...
+behaviour](http://www.stevenmaude.co.uk/2013/10/odd-behaviour-of-bitlocker-or-maybe-my)...
 
 ## TrueCrypt
 

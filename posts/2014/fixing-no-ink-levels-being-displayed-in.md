@@ -7,7 +7,7 @@ Summary: Solving a problem with Epson printers where no ink levels are displayed
 Alias: /2014/01/fixing-no-ink-levels-being-displayed-in.html
 
 [Having recently installed a new Windows
-PC](http://www.stevenmaude.co.uk/2013/12/things-ive-learned-from-building-and.html),
+PC](http://www.stevenmaude.co.uk/2013/12/things-ive-learned-from-building-and),
 I'd installed an Epson printer (SX515W). The printer itself was
 connected via wifi and behaving apart from one thing. It wasn't
 displaying the ink levels when checking them in Epson Status Monitor
