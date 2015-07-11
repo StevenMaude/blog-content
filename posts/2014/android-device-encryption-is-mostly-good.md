@@ -9,12 +9,12 @@ Alias: /2014/04/android-device-encryption-is-mostly-good.html
 
 If you've read other posts here, you might notice that I've gone through
 a phase of
-[encrypting](http://www.stevenmaude.co.uk/2013/09/how-to-secure-your-storage-and-backup.html)
-[new](http://www.stevenmaude.co.uk/2013/09/a-beginners-guide-to-os-encryption-dual.html)
+[encrypting](http://www.stevenmaude.co.uk/2013/09/how-to-secure-your-storage-and-backup)
+[new](http://www.stevenmaude.co.uk/2013/09/a-beginners-guide-to-os-encryption-dual)
 devices I have.
 
 My [new
-phone](http://www.stevenmaude.co.uk/2014/03/phone-upgrades-and-privacy-downgrades.html)
+phone](http://www.stevenmaude.co.uk/2014/03/phone-upgrades-and-privacy-downgrades)
 is now no different.
 
 In trying to research what problems can arise if you encrypt Android, it

@@ -54,7 +54,7 @@ it incredibly invasive when apps that don't have any reasonable reason
 to, say, know your location want to find where you are.
 
 Since I last installed a custom ROM, I found that
-[Auto-Patcher](http://www.stevenmaude.co.uk/2013/05/patching-android-roms-for-pdroid-using.html)
+[Auto-Patcher](http://www.stevenmaude.co.uk/2013/05/patching-android-roms-for-pdroid-using)
 has been deprecated and [XPrivacy](https://github.com/M66B/XPrivacy)
 seems to be the permission control app of choice for Android now. You
 still need root permissions to use it, though it doesn't require ROM

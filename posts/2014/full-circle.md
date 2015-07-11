@@ -11,7 +11,7 @@ Alias: /2014/03/full-circle.html
 
 To me, it doesn't seem that long ago, but I wrote the first post on this
 blog ten months ago. Funnily enough, [it
-discussed](http://www.stevenmaude.co.uk/2013/05/blogger-versus-wordpress.html)
+discussed](http://www.stevenmaude.co.uk/2013/05/blogger-versus-wordpress)
 what I'm thinking about right now: how best to blog.
 
 Writing using the Blogger editor is not a great experience. Not great,
