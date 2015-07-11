@@ -14,8 +14,8 @@ factor in me posting fairly regularly.
 
 Elsewhere, you can also find me occasionally writing for my [current
 employer's blog](https://blog.scraperwiki.com/author/stevenmaude/)
-where I'm working as a data scientist. I've also made a
-[guest post](http://www.djtechtools.com/2014/01/31/how-traktor-can-help-you-learn-to-beatmatch/)
+where I'm working as a data scientist. I've also made
+[guest posts](http://djtechtools.com/author/stevenmaude/)
 for DJ TechTools (one of the biggest sites and communities for
 digital DJs).
 
