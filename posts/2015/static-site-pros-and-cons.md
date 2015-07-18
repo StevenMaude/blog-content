@@ -12,10 +12,10 @@ problems that static site generators could have. At the time, my hunch
 was that it wasn't possible for them to be worse than Blogger.
 
 As it turns out, that was the case. But, they are not entirely perfect
-and, going through this migration, I better understood what
-what the good and the bad of static site generators are. If you're
-thinking of making a similar migration, these points might give you an
-idea of what you might deal with in shifting.
+and, going through this migration, I better understood what what the
+good and the bad of static site generators are. If you're thinking of
+making a similar migration, these points might give you an idea of what
+you might deal with in shifting.
 
 While I'm familiar with Pelican and Blogger, most of the points apply
 generally so could still be informative for you if you're considering a
@@ -93,7 +93,7 @@ move from, say, Wordpress to Jekyll.
     With Blogger, at least once, I foolishly attempted to edit multiple
     posts in separate browser tabs and subsequently lost the content of
     one of them. Luckily, I had a window open with the web version of
-    the post to recover it. But, having only a single canonical copy of
+    the post to recover it. Having only a single canonical copy of
     posts stored in Google's servers was clearly not a good thing.
     (Wordpress is better in that it's possible to store multiple
     revisions of posts.)
