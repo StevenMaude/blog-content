@@ -13,7 +13,7 @@ problems that static site generators could have. At the time, my hunch
 was that it wasn't possible for them to be worse than Blogger.
 
 As it turns out, that was the case. But, they are not entirely perfect
-and, going through this migration, I better understood what what the
+and, going through this migration, I better understood what the
 good and the bad of static site generators are. If you're thinking of
 making a similar migration, these points might give you an idea of what
 you might deal with in shifting.
