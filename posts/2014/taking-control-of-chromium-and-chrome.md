@@ -1,11 +1,19 @@
 Title: Taking control of Chromium (and Chrome) with µblock and HTTP Switchboard
 Date: 2014-09-28 00:02
-Modified: 2015-05-18 12:00
+Modified: 2015-07-24 11:37
 Author: Steven Maude
 Tags: ad, µblock, HTTP Switchboard, blocking, privacy, adblock
 Slug: taking-control-of-chromium-and-chrome
 Summary: How you can use µblock and HTTP Switchboard to take control of what your browser loads.
 Alias: /2014/09/taking-control-of-chromium-and-chrome.html
+
+!!! article-edit ""
+    Edit 2015-07-24: Slightly involved story aside, the version of
+    µBlock linked here, by the original developer, is now µBlock Origin.
+    I'd recommend searching for that version if installing as an
+    extension.
+
+    It's available for both Firefox and Chrome/Chromium.
 
 !!! article-edit ""
     Edit 2015-05-18: The Chromium bug is fixed which should fix the µMatrix
