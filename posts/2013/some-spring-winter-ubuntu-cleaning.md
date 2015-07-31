@@ -1,6 +1,6 @@
 Title: Some <s>spring</s> winter Ubuntu cleaning
 Date: 2013-12-24 00:04
-Modified: 2013-12-24 00:25
+Modified: 2015-07-31 13:10
 Author: Steven Maude
 Tags: clean, free, LTS, TRIM, space, 12.04, kernel, encryption, dm-crypt, Ubuntu, boot
 Slug: some-spring-winter-ubuntu-cleaning
@@ -44,6 +44,12 @@ sudo apt-get purge linux-image-x.x.x.x-generic
 I've seen it recommended that you keep one or two older images installed
 in case you need to revert to an older version for any reason, which
 seems sensible.
+
+You can also remove the corresponding kernel headers too:
+
+```shell
+sudo apt-get purge linux-headers-x.x.x.x-generic
+```
 
 * * * * *
 
