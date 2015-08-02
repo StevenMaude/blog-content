@@ -1,27 +1,27 @@
-Title: Taking control of Chromium (and Chrome) with µblock and HTTP Switchboard
+Title: Taking control of Chromium (and Chrome) with ublock and HTTP Switchboard
 Date: 2014-09-28 00:02
-Modified: 2015-07-24 11:37
+Modified: 2015-08-02 17:24
 Author: Steven Maude
-Tags: ad, µblock, HTTP Switchboard, blocking, privacy, adblock
+Tags: ad, µBlock, HTTP Switchboard, blocking, privacy, adblock, ublock
 Slug: taking-control-of-chromium-and-chrome
-Summary: How you can use µblock and HTTP Switchboard to take control of what your browser loads.
+Summary: How you can use ublock and HTTP Switchboard to take control of what your browser loads.
 Alias: /2014/09/taking-control-of-chromium-and-chrome.html
 
 !!! article-edit ""
     Edit 2015-07-24: Slightly involved story aside, the version of
-    µBlock linked here, by the original developer, is now µBlock Origin.
+    uBlock linked here, by the original developer, is now uBlock Origin.
     I'd recommend searching for that version if installing as an
     extension.
 
     It's available for both Firefox and Chrome/Chromium.
 
 !!! article-edit ""
-    Edit 2015-05-18: The Chromium bug is fixed which should fix the µMatrix
-    UI sluggishness, and µMatrix is finally available as a Firefox addon.
+    Edit 2015-05-18: The Chromium bug is fixed which should fix the uMatrix
+    UI sluggishness, and uMatrix is finally available as a Firefox addon.
 
 !!! article-edit ""
     Edit 2015-01-09: HTTP Switchboard development is discontinued and has been
-    replaced with [µMatrix](https://github.com/gorhill/uMatrix). The
+    replaced with [uMatrix](https://github.com/gorhill/uMatrix). The
     interface is largely unchanged. One problem at the time of writing is a
     [Chromium bug](https://github.com/gorhill/uBlock/issues/419) which I
     think is the cause of the UI being really laggy to appear. Hopefully,
@@ -38,7 +38,7 @@ to be much more CPU and memory friendly than [Adblock Plus](https://blog.mozilla
 currently is.
 
 In fact, the adblocking part of HTTP Switchboard has now been separated
-out into another project, µblock. Both are still useful. I'll explain
+out into another project, ublock. Both are still useful. I'll explain
 why below.
 
 ## Why are you blocking content at all?
@@ -156,31 +156,31 @@ browsers that had features comparable to Adblock Plus, and the Firefox
 extensions, NoScript, RequestPolicy. Recently, the [adblocking,
 pattern-based filtering](https://github.com/gorhill/httpswitchboard/issues/378)
 has been split out into another project,
-[µblock](https://github.com/gorhill/ublock).
+[ublock](https://github.com/gorhill/ublock).
 
-## µblock
+## ublock
 
 By virtue of what HTTP Switchboard aims to do — give you full control of
 what is allowed by your browser — this makes its user interface slightly
 more complex, which I'll soon get onto.
 
-<img class="article-image" src="{filename}/images/2014/ublock.png" alt="The µblock enable/disable icon." width="174">
+<img class="article-image" src="{filename}/images/2014/ublock.png" alt="The ublock enable/disable icon." width="174">
 
 Stripping out this sophistication seems like a smart move, since
-µblock's incredibly easy to use. Really, it requires the same amount of
+ublock's incredibly easy to use. Really, it requires the same amount of
 setup as Adblock Plus does: not much at all.
 
 It comes with the most popular Adblock Plus filters accessible on
 install, and you can easily choose which of those filter lists are
 applied.
 
-Disabling µblock for a site is also straightforward. Click the red µ
+Disabling ublock for a site is also straightforward. Click the red µ
 icon next to the address bar and then click the power icon.
 
 It does the same job as Adblock Plus, but with lower CPU and memory
 usage. If you've ditched an ad blocker for this reason, it's worth
 looking at. Even if you're still happy using Adblock Plus (or one of its
-forks), µblock is definitely worth spending the couple of minutes to try
+forks), ublock is definitely worth spending the couple of minutes to try
 it out.
 
 ## HTTP Switchboard
@@ -190,7 +190,7 @@ and locations of content that Chromium-based browser can access.
 
 Note that with the current version of HTTP Switchboard, there's a little
 [initial setup](https://github.com/gorhill/httpswitchboard/issues/378) to
-disable the adblocking filtering that µBlock covers.
+disable the adblocking filtering that uBlock covers.
 
 HTTP Switchboard's interface can feel initially overwhelming; more so
 than perhaps the likes of NoScript, RequestPolicy and CookieMonster that
