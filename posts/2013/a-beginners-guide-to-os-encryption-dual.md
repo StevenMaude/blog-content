@@ -1,6 +1,6 @@
 Title: A beginner's guide to OS encryption: dual booting and encrypting Windows and Ubuntu
 Date: 2013-09-17 18:48
-Modified: 2015-05-22 15:24
+Modified: 2015-10-26 17:17
 Author: Steven Maude
 Tags: disk, Bitlocker, Linux, Windows, encryption, TrueCrypt, drive, Ubuntu
 Slug: a-beginners-guide-to-os-encryption-dual
@@ -100,16 +100,12 @@ considering this option.
 <img class="article-image" src="{filename}/images/2013/TrueCrypt.png" alt="TrueCrypt program window showing options to create a new encrypted volume.">
 
 !!! article-edit ""
-    Edit January 2015: TrueCrypt's
-    source was partly [audited](http://istruecryptauditedyet.com/) in 2014
-    and there was nothing found to immediately make users abandon it.
-    However, the developers unceremoniously ending development shortly after
-    that audit and telling people to use alternatives is at best unfortunate
-    (no more support) and at worst worrying. That said, there still seems no
-    known reason to panic if you're using it yet, and there are a couple of
-    potential successors to TrueCrypt (e.g. CipherShed, VeraCrypt). So, the
-    easy-to-use, cross-platform disk encryption that TrueCrypt offers should
-    live on.
+    Edit October 2015: There are vulnerabilities in the Windows
+    TrueCrypt driver ([here](https://code.google.com/p/google-security-research/issues/detail?id=537)
+    and [here](https://code.google.com/p/google-security-research/issues/detail?id=538)),
+    so it definitely can't be recommended now. There are newer projects
+    based on TrueCrypt which may be suitable replacements; I haven't
+    looked into them.
 
 The fact that TrueCrypt has its source available is a plus. I'm nowhere
 near smart enough to start understanding the internals of cryptographic

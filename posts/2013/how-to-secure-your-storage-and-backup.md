@@ -1,6 +1,6 @@
 Title: How to secure your storage and backup drives on Windows and Linux
 Date: 2013-09-28 17:03
-Modified: 2015-01-09 14:10
+Modified: 2015-10-26 17:17
 Author: Steven Maude
 Tags: Bitlocker, backup, encryption, USB, HDD, external, TrueCrypt, drive
 Slug: how-to-secure-your-storage-and-backup
@@ -66,10 +66,12 @@ behaviour](http://www.stevenmaude.co.uk/2013/10/odd-behaviour-of-bitlocker-or-ma
 
 !!! article-edit ""
     Edit: see my [earlier encryption
-    post](http://127.0.0.1:8000/a-beginners-guide-to-os-encryption-dual.html#fn:2)
-    for notes on the current state of TrueCrypt.
+    post](http://www.stevenmaude.co.uk/a-beginners-guide-to-os-encryption-dual.html#fn:2)
+    for notes on the current state of TrueCrypt; it shouldn't be used
+    anymore (on Windows, for certain), but one of its successors may be a
+    suitable replacement.
 
-The other main option is [TrueCrypt](http://www.truecrypt.org/) which is
+The other main option is TrueCrypt which is
 freely available, and has good cross-platform support, perhaps making it
 a better choice. Go to Volumes > Create New Volume... and you'll see
 this menu:
