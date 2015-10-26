@@ -4,14 +4,12 @@ Author: Steven Maude
 Tags: Windows, ISO, disk
 Summary: How to get a Windows 10 ISO directly from Microsoft. No install required.
 
-## Getting an official Windows 10 disk image, without a Windows install
-
 Currently looking to test out installing Windows 10 and one stumbling block was
 just getting hold of an official disk image. (I'm cautious these days and want
 to see how setting up a dual boot encrypted Windows 10/Ubuntu goes on a spare
 drive prior to actually committing to an upgrade.)
 
-### Start me up
+## Start me up
 
 The obvious searches for installing Windows 10 inevitably lead you to [this
 page](https://www.microsoft.com/en-gb/software-download/windows10) where it
@@ -46,7 +44,7 @@ ambiguous information:
 
 which was unclear as to whether this still applies or not.
 
-### Clean installing Windows 10
+## Clean installing Windows 10
 
 The other question I had was which version, Home or Pro, gets installed from
 this single ISO. If it's a clean install, how is the version to install (Home
