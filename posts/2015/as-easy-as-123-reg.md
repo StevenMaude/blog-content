@@ -17,7 +17,7 @@ From their own [blog](https://www.123-reg.co.uk/blog/security-issues/how-to-crea
 
 Well, yeah, I would. If I could.
 
-It's stupid for me to not being using a registrar that provides two factor
+It's stupid for me to not be using a registrar that provides two factor
 authentication. Get control of the domain and you could hijack my website or my
 email.
 
