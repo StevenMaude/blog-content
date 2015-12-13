@@ -167,7 +167,7 @@ stevenmaude.co.uk, not just stevenmaude.uk.
     meantime, and the records were all still there when I reselected "Custom
     MX" which was odd.
 
-    While here, you may also wish to set the public WHOIS to private if you're
+    While here, you may also wish to set the public WHOIS to private if your
     domain is for use by a "UK Individual".
 
 And that's it!
