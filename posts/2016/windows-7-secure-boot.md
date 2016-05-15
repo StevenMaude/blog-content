@@ -70,6 +70,15 @@ As linked above, Microsoft's site suggests Secure Boot is supported on Windows
 on Windows 7. It's possible that this is just behaviour out of specification
 that didn't cause any problem until now.
 
+!!! article-edit ""
+    Edit 2016-05-15: It turns out that it was a bad configuration on the
+    part of ASUS as documented by their
+    [FAQ](https://www.asus.com/support/faq/1016356/). Judging from the
+    news stories published around 4th May 2016 and onwards, that note
+    has only been released by ASUS this month. Pretty slow response,
+    really, seeing as this problem's been known for several weeks. Their
+    fix is one of those already suggested here: disable Secure Boot.
+
 (It's a while ago since I installed the PC, but I guess that I originally must
 have tried turning on Secure Boot during installation and, since the PC booted
 without a problem, left it enabled.)
