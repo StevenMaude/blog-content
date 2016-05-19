@@ -1,6 +1,6 @@
 Title: The case of a Windows 7 update, Secure Boot and a suspect motherboard 
 Date: 2016-04-12 00:33
-Modified: 2016-05-15 13:34
+Modified: 2016-05-20 00:12
 Author: Steven Maude
 Tags: Windows, Secure Boot
 Summary: Fixing Secure Boot related issues on Windows 7 following the KB3133977 update.
@@ -111,6 +111,14 @@ hopefully stop you panicking and make your Windows install accessible, if
 you've been affected.
 
 What fun will today's later batch of updates brings, I wonder?
+
+!!! article-edit ""
+    Edit 2016-05-20: Marc-Andre Renaud kindly emailed me to share his
+    experience:
+
+    > Your hunch about deleting keys while booting in UEFI mode possibly
+    > fixing this was correct. I deleted the keys on my ASUS Sabertooth
+    > z97 motherboard and was able to boot.
 
 ## One more thing
 
