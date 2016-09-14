@@ -1,3 +1,4 @@
 # blog-content
 
-Posts and pages from my blog, in Markdown format.
+Posts and pages from [my blog](http://www.stevenmaude.co.uk), in
+Markdown format.
