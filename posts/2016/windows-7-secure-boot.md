@@ -1,6 +1,6 @@
 Title: The case of a Windows 7 update, Secure Boot and a suspect motherboard 
 Date: 2016-04-12 00:33
-Modified: 2016-05-20 00:12
+Modified: 2016-09-17 12:40
 Author: Steven Maude
 Tags: Windows, Secure Boot
 Summary: Fixing Secure Boot related issues on Windows 7 following the KB3133977 update.
@@ -135,6 +135,13 @@ while allowing UEFI (otherwise you wouldn't be able to boot Windows 7).
 Once the upgrade's complete, I'd then expect I could go back to the BIOS and
 install the default Secure Boot keys, which should let you set Secure Boot
 again.
+
+!!! article-edit ""
+    Having tested this on a PC with this exact problem, the answer is yes,
+    this works fine. This Windows 7 was installed in UEFI mode, had Secure Boot
+    enabled until this ASUS problem occurred earlier this year, and was
+    then upgraded to Windows 10 with Secure Boot disabled. Enabling
+    Secure Boot after the upgrade was successful.
 
 [^1]: Previously, I had recommended updates set to automatically install, but
 unfortunately it's now necessary to make sure you don't [inadvertently install
