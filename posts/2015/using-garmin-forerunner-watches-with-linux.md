@@ -1,5 +1,6 @@
 Title: Using Garmin Forerunner watches with Linux
 Date: 2015-12-30 23:30
+Modified: 2016-09-16 23:40
 Author: Steven Maude
 Tags: Garmin, Forerunner, Linux, GPS, running
 Summary: A quick look at Garmin's Forerunner 15 watch and using it with Linux.
