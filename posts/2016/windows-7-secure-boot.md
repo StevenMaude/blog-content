@@ -137,11 +137,11 @@ install the default Secure Boot keys, which should let you set Secure Boot
 again.
 
 !!! article-edit ""
-    Having tested this on a PC with this exact problem, the answer is yes,
-    this works fine. This Windows 7 was installed in UEFI mode, had Secure Boot
-    enabled until this ASUS problem occurred earlier this year, and was
-    then upgraded to Windows 10 with Secure Boot disabled. Enabling
-    Secure Boot after the upgrade was successful.
+    Edit September 2016: Having tested this on a PC with this exact problem,
+    the answer is yes, this works fine. This Windows 7 was installed in UEFI
+    mode, had Secure Boot enabled until this ASUS problem occurred earlier this
+    year, and was then upgraded to Windows 10 with Secure Boot disabled.
+    Enabling Secure Boot after the upgrade was successful.
 
 [^1]: Previously, I had recommended updates set to automatically install, but
 unfortunately it's now necessary to make sure you don't [inadvertently install
