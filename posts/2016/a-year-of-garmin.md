@@ -19,7 +19,7 @@ dedicated audio player
 hardware]({filename}../2016/still-rocking-rockbox.md) as opposed to some
 music player app on a phone, and why I tend to use a separate camera,
 not a phone, for taking photographs.
- 
+
 The FR15 is a slightly chunky digital watch, compared with the
 low profile, cheap and cheerful Casio I usually wear. But it's not bulky
 enough that I've ever noticed it as an extra weight on my wrist. It's
