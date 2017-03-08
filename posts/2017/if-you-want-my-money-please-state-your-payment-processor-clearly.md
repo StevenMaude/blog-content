@@ -71,10 +71,9 @@ payment (yes, of course, you could also search in the source too).
 
 In my case, common culprits of having vague payment pages are sites that
 handle ticket payments for small shows, or sites that let you book a
-place at running events that are the common culprits. I'm sure there are
-more. And it really does deter me: if I'm not sure if my payment details
-are safe, I'd rather not bother, especially if it's something I can live
-without.
+place at running events. I'm sure there are more. And it really does
+deter me: if I'm not sure if my payment details are safe, I'd rather not
+bother, especially if it's something I can live without.
 
 If you're designing a website, bear this in mind: for the sake of
 placing a small, clear explanation of how payment works, and why the
