@@ -7,6 +7,14 @@ Slug: some-spring-winter-ubuntu-cleaning
 Summary: Some Ubuntu tips: setting up TRIM on an encrypted drive for 12.04 LTS and freeing up space on the boot partition.
 Alias: /2013/12/some-spring-winter-ubuntu-cleaning.html
 
+!!! article-edit ""
+    Things have changed since this post.
+
+    It now seems that Ubuntu (at least on 16.04) will stick old kernels
+    for autoremote: you can just `sudo apt autoremove` to ditch them.
+
+    You can see how apt's behaviour is configured in `/etc/kernel/postinst.d/apt-auto-removal`.
+
 Did a little quick maintenance to my Ubuntu install[^1] today.
 
 First, I'd noticed that the boot partition was starting to get a little
