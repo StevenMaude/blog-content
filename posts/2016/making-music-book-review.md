@@ -1,5 +1,6 @@
 Title: Book (and talk) review: Making Music. 74 Creative Strategies for Electronic Music Producers.
 Date: 2016-06-26 12:40
+Modified: 2017-05-21 20:28
 Author: Steven Maude
 Tags: book review, music, production 
 Summary: Reviewing an Ableton tutorial book on production, and a talk by the author that discussed it.
@@ -208,5 +209,5 @@ producer community, but could deter users of other software from
 reading. It should be stressed that the ideas covered are software,
 hardware and even genre agnostic. There's nothing presented that's
 particularly Ableton specific. It would be a pity if fewer people
-ignored it because of that; it's an enjoyable and enlightening read for
+read it because of that; it's an enjoyable and enlightening read for
 learners.
