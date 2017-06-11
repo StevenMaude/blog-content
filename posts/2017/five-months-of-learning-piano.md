@@ -1,5 +1,5 @@
 Title: Do you even Liszt? Five months of learning piano
-Date: 2017-06-11 12:49
+Date: 2017-06-11 14:06
 Author: Steven Maude
 Tags: learning, music, piano
 Summary: Taking piano lessons as a late learner.
@@ -189,7 +189,7 @@ It can be tricky.
 music well. But I think there's something about the possibility of being
 able to create something as an individual. There's no-one else that is
 you, or can ever be you. Therefore it is possible to create something
-that's really your own and couldn't be made by anyone else's, even if
+that's really your own and couldn't be made by anyone else, even if
 your technical prowess is a hindrance. And sometimes that lack of
 competency, to a degree, can be a key part of what marks out what you
 create as [distinct and
