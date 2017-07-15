@@ -1,5 +1,6 @@
 Title: Rinse FM's SoundCloud account takedown
 Date: 2017-07-15 23:11
+Modified: 2017-07-15 23:14
 Author: Steven Maude
 Tags: music, radio, Rinse FM, SoundCloud
 Summary: What the deletion of Rinse FM's SoundCloud account for
@@ -138,5 +139,5 @@ Hedging your bets seems the only viable solution.
       to discover and hear, it's such a pity that show producers and
       station bosses are often so unadventurous.
 
-[^2]: Look [what happened to my GitHub account last year]({filename}../2016/what-happens-when-github-decides-youre-not-a-human.md),
+[^2]: Look [what happened to my GitHub account last year]({filename}../2016/github-human-detection.md),
       for example.
