@@ -1,11 +1,19 @@
 Title: Rinse FM's SoundCloud account takedown
 Date: 2017-07-15 23:11
-Modified: 2017-07-15 23:14
+Modified: 2017-07-18 21:44
 Author: Steven Maude
 Tags: music, radio, Rinse FM, SoundCloud
 Summary: What the deletion of Rinse FM's SoundCloud account for
          copyright infringement tells us both about music industry
          short-sightedness and hosting creative projects online.
+
+!!! article-edit ""
+    Edit 2017-07-18: SoundCloud have now restored [Rinse FM's
+    account](https://twitter.com/geeneus/status/887050524067061760).
+
+    Nonetheless, the points below still stand in relation to hosting
+    content under online accounts that have the potential for
+    copyright takedowns.
 
 ## And it's shutdown
 
