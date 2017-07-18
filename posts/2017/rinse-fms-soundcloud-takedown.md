@@ -1,11 +1,19 @@
 Title: Rinse FM's SoundCloud account takedown
 Date: 2017-07-15 23:11
-Modified: 2017-07-15 23:14
+Modified: 2017-07-18 21:56
 Author: Steven Maude
 Tags: music, radio, Rinse FM, SoundCloud
 Summary: What the deletion of Rinse FM's SoundCloud account for
          copyright infringement tells us both about music industry
          short-sightedness and hosting creative projects online.
+
+!!! article-edit ""
+    Edit 2017-07-18: SoundCloud have now restored [Rinse FM's
+    account](https://twitter.com/geeneus/status/887050524067061760).
+
+    Nonetheless, the points below still stand in relation to hosting
+    content under online accounts that have the potential for
+    copyright takedowns.
 
 ## And it's shutdown
 
@@ -133,7 +141,7 @@ Hedging your bets seems the only viable solution.
       "same" in that sentence is an important qualifier of why I
       dislike those stations so, so much. It's the lack of individuality
       and the repetition that gets me. If you flick through the
-      commercial pop stations, could you be able to tell them apart?
+      commercial pop stations, could you tell them apart?
 
       When there's so much music that I know I'll never have enough time
       to discover and hear, it's such a pity that show producers and
