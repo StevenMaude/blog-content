@@ -1,5 +1,6 @@
 Title: Trying to trim down static GTFS feeds 
 Date: 2017-05-05 11:15
+Modified: 2017-12-29 22:24
 Author: Steven Maude
 Tags: GTFS, open data, transit, public transport
 Summary: Some tools to perhaps pare down ponderous static GTFS feeds.
@@ -97,6 +98,29 @@ might clean the data up enough to make running the onebusaway
 transformer a little bit quicker, but it didn't seem worth bothering
 trying that again, as the data files overall were still large.
 
+!!! article-edit """
+    Edit 2017-12-29: The author of gtfstidy emailed me to say:
+
+    > gtfstidy actually comes with a very handy option which I use
+    > extensively for filtering. If you run gtfstidy with `-DO`, it will
+    > delete any entity which makes any problems during validation and
+    > also delete any entity which is not referenced anywhere. This
+    > cascades through the feed. This means that, if you want to only
+    > keep data for certain agencies, for example, you can just delete
+    > all agencies you don't want to keep from the agency.txt file.
+    > `gtfstidy -DO` will now remove any route that references one of the
+    > agencies you have deleted, and any trip that references one of
+    > these routes, and any stop_time that references one of these
+    > trips, and so on. If any orphan stops, or orphan shapes, or orphan
+    > fare rules etc remain after this, the `-O` option will delete them
+    > too.
+    >
+    > This works for any of the GTFS files. If you just want to keep trips
+    > for certain stops, delete every other stop from stops.txt. If you
+    > just want to keep data for some routes, delete all the other routes.
+    > After `gtfstidy -DO`, you will have a new error-free, filtered subset
+    > of the original feed.
+
 ## gtfssplit
 
 Finally, [gtfssplit](https://github.com/samuelmr/gtfssplit) is a PHP
@@ -166,6 +190,19 @@ an alternative option instead of coding something.
 
 This is all speculation for now; I haven't attempted any of this yet. If
 I do and it's useful, I'll share what I learn.
+
+!!! article-edit """
+    Edit 2017-12-29: The approach I actually used to solve this problem
+    is on [GitHub](https://github.com/sensiblecodeio/diet-gtfs) albeit
+    scrappy. It's possible to specify a latitude and longitude range,
+    which you can then filter out stops in stops.txt, and then remove
+    any then-irrelevant content in the other files, and rebuild the
+    feed.
+    
+    I seem to recall this generated a feed with no serious problems
+    when verified by a GTFS feed validator; you could always try
+    sending the output of this through something like gtfstidy, of
+    course.
 
 What would be nice is if feed providers offered feeds in smaller
 regional chunks. Often, transport companies are providing GTFS feeds at
