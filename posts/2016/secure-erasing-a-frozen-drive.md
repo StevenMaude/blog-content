@@ -24,11 +24,11 @@ Summary: How to use hdparm to erase hard drives, and what to do if the drive is 
     > Do this:
     >
     > (1) Un-mount all partitions of the drive, including those that got
-    > auto-mounted. Then do "sync".
+    > auto-mounted. Then do "`sync`".
     >
-    > (2) Set an empty password: hdparm --security-set-pass NULL /dev/sdX
+    > (2) Set an empty password: `hdparm --security-set-pass NULL /dev/sdX`
     >
-    > (3) Erase it: hdparm --security-erase NULL /dev/sdX
+    > (3) Erase it: `hdparm --security-erase NULL /dev/sdX`
 
 Yesterday I was trying to erase a hard drive before I used it for a new
 install. It may well have never been used, but I couldn't remember and,
