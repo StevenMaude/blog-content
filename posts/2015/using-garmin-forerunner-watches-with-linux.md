@@ -9,7 +9,7 @@ Summary: A quick look at Garmin's Forerunner 15 watch and using it with Linux.
     Edit September 2016: What I didn't mention here was how you could
     get EPO data when on Linux. This can help reduce the time it takes
     for your watch to get a GPS signal lock. There's a helpful
-    [blog post](https://www.kluenter.de/garmin-ephemeris-files-and-linux/)
+    [blog post](https://www.kluenter.de/2014/03/23/garmin-ephemeris-files-and-linux.html)
     that gives a lot of the details. There's a
     [Ruby utility](https://github.com/scrapper/postrunner/) that manages
     FIT files and features an option to collect the EPO data from
@@ -100,7 +100,7 @@ gpsbabel -i garmin_fit -f input.FIT -o gpx -F output.gpx
 This gives you a GPX file which can be loaded into far more software. 
 
 As a quick test, I loaded the output GPX file into
-[Viking](https://apps.ubuntu.com/cat/applications/viking/) which seems a
+[Viking](https://github.com/viking-gps/viking) which seems a
 little bit limited, but at least let me visualise speed against time,
 and see where I've been.
 
