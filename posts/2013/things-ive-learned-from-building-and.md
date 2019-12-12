@@ -51,7 +51,7 @@ PC components, **the choice of PC components is a little overwhelming**.
 For me, getting several use out of a PC isn't unreasonable with some
 minor upgrades. My desktop is over six years old and I'm not that
 interested in keeping up with what's going on if my current setup works
-well enough...[^2]
+well enough…[^2]
 
 For me, it kept feeling like I was always on the verge of making a poor
 purchasing choice. There are plenty of reviews online, but it takes time
@@ -98,7 +98,7 @@ motherboard wiring in the manual (e.g. HDD LED, power switch) so that
 you didn't have to squint at the tiny print directly on the motherboard.
 Unfortunately, the manual didn't bother to label the positive and
 negative sides of the LEDs meaning I still had to stare at the
-motherboard to figure this out...
+motherboard to figure this out…
 
 6\. **Windows activation seems to tolerate motherboard changes when the
 boards have identical chipsets.** It needed reactivating once I swapped
@@ -128,4 +128,4 @@ rogue driver or problem of a combination of hardware. I still think the
 fan control issue points to a buggy BIOS.
 
 [^2]: Though having
-just built this PC, it's quite tempting to build one for myself...
+just built this PC, it's quite tempting to build one for myself…

@@ -1,4 +1,4 @@
-Title: Odd behaviour of Bitlocker, or maybe my HDD...
+Title: Odd behaviour of Bitlocker, or maybe my HDD…
 Date: 2013-10-13 20:36
 Modified: 2013-10-13 20:55
 Author: Steven Maude
@@ -26,7 +26,7 @@ an issue with my drive (Samsung ST1000LM024) or Windows itself.
 It's a really peculiar issue: partition sizes of 307200, 307250 to
 307255 and 307265 to 307269 MB gave me this error, but a 307270 MB
 partition would have been fine. Likewise, I got errors at 153600, 460800
-and 76800 MB; it certainly doesn't like multiples of roughly 150 GB...
+and 76800 MB; it certainly doesn't like multiples of roughly 150 GB…
 ([it's possible that this is a red herring
 though](https://en.wikipedia.org/wiki/Confirmation_bias) — I couldn't
 realistically try **every** possible partition size).

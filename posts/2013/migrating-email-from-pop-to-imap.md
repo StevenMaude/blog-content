@@ -57,7 +57,7 @@ Thunderbird](https://support.mozillamessaging.com/en-US/kb/thunderbird-and-gmail
 possibility of the POP account redownloading all the sorted mail that
 was currently being copied from the local POP folders back to Gmail.
 (Untick the two boxes in *Tools menu \> Account Settings \> Server
-Settings \> Check for new messages...*)
+Settings \> Check for new messages…*)
 6. Dragged each folder from the POP account to the IMAP account. This
 will probably be by far the slowest step if you have plenty of mail.
 Don't forget your Sent Mail folder.

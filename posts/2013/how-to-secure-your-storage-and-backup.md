@@ -60,7 +60,7 @@ writing).
 
 Update 2: USB 3 works fine, but there's [some weird Bitlocker or drive
 specific issue
-behaviour](http://www.stevenmaude.co.uk/2013/10/odd-behaviour-of-bitlocker-or-maybe-my)...
+behaviour](http://www.stevenmaude.co.uk/2013/10/odd-behaviour-of-bitlocker-or-maybe-my)…
 
 ## TrueCrypt
 
@@ -73,7 +73,7 @@ behaviour](http://www.stevenmaude.co.uk/2013/10/odd-behaviour-of-bitlocker-or-ma
 
 The other main option is TrueCrypt which is
 freely available, and has good cross-platform support, perhaps making it
-a better choice. Go to Volumes > Create New Volume... and you'll see
+a better choice. Go to Volumes > Create New Volume… and you'll see
 this menu:
 
 <img class="article-image" src="{static}/images/2013/TrueCrypt_menu.png" alt="The TrueCrypt volume creation wizard.">

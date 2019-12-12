@@ -38,7 +38,7 @@ Secondly, and more directly annoying, left clicking on an MP3, which
 would show a save/open prompt, now starts playing the MP3 instead. (I'm
 assuming this feature is new in Firefox 21, since I can't remember it
 being present previously. I'm also aware that you can right-click, and
-then choose Save Link As..., but it's easier to just left-click.)
+then choose Save Link As…, but it's easier to just left-click.)
 
 My initial thought was to check the list of MIME types (Options \>
 Applications) to see if anything had changed. No, it still looked just

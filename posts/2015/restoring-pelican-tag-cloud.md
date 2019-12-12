@@ -20,7 +20,7 @@ Over the next twenty minutes or so, I slowly figured out the cause: the
 Pelican code that creates this had been moved out to a separate plugin.
 (If only I'd checked the [Pelican
 docs](http://docs.getpelican.com/en/3.6.0/faq.html#my-tag-cloud-is-missing-broken-since-i-upgraded-pelican)
-first, I would have saved the time...) From there, it's a simple fix.
+first, I would have saved the time…) From there, it's a simple fix.
 Install the plugin, add it to your `PLUGINS` in `pelicanconf.py` and the
 tag cloud will be restored.
 

@@ -1,4 +1,4 @@
-Title: My wifi's connected, but there's no internet...? (Intel Centrino versus Ubuntu)
+Title: My wifi's connected, but there's no internet…? (Intel Centrino versus Ubuntu)
 Date: 2014-07-29 23:15
 Author: Steven Maude
 Tags: connection, Centrino, wifi, Ubuntu, Intel, fix
@@ -94,4 +94,4 @@ Nowhere else I've been with this laptop seems to be using wireless N, so
 that explains why it was an issue for the first time today. It's pretty
 poor that this seems to have been a [long-running
 problem](https://bugs.launchpad.net/ubuntu/+source/linux/+bug/1034740) and
-yet it's still present... but at least there's a workaround.
+yet it's still present… but at least there's a workaround.

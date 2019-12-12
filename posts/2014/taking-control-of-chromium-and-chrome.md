@@ -124,7 +124,7 @@ just way too big a jackpot for malware distributors to ignore.
 
 Even if such an attack might be spotted quite quickly, how many users
 could be affected in the interim? (I'm not even sure what the solution
-is here; often JQuery's needed for sites to function as intended...)
+is here; often JQuery's needed for sites to function as intended…)
 
 Minimising the number of third-party sites that you allow content to
 load from can't be a bad thing. (There's some risk wherever you go, but

@@ -12,7 +12,7 @@ I'd installed an Epson printer (SX515W). The printer itself was
 connected via wifi and behaving apart from one thing. It wasn't
 displaying the ink levels when checking them in Epson Status Monitor
 (e.g. when sending a document to print). Instead, you just see the
-message "Searching..."[^1] and eventually get a
+message "Searching…"[^1] and eventually get a
 Communication Error.
 
 In my experience, printer manufacturers do seem to

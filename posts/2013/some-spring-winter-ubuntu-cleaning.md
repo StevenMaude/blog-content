@@ -90,6 +90,6 @@ which may be a concern if you have hidden volumes.
 got some nice Ubuntu logo here to make this post look nicer? Incidents
 [like
 this](http://arstechnica.com/information-technology/2013/11/canonical-abused-trademark-law-to-target-a-site-critical-of-ubuntu-privacy/)
-aren't exactly encouraging, even if later admission of mistakes are made...
+aren't exactly encouraging, even if later admission of mistakes are made…
 [^2]: Reading "TRIM" so many times just meant I had to [listen to
 this](https://www.youtube.com/watch?v=dBcCXX0aWhc) while writing.

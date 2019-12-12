@@ -179,4 +179,4 @@ And that's it!
       email to the domain contact to confirm the move. I'm not sure what
       procedure's in place to prevent someone else transferring your domain to
       the same registrar but under their control, once you've changed the IPS
-      tag...
+      tag…
