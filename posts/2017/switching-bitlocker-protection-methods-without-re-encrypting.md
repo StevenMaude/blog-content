@@ -55,7 +55,7 @@ protector.
 
 Specifically, you want to remove the existing TPM and PIN protector:
 
-```dos
+```doscon
 manage-bde -protectors -delete <Drive> -tpmandpin
 ```
 
@@ -74,7 +74,7 @@ wish to have them.)
 
 Next, add a new protector, e.g. a password:
 
-```dos
+```doscon
 manage-bde -protectors -add <Drive> -password
 ```
 
@@ -86,7 +86,7 @@ lockout, as we wanted.
  
 Finally, you can also check BitLocker status:
 
-```dos
+```doscon
 manage-bde -protectors -status
 ```
 
