@@ -40,7 +40,7 @@ into HTML. Take a look at the demo
     actually get [one of their
     tutorials](http://bokeh.pydata.org/tutorial.html#simple-script-based-plotting)
     to work as it should. Rather than two plots on the same set of axes, I
-    was getting two separate plots on two different sets of axes... As this
+    was getting two separate plots on two different sets of axes… As this
     is something I actually needed for work, I reverted back to `matplotlib`
     as a result. So Bokeh looks promising, but might be worth trying again
     in a few months.

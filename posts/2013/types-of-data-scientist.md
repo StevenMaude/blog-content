@@ -16,7 +16,7 @@ looking at.
 Considering the many news articles I see mentioning big data, the
 authors make a sobering observation on this subject (p16-17):
 
-> "Most data scientists rarely work with terabyte or larger data... True
+> "Most data scientists rarely work with terabyte or larger data… True
 > big data work seems limited to a relative small subset of data
 > scientists."
 

@@ -39,7 +39,7 @@ passphrase, add it to your GitHub account and test
 it.](https://help.github.com/articles/generating-ssh-keys)
 
     You should now change the clone URLs GitHub displays to SSH (see the
-    image; where it says clone with HTTPS, SSH..., click on SSH).
+    image; where it says clone with HTTPS, SSH…, click on SSH).
 
     <div class="break-out-of-list">
       <img class="article-image" src="{static}/images/2013/GitHub_clone.png" alt="GitHub sidebar showing the position of the clone URL display.">

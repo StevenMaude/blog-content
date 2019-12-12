@@ -19,7 +19,7 @@ right?)
 [Create a new
 key](https://help.github.com/articles/generating-ssh-keys). If you've
 got an `id_rsa` key already, you can name the new key e.g.
-`~/.ssh/id_rsa.1` (or 2, 3...). (Initially, I put the new key in a
+`~/.ssh/id_rsa.1` (or 2, 3…). (Initially, I put the new key in a
 separate Bitbucket directory and I don't think that the `ssh-agent` would
 automatically pick it up there, so I moved it back to the `.ssh`
 directory.)

@@ -137,7 +137,7 @@ career planning is started, the better. As glad as I am that I went
 through the process, it was a very intense five months' work and I would
 have much preferred to begun this much earlier. Retrospectively, it
 might even have been wise to started preparing when I first started my
-two year postdoc...
+two year postdoc…
 
 Of course, it's probably a little unreasonable to expect every
 researcher to be provided with such thorough and specialised one-to-one

@@ -17,7 +17,7 @@ this month.)
 In the meantime, there's a problem with Windows Update on XP machines
 which means that just *checking for updates* takes an incredibly long
 time to run (if it actually completes, I've never waited that long to
-see...) and causes `svchost.exe` to peg the CPU core it's running on at
+see…) and causes `svchost.exe` to peg the CPU core it's running on at
 100% usage.
 
 This is actually reminiscent of a [problem from a few years
@@ -51,4 +51,4 @@ the last [Patch Tuesday](https://en.wikipedia.org/wiki/Patch_Tuesday)
 for XP.
 
 Just another reason (as if you needed one) to be upgrading from XP
-though...
+though…

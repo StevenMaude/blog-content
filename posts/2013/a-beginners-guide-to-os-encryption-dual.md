@@ -90,7 +90,7 @@ way to unlock the Bitlocker drive on boot is to use a USB key.
 
 This isn't ideal. If you forget the key, you're locked out of your PC.
 It's also something else to have to carry around (though I suppose it
-might be possible to use a phone as USB storage...). If I was just lazy
+might be possible to use a phone as USB storage…). If I was just lazy
 and just left it plugged in the whole time, it could easily be stolen
 with the PC. So, it was best that I didn't spend any more time
 considering this option.

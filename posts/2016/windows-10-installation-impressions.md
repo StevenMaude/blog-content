@@ -123,7 +123,7 @@ You can download a USB creator or ISO from Microsoft's site, and run
 
 The whole process didn't take too long either and didn't seem to cause
 any problems following it. Microsoft do blatantly ignore your existing
-choice of browser and select Edge as the default for you though...
+choice of browser and select Edge as the default for you though…
 thanks for that.
 
 ## And after installation?

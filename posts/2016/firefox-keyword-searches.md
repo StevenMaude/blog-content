@@ -32,7 +32,7 @@ one that refers to whatever URL the search box will send you to, not the
 page itself.
 
 1. Right click a search box on a webpage.
-2. Select "Add a Keyword for this Search..."
+2. Select "Add a Keyword for this Search…"
 3. In the dialogue that opens, enter a keyword and the search URL is
    then added to your bookmarks with a placeholder for a query.
 4. When you next type that keyword followed by a search query into the
