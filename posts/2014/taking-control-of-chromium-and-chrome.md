@@ -164,7 +164,7 @@ By virtue of what HTTP Switchboard aims to do — give you full control of
 what is allowed by your browser — this makes its user interface slightly
 more complex, which I'll soon get onto.
 
-<img class="article-image" src="{filename}/images/2014/ublock.png" alt="The ublock enable/disable icon." width="174">
+<img class="article-image" src="{static}/images/2014/ublock.png" alt="The ublock enable/disable icon." width="174">
 
 Stripping out this sophistication seems like a smart move, since
 ublock's incredibly easy to use. Really, it requires the same amount of
@@ -199,7 +199,7 @@ site to run scripts or store cookies. These have a text explanation of
 what the option does.
 
 <figure class="article-figure">
-  <img src="{filename}/images/2014/Firefox_menus.png" alt="Examples of NoScript, CookieMonster and RequestPolicy permission menus.">
+  <img src="{static}/images/2014/Firefox_menus.png" alt="Examples of NoScript, CookieMonster and RequestPolicy permission menus.">
   <figcaption>From left to right, examples of NoScript, CookieMonster and RequestPolicy permission menus when accessing Google Books.</figcaption>
 </figure>
 
@@ -214,7 +214,7 @@ Each site is represented as a row, and each type of content is shown as
 a column.
 
 <figure class="article-figure">
-  <img src="{filename}/images/2014/HTTP_Switchboard.png" alt="Example of HTTP Switchboard's table interface.">
+  <img src="{static}/images/2014/HTTP_Switchboard.png" alt="Example of HTTP Switchboard's table interface.">
   <figcaption>Example of HTTP Switchboard's interface when accessing Google Books.</figcaption>
 </figure>
 

@@ -15,7 +15,7 @@ Summary: GitHub hiding my profile reminds me there are no guarantees of your pre
 
 I logged into GitHub this week and saw an unusual message:
 
-<img class="article-image" src="{filename}/images/2016/GitHub_not_human.png" alt="The GitHub message prompting me that I'm possibly not human.">
+<img class="article-image" src="{static}/images/2016/GitHub_not_human.png" alt="The GitHub message prompting me that I'm possibly not human.">
 
 > One of our mostly harmless robots seems to think you are not a human.
 >

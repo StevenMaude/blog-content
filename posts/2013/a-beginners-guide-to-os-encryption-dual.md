@@ -7,7 +7,7 @@ Slug: a-beginners-guide-to-os-encryption-dual
 Summary: How to encrypt Windows and Ubuntu in a dual boot system.
 Alias: /2013/09/a-beginners-guide-to-os-encryption-dual.html
 
-<img class="article-image" src="{filename}/images/2013/Padlock_and_key.jpg" alt="A padlock with a key." width="320">
+<img class="article-image" src="{static}/images/2013/Padlock_and_key.jpg" alt="A padlock with a key." width="320">
 
 The beginner in the title of this post may or may not refer to you. It
 certainly describes me. Since I was about to setup a new PC, I decided
@@ -72,7 +72,7 @@ please email or [let me know via Twitter](https://twitter.com/StevenMaude).
 
 ## Approach 2: Encrypt Windows 7 Enterprise/Ultimate with Bitlocker; encrypt Ubuntu with LUKS
 
-<img class="article-image" src="{filename}/images/2013/Bitlocker.png" alt="Screengrab of Bitlocker's user interface in Windows 7.">
+<img class="article-image" src="{static}/images/2013/Bitlocker.png" alt="Screengrab of Bitlocker's user interface in Windows 7.">
 
 The first issue here is that the only versions of Windows 7 that support
 Bitlocker are Enterprise and Ultimate. If you have Windows 7 Pro, you're
@@ -97,7 +97,7 @@ considering this option.
 
 ## Approach 3: Encrypt Windows 7 (any version) with TrueCrypt; encrypt Ubuntu with LUKS
 
-<img class="article-image" src="{filename}/images/2013/TrueCrypt.png" alt="TrueCrypt program window showing options to create a new encrypted volume.">
+<img class="article-image" src="{static}/images/2013/TrueCrypt.png" alt="TrueCrypt program window showing options to create a new encrypted volume.">
 
 !!! article-edit ""
     Edit October 2015: There are vulnerabilities in the Windows
