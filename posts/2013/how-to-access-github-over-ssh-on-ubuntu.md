@@ -7,7 +7,7 @@ Slug: how-to-access-github-over-ssh-on-ubuntu
 Summary: How to use GitHub over SSH in Ubuntu, and forward SSH keys to other shell accounts.
 Alias: /2013/09/how-to-access-github-over-ssh-on-ubuntu.html
 
-<img class="article-image" src="{filename}/images/2013/GitHub_logo.png" alt="GitHub logo">
+<img class="article-image" src="{static}/images/2013/GitHub_logo.png" alt="GitHub logo">
 
 [Since starting working at
 ScraperWiki](http://blog.scraperwiki.com/2013/09/02/hi-im-steve/), I've
@@ -42,7 +42,7 @@ it.](https://help.github.com/articles/generating-ssh-keys)
     image; where it says clone with HTTPS, SSH..., click on SSH).
 
     <div class="break-out-of-list">
-      <img class="article-image" src="{filename}/images/2013/GitHub_clone.png" alt="GitHub sidebar showing the position of the clone URL display.">
+      <img class="article-image" src="{static}/images/2013/GitHub_clone.png" alt="GitHub sidebar showing the position of the clone URL display.">
     </div>
 
     Now, the first time you try to perform some action on GitHub via ssh

@@ -17,7 +17,7 @@ Usually, job specifications are pretty much just as you would expect
 from the job title. I'm not entirely sure whether the highlighted point
 in this vacancy was really necessary though:
 
-<img class="article-image" src="{filename}/images/2013/Job_specification.png" alt="A job vacancy posting.">
+<img class="article-image" src="{static}/images/2013/Job_specification.png" alt="A job vacancy posting.">
 
 "So, you're a maths expert. That's great for this role! Oh, one final
 thing, if we happen to have a cake day at the office, are you going to

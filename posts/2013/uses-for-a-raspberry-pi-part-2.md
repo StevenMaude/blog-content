@@ -8,7 +8,7 @@ Summary: Running the Raspberry Pi as a file and media server, and as a PVR with 
 Alias: /2013/07/uses-for-a-raspberry-pi-part-2.html
 
 
-<img class="article-image" src="{filename}/images/2013/Raspberry_Pi.jpg" alt="A Raspberry Pi working hard!">
+<img class="article-image" src="{static}/images/2013/Raspberry_Pi.jpg" alt="A Raspberry Pi working hard!">
 
 In my [last
 post](http://www.stevenmaude.co.uk/2013/07/uses-for-a-raspberry-pi-part-1),
@@ -169,7 +169,7 @@ reasons.
 
 ### Scheduling the PVR to run
 
-<img class="article-image" src="{filename}/images/2013/get_iplayer_crontab.png" alt="Crontab with get_iplayer scheduled.">
+<img class="article-image" src="{static}/images/2013/get_iplayer_crontab.png" alt="Crontab with get_iplayer scheduled.">
 
 However, it is more convenient to run the PVR regularly rather than have
 to run it manually. You can add the command to run the PVR to the [cron

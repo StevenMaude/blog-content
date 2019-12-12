@@ -7,7 +7,7 @@ Slug: book-review-data-science-for-business
 Summary: A review of Foster Provost and Tom Fawcett's introductory data science book: "Data Science for Business".
 Alias: /2014/01/book-review-data-science-for-business.html
 
-<img class="article-image" src="{filename}/images/2014/Data_Science_for_Business.jpg" alt="Cover of &quot;Data Science for Business&quot; book." width="300">
+<img class="article-image" src="{static}/images/2014/Data_Science_for_Business.jpg" alt="Cover of &quot;Data Science for Business&quot; book." width="300">
 
 I recently read "Data Science for Business" by Foster Provost and Tom
 Fawcett for the upcoming [Data Science Book
