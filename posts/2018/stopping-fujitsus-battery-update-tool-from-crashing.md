@@ -16,7 +16,7 @@ I might as well catch up on things everywhere and update the Windows install.
 
 Dropping into that did update Windows, and all well and good. Or so I thought.
 
-# The problem
+## The problem
 
 On restarting, I noticed there was a Fujitsu prompt that appeared, and was a
 little unexpected. What I was being asked to install was the very precisely
@@ -46,7 +46,7 @@ Anyway, I rebooted and tried the update again. Same result. Blue screen.
 OK then. Third time lucky, maybe? No. Just the same (reliably) unreliable
 result.
 
-# The fix
+## The fix
 
 In a moment of fortunate (and rare) inspiration, I remembered that I'd turned on a
 relatively new security feature — [Memory
