@@ -11,7 +11,7 @@ Alias: /2013/07/uses-for-a-raspberry-pi-part-2.html
 <img class="article-image" src="{static}/images/2013/Raspberry_Pi.jpg" alt="A Raspberry Pi working hard!">
 
 In my [last
-post](http://www.stevenmaude.co.uk/2013/07/uses-for-a-raspberry-pi-part-1),
+post]({filename}../2013/uses-for-a-raspberry-pi-part-1.md),
 I described a few simple, but effective uses for a Raspberry Pi. Here
 are two more!
 

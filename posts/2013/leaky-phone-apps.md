@@ -34,5 +34,5 @@ permissions to enable the user to install an app without necessarily
 giving it access to e.g. your address book. The only options on stock
 Android are to take the app, warts and all, or do without. So,
 definitely worth considering installing
-[PDroid](http://www.stevenmaude.co.uk/2013/05/patching-android-roms-for-pdroid-using)
+[PDroid]({filename}../2013/patching-android-roms-for-pdroid-using.md)
 to help deal with this issue.

@@ -8,7 +8,7 @@ Summary: Description of some strange behaviour I observed when setting up a USB 
 Alias: /2013/10/odd-behaviour-of-bitlocker-or-maybe-my.html
 
 As [I'd previously
-mentioned](http://www.stevenmaude.co.uk/2013/09/how-to-secure-your-storage-and-backup),
+mentioned]({filename}../2013/how-to-secure-your-storage-and-backup.md),
 I'd had issues with a USB 3 drive enclosure when trying to set up a
 backup drive with Bitlocker on Windows 7. When I replaced the USB 3
 enclosure with a slower, USB 2 enclosure, I found exactly the same
