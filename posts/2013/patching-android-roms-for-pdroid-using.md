@@ -9,7 +9,7 @@ Alias: /2013/05/patching-android-roms-for-pdroid-using.html
 
 !!! article-edit ""
     Edit 2014/03/28: Auto-Patcher is deprecated; see [my more recent
-    post](http://www.stevenmaude.co.uk/2014/03/phone-upgrades-and-privacy-downgrades).
+    post]({filename}../2014/phone-upgrades-and-privacy-downgrades.md).
 
 Over the past six months or so, I've been running the very slick port of
 CyanogenMod 9.1 to Huawei's G300 phone by Dazzozo and collaborators as

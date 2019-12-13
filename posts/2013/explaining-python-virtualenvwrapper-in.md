@@ -8,7 +8,7 @@ Summary: How to use virtualenvwrapper to manage your Python virtualenvs.
 Alias: /2013/09/explaining-python-virtualenvwrapper-in.html
 
 As I wrote previously,
-[virtualenv](http://www.stevenmaude.co.uk/2013/08/explaining-python-virtualenv-in-under)
+[virtualenv]({filename}../2013/explaining-python-virtualenv-in-under.md)
 in Python simplifies development life and dependency handling by
 allowing you to effectively use a fresh Python install for each project
 you work on.
