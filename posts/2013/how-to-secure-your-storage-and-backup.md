@@ -66,7 +66,7 @@ behaviour]({filename}../2013/odd-behaviour-of-bitlocker-or-maybe-my.md)…
 
 !!! article-edit ""
     Edit: see my [earlier encryption
-    post]({filename}../2013/a-beginners-guide-to-os-encryption-dual.md#fn:2)
+    post]({filename}../2013/a-beginners-guide-to-os-encryption-dual.md#approach-3-encrypt-windows-7-any-version-with-truecrypt-encrypt-ubuntu-with-luks)
     for notes on the current state of TrueCrypt; it shouldn't be used
     anymore (on Windows, for certain), but one of its successors may be a
     suitable replacement.
