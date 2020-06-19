@@ -34,8 +34,8 @@ entirely, or [removing a user and all their
 content]({filename}../2017/rinse-fms-soundcloud-takedown.md).
 
 Users themselves may also delete things they've previously shared.
-Especially in a post-GDPR world, where people are likely far aware of
-their ability and rights to do just that.
+Especially in a post-GDPR world, where people are likely far more aware
+of their ability and rights to do just that.
 
 Even if I had starred the elusive repository, that would not have helped
 if the user deleted the repository or the user's account disappeared.
