@@ -1,8 +1,19 @@
 Title: A look at Pipenv
 Date: 2018-08-26 14:06
+Modified: 2020-06-19 12:39
 Author: Steven Maude
 Tags: Pipenv, Python
 Summary: A quick look at Pipenv, a tool to manage Python packages.
+
+!!! article-edit ""
+    Edit 2020-06-19: These days, I just tend to use a manually created
+    virtualenv when working on Python, and a bash one-liner to activate
+    the appropriate virtualenv.
+
+    As mentioned below, [poetry](https://github.com/python-poetry/poetry) is
+    another option for managing dependencies and I've seen a lot of
+    positive things written about poetry since I originally wrote this
+    post.
 
 [Pipenv](https://github.com/pypa/pipenv)[^1] is a tool that aims to
 remove the hassle of using
@@ -109,7 +120,7 @@ there](https://blog.golang.org/versioning-proposal). Python's had
 considerably longer than Go to get it right though.)
 
 Finally, it is worth noting that there are other alternatives too.
-[Poetry](https://github.com/sdispater/poetry) is a newer, and perhaps
+[Poetry](https://github.com/python-poetry/poetry) is a newer, and perhaps
 less well known, tool whose goals intersect with those of Pipenv. It
 fixes some of the existing issues of dependency resolution that
 pip-tools has (pip-tools is the underlying package that pipenv actually
