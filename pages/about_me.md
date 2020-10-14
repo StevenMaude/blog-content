@@ -25,11 +25,7 @@ scientist](http://dx.doi.org/10.2217/nnm.13.65). (This was
 before finding an excuse to do more work with computers.)
 
 Anyway, since you clicked on this link, I'm guessing you might want to
-know how to get in touch.
-
-An easy way is via [Twitter](https://twitter.com/StevenMaude).
-If you've got something more substantial than will fit into 140
-character posts, you can email using the address below:
+know how to get in touch; you can email using the address below:
 
 blog(replace these parentheses and everything inside with an at sign
 here)stevenmaude.co.uk
