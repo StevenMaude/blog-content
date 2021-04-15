@@ -6,12 +6,22 @@ Alias: /p/contact.html
 
 Hello! I'm Steve and, rather obviously, this is my blog.
 
-Professionally, I spent my early career so far studying science and
-working in scientific research. Later on, spotting the increasing number
-of exciting opportunities to work in software solving data problems, I
-switched careers to computing. That turned out to be a good decision!
-Currently, I work remotely for [The Sensible Code
-Company](https://sensiblecode.io/).
+Professionally, I spent my early career studying science and working in
+scientific research. I trained as a chemist, generalised to study
+nanoscale science, and continued to hedge my bets by completing a PhD
+studying the physical chemistry of bio-inspired materials.
+
+Later, spotting the increasing number of exciting opportunities to work
+in software solving data problems, I switched careers to computing.
+That turned out to be a good decision!
+
+I've worked for [The Sensible Code Company](https://sensiblecode.io) for
+several years and, for the last few, entirely remotely. As of 2021, I'm
+still helping at Sensible Code part-time. The other part of my working
+week is spent as a software developer at [The
+DataLab](https://www.thedatalab.org) at the University of Oxford. This
+was an unexpected move. But I'm happy to have gone full circle back to
+university to help others use data in their health research.
 
 This blog contains a lot of what I've published publicly, but I've also
 got work elsewhere too. Here's a list of where you can find more of my
