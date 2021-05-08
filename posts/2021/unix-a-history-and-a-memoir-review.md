@@ -1,5 +1,6 @@
 Title: A review of "UNIX: A History and a Memoir" 
 Date: 2021-05-08 00:12
+Modified: 2021-05-08 12:16
 Author: Steven Maude
 Tags: book, computing, history, Linux, review, UNIX
 Summary: A quick recommendation of an easy-to-read and brisk summary of the development of UNIX.
@@ -12,15 +13,15 @@ Programming Language" by Kernighan and Ritchie). The title covers most
 of what the book deals with: the formative years of UNIX, with
 explanation of the key software that was developed as part of it.
 
-It explains where, and from who, UNIX was developed. Initially, UNIX was
-one of Ken Thompson's side projects, quickly capturing wider interest
-and sparking collaboration within Bell Labs. This was all amid a milieu
-of Bell Labs having considerable operating system development experience
-as a collective, yet having no operating system to work on. (Bell Labs
-had been working on the Multics project, but eventually withdrew its
-support.) Eventually, management managed to gather funding for UNIX,
-initially with a view to improving how patent applications within Bell
-Labs were prepared.
+It explains where UNIX was developed and who did that work. Initially,
+UNIX was one of Ken Thompson's side projects, quickly capturing wider
+interest and sparking collaboration within Bell Labs. This was all amid
+a milieu of Bell Labs having considerable operating system development
+experience as a collective, yet having no operating system to work on.
+(Bell Labs had been working on the Multics project, but eventually
+withdrew its support.) Eventually, management managed to gather funding
+for UNIX, initially with a view to improving how patent applications
+within Bell Labs were prepared.
 
 From there, UNIX developed sufficiently that it found wider use within
 Bell Labs, within AT&T — Bell Labs' then parent company — and within
@@ -52,7 +53,7 @@ that Bell Labs had an extended period where the organisation:
 
 * had interesting and challenging problems to solve;
 * hired very talented staff to solve those problems;
-* had sufficient resources that the staff weren't worrying about
+* had sufficient resources that the staff did not need to worry about
   funding, while management could take a longer view on projects without
   demanding immediate results;
 * had a technically competent management;
