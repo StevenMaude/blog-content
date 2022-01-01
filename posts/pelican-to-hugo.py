@@ -36,29 +36,20 @@ for file in files:
         # The conversion of a thousand files only takes a few seconds.
         with open(input_file, 'rU') as fi, open(output_file, 'w') as fo:
             for line in fi:
-                # Add opening frontmatter delimiter before the title.
-                line = re.sub(r'(title:)', r'---\n\1', line)
-                # Add closing frontmatter delimiter after the tags.
-                line = re.sub(r'(tags: .*)$$', r'\1\n---', line)
-                # Enclose the title in quotes.
-                line = re.sub(r'title: (.*)', r'title: "\1"', line)
 
                 line = re.sub(r'(Title:)', r'title:', line)
-                line = re.sub(r'(Tags:)', r'tags:', line)
-                line = re.sub(r'(Date:)', r'date:', line)
-                line = re.sub(r'(Category:)', r'categories:', line)
-                line = re.sub(r'(Slug:)', r'slug:', line)
-                line = re.sub(r'(Summary:.*$)', r'summary:', line)
-                line = re.sub(r'(author:.*$)', r'', line)
-                line = re.sub(r'(Subtitle:)', r'description:', line)
-
                 # Add opening frontmatter delimiter before the title.
                 line = re.sub(r'(title:)', r'---\n\1', line)
                 # Enclose the title in quotes.
                 line = re.sub(r'title: (.*)', r'title: "\1"', line)
-                line = re.sub(r'description: (.*)', r'description: "\1"', line)
+
                 # Change date formatting.
+                line = re.sub(r'(Date:)', r'date:', line)
                 line = re.sub(r'(date: \d{4}-\d{2}-\d{2}) (\d{2}:\d{2})', r'\1T\2:00Z', line)
+                
+                line = re.sub(r'Author: (.*)', r'author: "\1"', line)
+
+                line = re.sub(r'(Tags:)', r'tags:', line)
                 # Slow but insightful way to edit the tags.
                 if re.match(r'tags: (.*)', line):
                     # Split the comma separated list of tags.
@@ -69,9 +60,12 @@ for file in files:
                     tag_list = re.sub(r'tags: (.*)', r'tags: \n- \1', tag_plist)
                     # And enclose the tags in quotes.
                     line = re.sub(r'- (.*)', r'- "\1"', tag_list)
-                # Add closing frontmatter delimiter after the tags.
-                line = re.sub(r'(\[TOC\].*$)', r'---', line)
-                    
+                
+                line = re.sub(r'Slug (.*):', r'slug: \1', line)
+                line = re.sub(r'Summary: (.*)', r'summary: \1', line)
+                # Add closing frontmatter delimiter after the summary.
+                line = re.sub(r'(summary: .*)$$', r'\1\n---', line)
+
                 fo.write(line)
             # Print a little something about the conversion.
             print(file_name + ' converted.')
