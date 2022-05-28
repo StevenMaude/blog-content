@@ -18,10 +18,11 @@ That turned out to be a good decision!
 I've worked for [The Sensible Code Company](https://sensiblecode.io) for
 several years and, for the last few, entirely remotely. As of 2021, I'm
 still helping at Sensible Code part-time. The other part of my working
-week is spent as a software developer at [The
-DataLab](https://www.thedatalab.org) at the University of Oxford. This
-was an unexpected move. But I'm happy to have gone full circle back to
-university to help others use data in their health research.
+week is spent as a software developer at
+[The Bennett Institute for Applied Data Science](https://www.bennett.ox.ac.uk)
+at the University of Oxford. This was an unexpected move. But I'm happy to
+have gone full circle back to university to help others use data in their
+health research.
 
 This blog contains a lot of what I've published publicly, but I've also
 got work elsewhere too. Here's a list of where you can find more of my
