@@ -60,6 +60,9 @@ contributor.
 
 I was a co-author of the following:
 
+* ["Software development skills for health data
+  researchers"](https://dx.doi.org/10.1136/bmjhci-2021-100488)
+  (BMJ Health & Care Informatics, 2022)
 * ["A Simple API to the
   KnowledgeStore"](https://dl.acm.org/doi/10.5555/2878379.2878381)
   (International Semantic Web Conference Developers Workshop conference
