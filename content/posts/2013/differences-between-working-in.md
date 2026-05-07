@@ -1,7 +1,8 @@
 +++
 title = "Differences between working in university research and a tech startup"
-date = 2013-11-03T13:23
-lastmod = 2013-11-03T23:12
+date = 2013-11-03T13:23:00
+show_lastmod = true
+lastmod = 2013-11-03T23:12:00
 author = "Steven Maude"
 summary = "A comparison of the differences between working in university research and working in a technology startup."
 slug = "differences-between-working-in"

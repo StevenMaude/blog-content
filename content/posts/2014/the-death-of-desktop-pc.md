@@ -1,7 +1,8 @@
 +++
 title = "The death of the desktop PC?"
-date = 2014-03-17T19:04
-lastmod = 2014-03-17T19:11
+date = 2014-03-17T19:04:00
+show_lastmod = true
+lastmod = 2014-03-17T19:11:00
 author = "Steven Maude"
 summary = "On why desktop PCs still have life in them yet."
 slug = "the-death-of-desktop-pc"

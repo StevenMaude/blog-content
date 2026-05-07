@@ -1,7 +1,8 @@
 +++
 title = "Horrible wireless network pings in Ubuntu and how to fix them"
-date = 2013-11-20T18:51
-lastmod = 2017-03-03T17:02
+date = 2013-11-20T18:51:00
+show_lastmod = true
+lastmod = 2017-03-03T17:02:00
 author = "Steven Maude"
 summary = "A quick guide on how to fix high and variable pings when connecting to wireless networks using Ubuntu Linux."
 slug = "horrible-wireless-network-pings-in"

@@ -1,6 +1,6 @@
 +++
 title = "Beatmatching to beat grid in Traktor"
-date = 2015-12-21T13:50
+date = 2015-12-21T13:50:00
 author = "Steven Maude"
 summary = "Beatmatching by ear can help you beat grid music in Traktor."
 slug = "beatmatching-to-beat-grid-in-Traktor"

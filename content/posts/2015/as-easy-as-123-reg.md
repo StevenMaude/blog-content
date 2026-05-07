@@ -1,6 +1,6 @@
 +++
 title = "As easy as 123(-reg)"
-date = 2015-12-11T17:04
+date = 2015-12-11T17:04:00
 author = "Steven Maude"
 summary = "Transferring a .co.uk domain from 123-reg to Namecheap with no downtime."
 slug = "as-easy-as-123-reg"

@@ -1,7 +1,8 @@
 +++
 title = "US PyCon 2014 talks"
-date = 2014-04-19T15:57
-lastmod = 2014-04-19T16:31
+date = 2014-04-19T15:57:00
+show_lastmod = true
+lastmod = 2014-04-19T16:31:00
 author = "Steven Maude"
 summary = "Rundown of some great US PyCon talks I recently watched."
 slug = "us-pycon-2014-talks"

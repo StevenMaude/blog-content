@@ -1,6 +1,6 @@
 +++
 title = "A beginner's guide to OS encryption: (almost) 2017 edition"
-date = 2016-11-28T00:26
+date = 2016-11-28T00:26:00
 author = "Steven Maude"
 summary = "How to dual boot Windows with Ubuntu and encrypt them both."
 slug = "beginner-guide-to-os-encryption-nearly-2017-edition"

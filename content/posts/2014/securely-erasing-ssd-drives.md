@@ -1,7 +1,8 @@
 +++
 title = "Securely erasing SSD drives"
-date = 2014-01-04T11:22
-lastmod = 2014-01-12T15:13
+date = 2014-01-04T11:22:00
+show_lastmod = true
+lastmod = 2014-01-12T15:13:00
 author = "Steven Maude"
 summary = "How to securely erase drives with the ATA Secure Erase function via hdparm."
 slug = "securely-erasing-ssd-drives"

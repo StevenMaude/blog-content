@@ -1,6 +1,6 @@
 +++
 title = "The Novelist: a haunting experience"
-date = 2016-12-24T19:59
+date = 2016-12-24T19:59:00
 author = "Steven Maude"
 summary = "What I made of the PC indie title, The Novelist."
 slug = "what-i-learned-from-the-novelist"

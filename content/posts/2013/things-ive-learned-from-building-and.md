@@ -1,7 +1,8 @@
 +++
 title = "Things I've learned from building (and rebuilding) a PC."
-date = 2013-12-31T11:52
-lastmod = 2014-01-16T18:30
+date = 2013-12-31T11:52:00
+show_lastmod = true
+lastmod = 2014-01-16T18:30:00
 author = "Steven Maude"
 summary = "Things I've learned from building (and rebuilding) a PC."
 slug = "things-ive-learned-from-building-and"

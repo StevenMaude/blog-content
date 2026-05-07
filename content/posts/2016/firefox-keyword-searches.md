@@ -1,6 +1,6 @@
 +++
 title = "Firefox keyword searches, and how to fix adding them"
-date = 2016-04-03T17:00
+date = 2016-04-03T17:00:00
 author = "Steven Maude"
 summary = "How Firefox keyword searches speed up web searching, and how to resolve the situation when you can't add new ones."
 slug = "firefox-keyword-searches"

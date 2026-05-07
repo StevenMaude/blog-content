@@ -1,7 +1,8 @@
 +++
 title = "How to access GitHub over SSH on Ubuntu"
-date = 2013-09-07T11:48
-lastmod = 2013-09-07T12:07
+date = 2013-09-07T11:48:00
+show_lastmod = true
+lastmod = 2013-09-07T12:07:00
 author = "Steven Maude"
 summary = "How to use GitHub over SSH in Ubuntu, and forward SSH keys to other shell accounts."
 slug = "how-to-access-github-over-ssh-on-ubuntu"

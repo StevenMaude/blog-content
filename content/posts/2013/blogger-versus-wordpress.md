@@ -1,7 +1,8 @@
 +++
 title = "Blogger versus WordPress"
-date = 2013-05-11T12:55
-lastmod = 2013-07-14T10:56
+date = 2013-05-11T12:55:00
+show_lastmod = true
+lastmod = 2013-07-14T10:56:00
 author = "Steven Maude"
 summary = "Deciding on what blogging platform to use."
 slug = "blogger-versus-wordpress"

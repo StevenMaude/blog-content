@@ -1,6 +1,6 @@
 +++
 title = "\"The Missing Semester of Your CS Education\": a course review"
-date = 2020-06-07T20:55
+date = 2020-06-07T20:55:00
 author = "Steven Maude"
 summary = "A quick review and recommendation of a useful computer science"
 slug = "the-missing-semester-of-your-cs-education-a-review"

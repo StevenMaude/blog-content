@@ -1,6 +1,6 @@
 +++
 title = "Type:Rider: A Re:view"
-date = 2017-03-29T00:31
+date = 2017-03-29T00:31:00
 author = "Steven Maude"
 summary = "What the PC game, Type:Rider, taught me about fonts."
 slug = "type-rider-a-review"

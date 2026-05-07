@@ -1,7 +1,8 @@
 +++
 title = "Rinse FM's SoundCloud account takedown"
-date = 2017-07-15T23:11
-lastmod = 2017-07-18T21:56
+date = 2017-07-15T23:11:00
+show_lastmod = true
+lastmod = 2017-07-18T21:56:00
 author = "Steven Maude"
 summary = "What the deletion of Rinse FM's SoundCloud account for"
 slug = "rinse-fms-soundcloud-takedown"

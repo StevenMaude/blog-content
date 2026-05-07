@@ -1,7 +1,8 @@
 +++
 title = "Uses for a Raspberry Pi (part 2)"
-date = 2013-07-17T19:32
-lastmod = 2015-01-09T16:59
+date = 2013-07-17T19:32:00
+show_lastmod = true
+lastmod = 2015-01-09T16:59:00
 author = "Steven Maude"
 summary = "Running the Raspberry Pi as a file and media server, and as a PVR with get_iplayer."
 slug = "uses-for-a-raspberry-pi-part-2"

@@ -1,6 +1,6 @@
 +++
 title = "Fixing Chromium on Ubuntu video playback issues (no video, black screen)"
-date = 2013-09-22T21:49
+date = 2013-09-22T21:49:00
 author = "Steven Maude"
 summary = "How to fix playback of online videos in Chromium on Ubuntu 12.04."
 slug = "fixing-chromium-on-ubuntu-video"

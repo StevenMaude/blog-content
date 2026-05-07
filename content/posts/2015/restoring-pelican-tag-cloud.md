@@ -1,6 +1,6 @@
 +++
 title = "Restoring a tag cloud dispersed by Pelican 3.6.0"
-date = 2015-07-12T11:51
+date = 2015-07-12T11:51:00
 author = "Steven Maude"
 summary = "How to fix tag clouds in Pelican 3.6.0."
 slug = "restoring-pelican-tag-cloud"

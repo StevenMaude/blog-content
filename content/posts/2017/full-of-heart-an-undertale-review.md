@@ -1,6 +1,6 @@
 +++
 title = "Full of heart: an Undertale review"
-date = 2017-08-20T15:47
+date = 2017-08-20T15:47:00
 author = "Steven Maude"
 summary = "The world doesn't need another review of Undertale."
 slug = "full-of-heart-an-undertale-review"

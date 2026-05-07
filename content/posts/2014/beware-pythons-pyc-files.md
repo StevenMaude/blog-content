@@ -1,7 +1,8 @@
 +++
 title = "Beware Python's pyc files"
-date = 2014-05-09T21:29
-lastmod = 2014-05-09T22:35
+date = 2014-05-09T21:29:00
+show_lastmod = true
+lastmod = 2014-05-09T22:35:00
 author = "Steven Maude"
 summary = "When Python's pyc files cause errors, it's time to remove them."
 slug = "beware-pythons-pyc-files"

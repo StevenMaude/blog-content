@@ -1,7 +1,8 @@
 +++
 title = "It's not often that I think of technical fixes as favourites, but…"
-date = 2013-11-10T16:49
-lastmod = 2013-11-10T17:12
+date = 2013-11-10T16:49:00
+show_lastmod = true
+lastmod = 2013-11-10T17:12:00
 author = "Steven Maude"
 summary = "Fixing a common charging issue of the Logitech MX Revolution where the battery red LED flashes when charging."
 slug = "its-not-often-that-i-think-of-technical"

@@ -1,6 +1,6 @@
 +++
 title = "Adjustable height standing desks in small spaces"
-date = 2023-02-10T22:26
+date = 2023-02-10T22:26:00
 author = "Steven Maude"
 summary = "Notes on installing a Fully Jarvis desk in a small corner space."
 slug = "adjustable-height-standing-desks-in-small-spaces"

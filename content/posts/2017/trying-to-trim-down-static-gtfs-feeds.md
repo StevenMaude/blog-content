@@ -1,7 +1,8 @@
 +++
 title = "Trying to trim down static GTFS feeds"
-date = 2017-05-05T11:15
-lastmod = 2017-12-29T22:24
+date = 2017-05-05T11:15:00
+show_lastmod = true
+lastmod = 2017-12-29T22:24:00
 author = "Steven Maude"
 summary = "Some tools to perhaps pare down ponderous static GTFS feeds."
 slug = "trying-to-trim-down-static-gtfs-feeds"

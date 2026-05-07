@@ -1,6 +1,6 @@
 +++
 title = "Do you even Liszt? Five months of learning piano"
-date = 2017-06-11T14:06
+date = 2017-06-11T14:06:00
 author = "Steven Maude"
 summary = "Taking piano lessons as a late learner."
 slug = "five-months-of-learning-piano"

@@ -1,7 +1,8 @@
 +++
 title = "Uses for a Raspberry Pi (part 1)"
-date = 2013-07-10T21:21
-lastmod = 2013-07-14T13:45
+date = 2013-07-10T21:21:00
+show_lastmod = true
+lastmod = 2013-07-14T13:45:00
 author = "Steven Maude"
 summary = "A few simple, but useful, applications for a Raspberry Pi, including a wireless adapter and AirPrint server."
 slug = "uses-for-a-raspberry-pi-part-1"

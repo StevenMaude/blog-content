@@ -1,7 +1,8 @@
 +++
 title = "Uninstalling the Windows GoToMeeting client"
-date = 2013-05-14T19:35
-lastmod = 2013-07-14T13:08
+date = 2013-05-14T19:35:00
+show_lastmod = true
+lastmod = 2013-07-14T13:08:00
 author = "Steven Maude"
 summary = "How to uninstall the Windows GoToMeeting client."
 slug = "uninstalling-gotomeeting"

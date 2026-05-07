@@ -1,7 +1,8 @@
 +++
 title = "Explaining Python virtualenvwrapper (in a couple of minutes)"
-date = 2013-09-19T17:53
-lastmod = 2013-09-19T17:56
+date = 2013-09-19T17:53:00
+show_lastmod = true
+lastmod = 2013-09-19T17:56:00
 author = "Steven Maude"
 summary = "How to use virtualenvwrapper to manage your Python virtualenvs."
 slug = "explaining-python-virtualenvwrapper-in"

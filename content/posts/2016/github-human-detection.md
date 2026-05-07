@@ -1,6 +1,6 @@
 +++
 title = "What happens when GitHub decides you're not a human"
-date = 2016-09-11T23:47
+date = 2016-09-11T23:47:00
 author = "Steven Maude"
 summary = "GitHub hiding my profile reminds me there are no guarantees of your presence on online services."
 slug = "github-human-detection"

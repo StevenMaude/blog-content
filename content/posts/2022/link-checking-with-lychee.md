@@ -1,6 +1,6 @@
 +++
 title = "Link checking with lychee"
-date = 2022-09-07T21:11
+date = 2022-09-07T21:11:00
 author = "Steven Maude"
 summary = "A rundown of validating URLs with lychee"
 slug = "link-checking-with-lychee"

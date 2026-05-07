@@ -1,6 +1,6 @@
 +++
 title = "The dangers of long forgotten Bitbucket team accounts"
-date = 2017-02-04T21:30
+date = 2017-02-04T21:30:00
 author = "Steven Maude"
 summary = "The security issues of having a legacy Bitbucket team account"
 slug = "the-dangers-of-bitbucket-team-accounts"

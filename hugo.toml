@@ -1,5 +1,5 @@
 baseURL = 'https://www.stevenmaude.co.uk/'
-languageCode = 'en-gb'
+locale = 'en-gb'
 title = 'stevenmaude.co.uk'
 timeZone = 'Europe/London'
 enableRobotsTXT = true
@@ -26,6 +26,7 @@ summaryLength = 70
   bannerTitle = "Steven Maude's blog"
   bannerSubtitle = 'Words and stuff.'
   github = 'https://github.com/StevenMaude'
+  htmlLang = 'en-gb'
 
 [outputs]
   home = ['HTML', 'RSS']

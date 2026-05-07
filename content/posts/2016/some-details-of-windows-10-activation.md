@@ -1,6 +1,6 @@
 +++
 title = "Answers to some Windows 10 activation questions"
-date = 2016-01-12T22:23
+date = 2016-01-12T22:23:00
 author = "Steven Maude"
 summary = "Some details of Windows 10 activation post-Threshold 2 release."
 slug = "some-details-of-windows-10-activation"

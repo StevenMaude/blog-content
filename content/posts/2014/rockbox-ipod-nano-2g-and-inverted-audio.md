@@ -1,7 +1,8 @@
 +++
 title = "Rockbox, iPod Nano 2G and inverted audio channels"
-date = 2014-04-08T21:24
-lastmod = 2014-04-08T21:25
+date = 2014-04-08T21:24:00
+show_lastmod = true
+lastmod = 2014-04-08T21:25:00
 author = "Steven Maude"
 summary = "Discovering an (old) bug in Rockbox swapping audio channels on iPod Nano 2G."
 slug = "rockbox-ipod-nano-2g-and-inverted-audio"

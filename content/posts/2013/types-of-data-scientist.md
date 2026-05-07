@@ -1,7 +1,8 @@
 +++
 title = "Types of data scientist"
-date = 2013-07-02T17:22
-lastmod = 2013-07-14T13:14
+date = 2013-07-02T17:22:00
+show_lastmod = true
+lastmod = 2013-07-14T13:14:00
 author = "Steven Maude"
 summary = "My take on the \"Analyzing the Analyzers\" report by Harlan Harris and co-authors."
 slug = "types-of-data-scientist"

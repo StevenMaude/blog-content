@@ -1,6 +1,6 @@
 +++
 title = "git: nice and lease-y"
-date = 2018-11-10T13:23
+date = 2018-11-10T13:23:00
 author = "Steven Maude"
 summary = "Why generally using `git push --force-with-lease` over `git push --force` seems sensible."
 slug = "git-nice-and-lease-y"

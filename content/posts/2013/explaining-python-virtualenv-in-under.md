@@ -1,7 +1,8 @@
 +++
 title = "Explaining Python virtualenv (in under two minutes)"
-date = 2013-08-22T20:31
-lastmod = 2013-08-30T22:02
+date = 2013-08-22T20:31:00
+show_lastmod = true
+lastmod = 2013-08-30T22:02:00
 author = "Steven Maude"
 summary = "How to setup virtualenvs to simplify Python software development."
 slug = "explaining-python-virtualenv-in-under"

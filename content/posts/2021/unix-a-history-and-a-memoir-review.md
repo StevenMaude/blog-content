@@ -1,7 +1,8 @@
 +++
 title = "A review of \"UNIX: A History and a Memoir\""
-date = 2021-05-08T00:12
-lastmod = 2021-05-08T12:16
+date = 2021-05-08T00:12:00
+show_lastmod = true
+lastmod = 2021-05-08T12:16:00
 author = "Steven Maude"
 summary = "A quick recommendation of an easy-to-read and brisk summary of the development of UNIX."
 slug = "unix-a-history-and-a-memoir-review"

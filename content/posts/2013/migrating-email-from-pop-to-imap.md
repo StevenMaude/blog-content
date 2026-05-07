@@ -1,7 +1,8 @@
 +++
 title = "Migrating email from POP to IMAP in Thunderbird"
-date = 2013-07-07T15:24
-lastmod = 2014-05-06T18:50
+date = 2013-07-07T15:24:00
+show_lastmod = true
+lastmod = 2014-05-06T18:50:00
 author = "Steven Maude"
 summary = "How to switch in Thunderbird from using email via POP to IMAP instead."
 slug = "migrating-email-from-pop-to-imap"

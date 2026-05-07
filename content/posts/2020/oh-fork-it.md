@@ -1,7 +1,8 @@
 +++
 title = "Oh, fork it"
-date = 2020-06-19T12:35
-lastmod = 2020-06-19T20:39
+date = 2020-06-19T12:35:00
+show_lastmod = true
+lastmod = 2020-06-19T20:39:00
 author = "Steven Maude"
 summary = "Why you should fork obscure, interesting repositories"
 slug = "oh-fork-it"

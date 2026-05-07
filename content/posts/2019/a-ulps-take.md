@@ -1,6 +1,6 @@
 +++
 title = "A ULPS take: Windows 10 black screens and slow boot"
-date = 2019-12-21T12:29
+date = 2019-12-21T12:29:00
 author = "Steven Maude"
 summary = "Disabling ULPS on laptops that Windows 10 doesn't play nicely with."
 slug = "a-ulps-take"

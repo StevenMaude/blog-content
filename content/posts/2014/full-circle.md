@@ -1,7 +1,8 @@
 +++
 title = "Full circle"
-date = 2014-03-22T14:55
-lastmod = 2014-03-22T14:59
+date = 2014-03-22T14:55:00
+show_lastmod = true
+lastmod = 2014-03-22T14:59:00
 author = "Steven Maude"
 summary = "Thoughts on moving away from Blogger to a static site."
 slug = "full-circle"

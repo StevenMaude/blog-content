@@ -1,6 +1,6 @@
 +++
 title = "Conversation conservation: recording audio input and output simultaneously in Linux"
-date = 2016-12-01T12:00
+date = 2016-12-01T12:00:00
 author = "Steven Maude"
 summary = "Recording audio input and output in Linux for screencasts, podcasts and interviews."
 slug = "conversation-conservation"

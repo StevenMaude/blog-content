@@ -1,6 +1,6 @@
 +++
 title = "Learning LaTeX: why and how"
-date = 2017-05-01T15:02
+date = 2017-05-01T15:02:00
 author = "Steven Maude"
 summary = "The pros and cons of LaTeX and Word; why you might want to learn"
 slug = "learning-latex-why-and-how"

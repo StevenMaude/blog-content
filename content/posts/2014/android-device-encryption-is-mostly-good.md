@@ -1,7 +1,8 @@
 +++
 title = "Android device encryption is (mostly) good"
-date = 2014-04-05T10:21
-lastmod = 2014-04-05T10:32
+date = 2014-04-05T10:21:00
+show_lastmod = true
+lastmod = 2014-04-05T10:32:00
 author = "Steven Maude"
 summary = "Encrypting Android and the usability issues that arise."
 slug = "android-device-encryption-is-mostly-good"

@@ -1,7 +1,8 @@
 +++
 title = "Book review: \"Data Science for Business\""
-date = 2014-01-14T18:35
-lastmod = 2014-01-16T18:30
+date = 2014-01-14T18:35:00
+show_lastmod = true
+lastmod = 2014-01-16T18:30:00
 author = "Steven Maude"
 summary = "A review of Foster Provost and Tom Fawcett's introductory data science book: \"Data Science for Business\"."
 slug = "book-review-data-science-for-business"

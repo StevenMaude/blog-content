@@ -1,6 +1,6 @@
 +++
 title = "UEFaIeeee"
-date = 2016-12-16T00:11
+date = 2016-12-16T00:11:00
 author = "Steven Maude"
 summary = "Recovering a non-booting system when EFI boot entries are"
 slug = "uefaieeee"

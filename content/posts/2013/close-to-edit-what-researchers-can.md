@@ -1,7 +1,8 @@
 +++
 title = "Close to the edit: what researchers can learn from journal editing"
-date = 2013-05-25T18:32
-lastmod = 2013-07-14T13:12
+date = 2013-05-25T18:32:00
+show_lastmod = true
+lastmod = 2013-07-14T13:12:00
 author = "Steven Maude"
 summary = "What scientific researchers can get out of working at journals; my experience of applying for a role as editor at a high-profile journal."
 slug = "close-to-edit-what-researchers-can"

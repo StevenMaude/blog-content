@@ -1,6 +1,6 @@
 +++
 title = "Fixing horrible wireless network pings in Ubuntu (2017 edition)"
-date = 2017-03-03T16:44
+date = 2017-03-03T16:44:00
 author = "Steven Maude"
 summary = "How to disable wifi power management in Ubuntu. Again."
 slug = "fixing-horrible-wireless-network-pings-in-ubuntu-2017-edition"

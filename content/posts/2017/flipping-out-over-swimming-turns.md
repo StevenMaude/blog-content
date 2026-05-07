@@ -1,6 +1,6 @@
 +++
 title = "Flipping out over swimming turns"
-date = 2017-07-29T12:18
+date = 2017-07-29T12:18:00
 author = "Steven Maude"
 summary = "Some tips on how to learn to tumble (or flip) turn."
 slug = "flipping-out-over-swimming-turns"

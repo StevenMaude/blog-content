@@ -1,7 +1,8 @@
 +++
 title = "Securely erasing frozen hard disks with hdparm"
-date = 2016-11-22T13:54
-lastmod = 2017-12-29T21:59
+date = 2016-11-22T13:54:00
+show_lastmod = true
+lastmod = 2017-12-29T21:59:00
 author = "Steven Maude"
 summary = "How to use hdparm to erase hard drives, and what to do if the drive is frozen."
 slug = "secure-erasing-a-frozen-drive"

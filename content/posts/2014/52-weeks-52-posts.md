@@ -1,6 +1,6 @@
 +++
 title = "52 weeks, 52 posts"
-date = 2014-05-10T17:52
+date = 2014-05-10T17:52:00
 author = "Steven Maude"
 summary = "Thoughts on writing a blog for a year."
 slug = "52-weeks-52-posts"

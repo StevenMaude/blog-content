@@ -1,7 +1,8 @@
 +++
 title = "Making Aero theme settings stick in Windows (resetting on log off)"
-date = 2014-01-12T15:11
-lastmod = 2014-01-12T15:12
+date = 2014-01-12T15:11:00
+show_lastmod = true
+lastmod = 2014-01-12T15:12:00
 author = "Steven Maude"
 summary = "How to fix Aero visual effects settings that keep resetting to default in Windows."
 slug = "making-aero-theme-settings-stick-in"

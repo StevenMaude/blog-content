@@ -1,6 +1,6 @@
 +++
 title = "Migrating a Bitlocker Windows installation to a larger drive"
-date = 2023-01-02T23:33
+date = 2023-01-02T23:33:00
 author = "Steven Maude"
 summary = "How to clone a Windows installation to another disk"
 slug = "migrating-a-bitlocker-windows-installation-to-a-larger-drive"

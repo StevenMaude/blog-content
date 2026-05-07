@@ -1,6 +1,6 @@
 +++
 title = "PyCon 2021: Secure software supply chains"
-date = 2021-10-15T17:27
+date = 2021-10-15T17:27:00
 author = "Steven Maude"
 summary = "A summary of a talk by Dustin Ingram at PyCon 2021."
 slug = "pycon-2021-secure-software-supply-chains"

@@ -1,7 +1,8 @@
 +++
 title = "Converting PDFs to a series of images"
-date = 2013-05-16T20:16
-lastmod = 2013-07-14T13:09
+date = 2013-05-16T20:16:00
+show_lastmod = true
+lastmod = 2013-07-14T13:09:00
 author = "Steven Maude"
 summary = "Using ImageMagick or GraphicsMagick to convert pages of a PDF to individual images."
 slug = "converting-pdfs-to-series-of-images"

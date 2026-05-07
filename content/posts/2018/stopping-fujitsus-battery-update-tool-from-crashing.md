@@ -1,6 +1,6 @@
 +++
 title = "Stopping Fujitsu's Battery Charging Control Update Tool from crashing Windows 10"
-date = 2018-12-10T21:16
+date = 2018-12-10T21:16:00
 author = "Steven Maude"
 summary = "Preventing Fujitsu's Battery Charging Control Update from"
 slug = "stopping-fujitsus-battery-update-tool-from-crashing"

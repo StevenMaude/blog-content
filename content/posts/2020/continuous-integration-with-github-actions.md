@@ -1,6 +1,6 @@
 +++
 title = "Continuous integration with GitHub Actions"
-date = 2020-08-02T14:38
+date = 2020-08-02T14:38:00
 author = "Steven Maude"
 summary = "A look at GitHub Actions, and the good and bad of coupling automation"
 slug = "continuous-integration-with-github-actions"

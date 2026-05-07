@@ -1,7 +1,8 @@
 +++
 title = "Arduous lessons in Python: why main() is useful"
-date = 2014-07-05T11:34
-lastmod = 2014-07-05T11:42
+date = 2014-07-05T11:34:00
+show_lastmod = true
+lastmod = 2014-07-05T11:42:00
 author = "Steven Maude"
 summary = "Why if `__name__ == '__main__'` is a sensible check in code you're reusing."
 slug = "arduous-lessons-in-python-why-main-is"

@@ -1,6 +1,6 @@
 +++
 title = "Solve your problem with sloppy Python"
-date = 2018-05-20T17:24
+date = 2018-05-20T17:24:00
 author = "Steven Maude"
 summary = "A summary of a talk by Larry Hastings at PyCon 2018."
 slug = "solve-your-problem-with-sloppy-python"

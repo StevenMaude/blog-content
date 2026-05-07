@@ -1,6 +1,6 @@
 +++
 title = "Building a music collection on a budget"
-date = 2017-04-04T13:55
+date = 2017-04-04T13:55:00
 author = "Steven Maude"
 summary = "Some more tips on building a music collection on a"
 slug = "building-a-music-collection-on-a-budget"

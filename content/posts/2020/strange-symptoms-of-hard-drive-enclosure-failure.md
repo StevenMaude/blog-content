@@ -1,6 +1,6 @@
 +++
 title = "Strange symptoms of hard drive enclosure failure"
-date = 2020-05-09T21:35
+date = 2020-05-09T21:35:00
 author = "Steven Maude"
 summary = "Describing some symptoms of a wonky hard drive enclosure on"
 slug = "strange-symptoms-of-hard-drive-enclosure-failure"

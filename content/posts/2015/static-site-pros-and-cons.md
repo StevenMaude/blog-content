@@ -1,7 +1,8 @@
 +++
 title = "Thinking of using a static site generator for your blog?"
-date = 2015-07-18T23:54
-lastmod = 2015-07-19T00:37
+date = 2015-07-18T23:54:00
+show_lastmod = true
+lastmod = 2015-07-19T00:37:00
 author = "Steven Maude"
 summary = "The (many) good and the (few) bad aspects of static site"
 slug = "static-site-pros-and-cons"

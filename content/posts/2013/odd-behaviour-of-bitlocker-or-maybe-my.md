@@ -1,7 +1,8 @@
 +++
 title = "Odd behaviour of Bitlocker, or maybe my HDD…"
-date = 2013-10-13T20:36
-lastmod = 2013-10-13T20:55
+date = 2013-10-13T20:36:00
+show_lastmod = true
+lastmod = 2013-10-13T20:55:00
 author = "Steven Maude"
 summary = "Description of some strange behaviour I observed when setting up a USB drive with Bitlocker."
 slug = "odd-behaviour-of-bitlocker-or-maybe-my"

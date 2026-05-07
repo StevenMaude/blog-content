@@ -1,6 +1,6 @@
 +++
 title = "Windows 10 installation impressions"
-date = 2016-07-02T23:35
+date = 2016-07-02T23:35:00
 author = "Steven Maude"
 summary = "A late look at Windows 10, particularly installation improvements."
 slug = "windows-10-installation-impressions"

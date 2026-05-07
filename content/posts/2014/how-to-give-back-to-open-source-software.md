@@ -1,7 +1,8 @@
 +++
 title = "How to give back to open source software"
-date = 2014-03-21T22:53
-lastmod = 2014-03-22T17:58
+date = 2014-03-21T22:53:00
+show_lastmod = true
+lastmod = 2014-03-22T17:58:00
 author = "Steven Maude"
 summary = "Ways for developers and non-coders alike to contribute to open source software."
 slug = "how-to-give-back-to-open-source-software"

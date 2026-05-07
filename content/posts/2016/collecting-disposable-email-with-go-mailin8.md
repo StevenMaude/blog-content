@@ -1,6 +1,6 @@
 +++
 title = "Collecting disposable email with go-mailin8"
-date = 2016-11-12T21:47
+date = 2016-11-12T21:47:00
 author = "Steven Maude"
 summary = "go-mailin8 lets you read the latest message from disposable Mailinator inboxes."
 slug = "collecting-disposable-email-with-go-mailin8"

@@ -1,6 +1,6 @@
 +++
 title = "Taking web page screenshots smartly with Firefox's Developer Tools"
-date = 2016-04-20T20:30
+date = 2016-04-20T20:30:00
 author = "Steven Maude"
 summary = "Using Firefox's Developer Tools to take full page web screenshots without stitching by hand."
 slug = "web-page-screenshots-with-firefox"

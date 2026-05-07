@@ -1,6 +1,6 @@
 +++
 title = "Installing pip, virtualenv and virtualenvwrapper tidily in Linux"
-date = 2016-12-30T00:10
+date = 2016-12-30T00:10:00
 author = "Steven Maude"
 summary = "Don't want to clutter up your system's Python install? Install"
 slug = "clean-installing-pip-virtualenv-and-virtualenvwrapper"

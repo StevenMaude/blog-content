@@ -1,7 +1,8 @@
 +++
 title = "Firefox 21 annoyances"
-date = 2013-05-17T12:10
-lastmod = 2013-07-14T13:10
+date = 2013-05-17T12:10:00
+show_lastmod = true
+lastmod = 2013-07-14T13:10:00
 author = "Steven Maude"
 summary = "A couple of recent Firefox features that annoyed me."
 slug = "firefox-21-annoyances"

@@ -1,6 +1,6 @@
 +++
 title = "Archiving a WordPress site with <code>wget</code> and hosting for free"
-date = 2016-09-21T23:54
+date = 2016-09-21T23:54:00
 author = "Steven Maude"
 summary = "Migrating WordPress to a static GitHub Pages site."
 slug = "wordpress-to-static-site"

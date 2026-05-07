@@ -1,7 +1,8 @@
 +++
 title = "Leaky phone apps"
-date = 2013-06-28T21:03
-lastmod = 2013-07-14T13:13
+date = 2013-06-28T21:03:00
+show_lastmod = true
+lastmod = 2013-07-14T13:13:00
 author = "Steven Maude"
 summary = "My view on third party phone apps that leak data."
 slug = "leaky-phone-apps"

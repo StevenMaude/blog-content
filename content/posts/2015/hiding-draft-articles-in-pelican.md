@@ -1,7 +1,8 @@
 +++
 title = "Hiding draft articles in Pelican"
-date = 2015-05-31T20:16
-lastmod = 2015-06-01T13:53
+date = 2015-05-31T20:16:00
+show_lastmod = true
+lastmod = 2015-06-01T13:53:00
 author = "Steven Maude"
 summary = "How to hide articles you don't want to be published yet."
 slug = "hiding-draft-articles-in-pelican"

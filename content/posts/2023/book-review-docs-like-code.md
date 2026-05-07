@@ -1,6 +1,6 @@
 +++
 title = "\"Docs Like Code\": a book review"
-date = 2023-04-02T14:23
+date = 2023-04-02T14:23:00
 author = "Steven Maude"
 summary = "A review of \"Docs Like Code\" by Anne Gentle, and some thoughts on docs as code"
 slug = "book-review-docs-like-code"

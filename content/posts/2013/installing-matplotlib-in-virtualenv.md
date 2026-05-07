@@ -1,7 +1,8 @@
 +++
 title = "Installing matplotlib in a virtualenv"
-date = 2013-09-30T18:57
-lastmod = 2013-10-01T19:38
+date = 2013-09-30T18:57:00
+show_lastmod = true
+lastmod = 2013-10-01T19:38:00
 author = "Steven Maude"
 summary = "Solving matplotlib's plotting backends being inaccessible in virtualenvs."
 slug = "installing-matplotlib-in-virtualenv"

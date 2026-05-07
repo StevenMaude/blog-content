@@ -1,7 +1,8 @@
 +++
 title = "Making a MIDI keyboard modulation wheel work with third-party VSTs in FL Studio"
-date = 2014-04-27T18:19
-lastmod = 2014-04-27T18:21
+date = 2014-04-27T18:19:00
+show_lastmod = true
+lastmod = 2014-04-27T18:21:00
 author = "Steven Maude"
 summary = "How to get a mod wheel working with third-party plugins in FL Studio."
 slug = "making-midi-keyboard-modulation-wheel"

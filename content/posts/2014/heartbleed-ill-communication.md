@@ -1,7 +1,8 @@
 +++
 title = "Heartbleed: ill communication"
-date = 2014-05-04T16:48
-lastmod = 2014-05-04T16:49
+date = 2014-05-04T16:48:00
+show_lastmod = true
+lastmod = 2014-05-04T16:49:00
 author = "Steven Maude"
 summary = "On the lack of communication of websites as to the impact of Heartbleed."
 slug = "heartbleed-ill-communication"

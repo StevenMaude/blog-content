@@ -1,6 +1,6 @@
 +++
 title = "My wifi's connected, but there's no internet…? (Intel Centrino versus Ubuntu)"
-date = 2014-07-29T23:15
+date = 2014-07-29T23:15:00
 author = "Steven Maude"
 summary = "Describes how to fix an issue with Intel Centrino wireless adapters using iwlwifi seeing wifi, but not connecting."
 slug = "my-wifis-connected-but-theres-no"

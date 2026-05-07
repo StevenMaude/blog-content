@@ -1,7 +1,8 @@
 +++
 title = "How to delete directories that respawn in Windows 7"
-date = 2014-01-11T23:51
-lastmod = 2014-01-11T23:54
+date = 2014-01-11T23:51:00
+show_lastmod = true
+lastmod = 2014-01-11T23:54:00
 author = "Steven Maude"
 summary = "How to delete seemingly undeletable folders that instantly reappear in Windows 7."
 slug = "how-to-delete-directories-that-respawn"

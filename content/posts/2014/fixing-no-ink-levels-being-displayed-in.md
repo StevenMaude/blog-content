@@ -1,6 +1,6 @@
 +++
 title = "Fixing no ink levels being displayed in Epson Status Monitor"
-date = 2014-01-18T13:45
+date = 2014-01-18T13:45:00
 author = "Steven Maude"
 summary = "Solving a problem with Epson printers where no ink levels are displayed in the printer status monitor."
 slug = "fixing-no-ink-levels-being-displayed-in"

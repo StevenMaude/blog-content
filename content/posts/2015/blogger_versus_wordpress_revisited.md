@@ -1,6 +1,6 @@
 +++
 title = "Blogger versus Wordpress revisited"
-date = 2015-06-06T14:46
+date = 2015-06-06T14:46:00
 author = "Steven Maude"
 summary = "Pros and cons of Blogger and Wordpress, and why neither of these was a good fit for my blog."
 slug = "blogger_versus_wordpress_revisited"

@@ -1,6 +1,6 @@
 +++
 title = "A Year of Garmin: a Forerunner 15 review"
-date = 2016-12-14T15:43
+date = 2016-12-14T15:43:00
 author = "Steven Maude"
 summary = "After a year running with it, the Garmin Forerunner 15 GPS"
 slug = "a-year-of-garmin"

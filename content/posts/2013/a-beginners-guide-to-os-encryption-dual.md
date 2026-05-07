@@ -1,7 +1,8 @@
 +++
 title = "A beginner's guide to OS encryption: dual booting and encrypting Windows and Ubuntu"
-date = 2013-09-17T18:48
-lastmod = 2015-10-26T17:17
+date = 2013-09-17T18:48:00
+show_lastmod = true
+lastmod = 2015-10-26T17:17:00
 author = "Steven Maude"
 summary = "How to encrypt Windows and Ubuntu in a dual boot system."
 slug = "a-beginners-guide-to-os-encryption-dual"

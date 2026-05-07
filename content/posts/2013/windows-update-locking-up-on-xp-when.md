@@ -1,7 +1,8 @@
 +++
 title = "Windows Update locking up on XP when checking for updates: fixing the svchost.exe CPU usage problem"
-date = 2013-12-11T10:36
-lastmod = 2014-01-04T11:27
+date = 2013-12-11T10:36:00
+show_lastmod = true
+lastmod = 2014-01-04T11:27:00
 author = "Steven Maude"
 summary = "How to fix the recent (2013) freezing of Windows Update on XP machines due to svchost.exe being stuck at full (100%) CPU usage."
 slug = "windows-update-locking-up-on-xp-when"

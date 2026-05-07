@@ -1,6 +1,6 @@
 +++
 title = "Getting an official Windows 10 disk image"
-date = 2015-10-26T17:00
+date = 2015-10-26T17:00:00
 author = "Steven Maude"
 summary = "How to get a Windows 10 ISO directly from Microsoft. No install required."
 slug = "getting-an-official-windows-10-disk-image"

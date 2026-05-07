@@ -1,11 +1,14 @@
 <!DOCTYPE html>
-<html lang="{{ site.Language.LanguageCode | default "en-gb" }}">
+<html lang="{{ site.Params.htmlLang | default "en-gb" }}">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} - {{ site.Title }}{{ end }}</title>
     <meta name="author" content="{{ site.Params.author }}">
-    <meta name="description" content="{{ with .Description }}{{ . }}{{ else if .Summary }}{{ .Summary | plainify }}{{ else }}{{ site.Params.description }}{{ end }}">
+    {{ $description := site.Params.description }}
+    {{ with .Summary }}{{ $description = . | plainify }}{{ end }}
+    {{ with .Description }}{{ $description = . }}{{ end }}
+    <meta name="description" content="{{ $description }}">
     <link rel="canonical" href="{{ .Permalink }}">
     <link rel="icon" href="{{ "/images/extra/favicon.ico" | relURL }}">
     {{ with .OutputFormats.Get "RSS" }}<link rel="alternate" type="{{ .MediaType.Type }}" title="{{ $.Title }}" href="{{ .RelPermalink }}">{{ end }}

@@ -1,6 +1,6 @@
 +++
 title = "Copying large iPhone videos to a Windows PC"
-date = 2021-01-25T20:50
+date = 2021-01-25T20:50:00
 author = "Steven Maude"
 summary = "How to copy iPhone videos that don't appear in Windows File Explorer"
 slug = "copying-large-iphone-videos-to-a-windows-pc"

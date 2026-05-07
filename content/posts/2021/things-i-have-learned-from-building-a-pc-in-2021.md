@@ -1,6 +1,6 @@
 +++
 title = "Things I have learned from rebuilding a PC in 2021"
-date = 2021-02-26T14:02
+date = 2021-02-26T14:02:00
 author = "Steven Maude"
 summary = "What are you buying? What are you selling?"
 slug = "things-i-have-learned-from-building-a-pc-in-2021"

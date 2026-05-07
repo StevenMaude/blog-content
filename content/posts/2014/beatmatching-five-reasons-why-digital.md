@@ -1,7 +1,8 @@
 +++
 title = "Beatmatching; five reasons why digital DJs should learn, and how Traktor can help"
-date = 2014-01-16T18:24
-lastmod = 2014-02-09T20:41
+date = 2014-01-16T18:24:00
+show_lastmod = true
+lastmod = 2014-02-09T20:41:00
 author = "Steven Maude"
 summary = "Why digital DJs should learn to beatmatch, and the tools that Traktor offers for practice and training."
 slug = "beatmatching-five-reasons-why-digital"

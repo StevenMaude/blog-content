@@ -1,7 +1,8 @@
 +++
 title = "Book (and talk) review: Making Music. 74 Creative Strategies for Electronic Music Producers."
-date = 2016-06-26T12:40
-lastmod = 2017-05-21T20:28
+date = 2016-06-26T12:40:00
+show_lastmod = true
+lastmod = 2017-05-21T20:28:00
 author = "Steven Maude"
 summary = "Reviewing an Ableton tutorial book on production, and a talk by the author that discussed it."
 slug = "making-music-book-review"

@@ -1,7 +1,8 @@
 +++
 title = "Using Garmin Forerunner watches with Linux"
-date = 2015-12-30T23:30
-lastmod = 2016-09-16T23:40
+date = 2015-12-30T23:30:00
+show_lastmod = true
+lastmod = 2016-09-16T23:40:00
 author = "Steven Maude"
 summary = "A quick look at Garmin's Forerunner 15 watch and using it with Linux."
 slug = "using-garmin-forerunner-watches-with-linux"

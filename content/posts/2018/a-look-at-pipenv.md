@@ -1,7 +1,8 @@
 +++
 title = "A look at Pipenv"
-date = 2018-08-26T14:06
-lastmod = 2020-06-19T12:39
+date = 2018-08-26T14:06:00
+show_lastmod = true
+lastmod = 2020-06-19T12:39:00
 author = "Steven Maude"
 summary = "A quick look at Pipenv, a tool to manage Python packages."
 slug = "a-look-at-pipenv"

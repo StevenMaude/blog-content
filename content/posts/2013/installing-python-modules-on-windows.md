@@ -1,7 +1,8 @@
 +++
 title = "Installing Python modules on Windows: unable to find vcvarsall.bat"
-date = 2013-06-09T13:43
-lastmod = 2013-10-05T21:42
+date = 2013-06-09T13:43:00
+show_lastmod = true
+lastmod = 2013-10-05T21:42:00
 author = "Steven Maude"
 summary = "How to install scientific modules in Python on Windows."
 slug = "installing-python-modules-on-windows"

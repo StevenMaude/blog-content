@@ -1,6 +1,6 @@
 +++
 title = "PyPI: releasing frustration"
-date = 2016-05-15T12:34
+date = 2016-05-15T12:34:00
 author = "Steven Maude"
 summary = "My first attempt at publishing a Python package on PyPI."
 slug = "releasing-frustration-pypi"

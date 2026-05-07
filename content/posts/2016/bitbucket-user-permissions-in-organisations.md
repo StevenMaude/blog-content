@@ -1,6 +1,6 @@
 +++
 title = "Managing a Bitbucket user's permissions when they've left your team"
-date = 2016-04-16T01:54
+date = 2016-04-16T01:54:00
 author = "Steven Maude"
 summary = "Removing users entirely from accessing your Bitbucket team's repositories."
 slug = "bitbucket-user-permissions-in-organisations"

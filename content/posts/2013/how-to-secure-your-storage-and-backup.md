@@ -1,7 +1,8 @@
 +++
 title = "How to secure your storage and backup drives on Windows and Linux"
-date = 2013-09-28T17:03
-lastmod = 2015-10-26T17:17
+date = 2013-09-28T17:03:00
+show_lastmod = true
+lastmod = 2015-10-26T17:17:00
 author = "Steven Maude"
 summary = "A guide to securing data on external and backup drives by encrypting them."
 slug = "how-to-secure-your-storage-and-backup"

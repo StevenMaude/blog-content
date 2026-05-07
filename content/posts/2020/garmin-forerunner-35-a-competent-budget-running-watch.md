@@ -1,6 +1,6 @@
 +++
 title = "Garmin Forerunner 35: a competent budget running watch"
-date = 2020-11-13T22:35
+date = 2020-11-13T22:35:00
 author = "Steven Maude"
 summary = "A review of the Garmin Forerunner 35 after using for several months,"
 slug = "garmin-forerunner-35-a-competent-budget-running-watch"

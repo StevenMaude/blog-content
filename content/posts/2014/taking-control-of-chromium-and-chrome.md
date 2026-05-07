@@ -1,7 +1,8 @@
 +++
 title = "Taking control of Chromium (and Chrome) with ublock and HTTP Switchboard"
-date = 2014-09-28T00:02
-lastmod = 2015-08-02T17:24
+date = 2014-09-28T00:02:00
+show_lastmod = true
+lastmod = 2015-08-02T17:24:00
 author = "Steven Maude"
 summary = "How you can use ublock and HTTP Switchboard to take control of what your browser loads."
 slug = "taking-control-of-chromium-and-chrome"

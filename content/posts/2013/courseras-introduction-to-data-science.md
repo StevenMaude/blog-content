@@ -1,7 +1,8 @@
 +++
 title = "Coursera's Introduction to Data Science course"
-date = 2013-06-24T21:05
-lastmod = 2013-07-14T13:13
+date = 2013-06-24T21:05:00
+show_lastmod = true
+lastmod = 2013-07-14T13:13:00
 author = "Steven Maude"
 summary = "What I made of the recent Coursera Introduction to Data Science course."
 slug = "courseras-introduction-to-data-science"

@@ -1,7 +1,8 @@
 +++
 title = "How to use mock in Python to mock methods on objects"
-date = 2014-05-10T11:05
-lastmod = 2014-05-10T11:05
+date = 2014-05-10T11:05:00
+show_lastmod = true
+lastmod = 2014-05-10T11:05:00
 author = "Steven Maude"
 summary = "Using mocks in Python to mock methods on objects."
 slug = "how-to-use-mock-in-python-to-mock"

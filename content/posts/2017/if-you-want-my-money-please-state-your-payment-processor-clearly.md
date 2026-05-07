@@ -1,6 +1,6 @@
 +++
 title = "If you want my money, please state your payment processor clearly"
-date = 2017-03-06T23:30
+date = 2017-03-06T23:30:00
 author = "Steven Maude"
 summary = "Why don't websites always clarify who they're using to handle"
 slug = "if-you-want-my-money-please-state-your-payment-processor-clearly"

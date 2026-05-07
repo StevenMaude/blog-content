@@ -1,7 +1,8 @@
 +++
 title = "Darik's Boot and Nuke: fixing an \"unrecognized device\" error"
-date = 2013-08-29T22:32
-lastmod = 2014-01-06T11:21
+date = 2013-08-29T22:32:00
+show_lastmod = true
+lastmod = 2014-01-06T11:21:00
 author = "Steven Maude"
 summary = "Fixing unrecognized device errors in Darik's Boot and Nuke."
 slug = "dariks-boot-and-nuke-unrecognized"

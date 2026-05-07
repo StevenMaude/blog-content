@@ -1,7 +1,7 @@
 {{ $paginator := .Paginator }}
 {{ if gt $paginator.TotalPages 1 }}
   <nav class="pager" aria-label="Pagination">
-    {{ with $paginator.Prev }}<a class="pager__link" href="{{ .RelPermalink }}">Newer posts</a>{{ else }}<span></span>{{ end }}
-    {{ with $paginator.Next }}<a class="pager__link pager__link--next" href="{{ .RelPermalink }}">Older posts</a>{{ end }}
+    {{ with $paginator.Prev }}<a class="pager__link" href="{{ .URL }}">Newer posts</a>{{ else }}<span></span>{{ end }}
+    {{ with $paginator.Next }}<a class="pager__link pager__link--next" href="{{ .URL }}">Older posts</a>{{ end }}
   </nav>
 {{ end }}

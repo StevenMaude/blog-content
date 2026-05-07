@@ -1,6 +1,6 @@
 +++
 title = "Upgrading Raspbian and <code>rc.local</code> failures"
-date = 2017-12-10T20:13
+date = 2017-12-10T20:13:00
 author = "Steven Maude"
 summary = "Using a Raspberry Pi as a wireless bridge, in-place upgrading Raspbian"
 slug = "upgrading-raspbian-and-rc-local-failures"

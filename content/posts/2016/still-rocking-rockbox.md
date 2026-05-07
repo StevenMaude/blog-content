@@ -1,6 +1,6 @@
 +++
 title = "Still rocking Rockbox"
-date = 2016-12-10T23:06
+date = 2016-12-10T23:06:00
 author = "Steven Maude"
 summary = "Explaining why Rockbox is my portable audio player software of choice, and how you can try it out."
 slug = "still-rocking-rockbox"

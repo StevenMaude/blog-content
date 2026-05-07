@@ -1,7 +1,8 @@
 +++
 title = "The case of a Windows 7 update, Secure Boot and a suspect motherboard"
-date = 2016-04-12T00:33
-lastmod = 2016-09-17T12:40
+date = 2016-04-12T00:33:00
+show_lastmod = true
+lastmod = 2016-09-17T12:40:00
 author = "Steven Maude"
 summary = "Fixing Secure Boot related issues on Windows 7 following the KB3133977 update."
 slug = "windows-7-secure-boot"

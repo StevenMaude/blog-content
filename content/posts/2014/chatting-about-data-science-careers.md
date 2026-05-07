@@ -1,6 +1,6 @@
 +++
 title = "Chatting about data science careers"
-date = 2014-06-22T21:47
+date = 2014-06-22T21:47:00
 author = "Steven Maude"
 summary = "Write-up of a careers event I participated in at the University of Cambridge."
 slug = "chatting-about-data-science-careers"

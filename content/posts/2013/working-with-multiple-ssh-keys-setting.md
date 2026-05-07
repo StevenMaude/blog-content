@@ -1,7 +1,8 @@
 +++
 title = "Working with multiple SSH keys: setting up git over SSH with GitHub and Bitbucket"
-date = 2013-10-08T19:33
-lastmod = 2013-10-08T19:41
+date = 2013-10-08T19:33:00
+show_lastmod = true
+lastmod = 2013-10-08T19:41:00
 author = "Steven Maude"
 summary = "How to setup `.ssh/config` to use different ssh keys for different servers, e.g. when connecting to GitHub and Bitbucket."
 slug = "working-with-multiple-ssh-keys-setting"

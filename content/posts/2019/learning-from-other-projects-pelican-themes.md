@@ -1,6 +1,6 @@
 +++
 title = "Learning from other projects: pelican-themes"
-date = 2019-12-16T22:41
+date = 2019-12-16T22:41:00
 author = "Steven Maude"
 summary = "Taking a look at pelican-themes — a project I currently use — to learn from it."
 slug = "learning-from-other-projects-pelican-themes"

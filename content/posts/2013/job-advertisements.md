@@ -1,7 +1,8 @@
 +++
 title = "Job advertisements"
-date = 2013-05-23T17:31
-lastmod = 2013-07-14T13:11
+date = 2013-05-23T17:31:00
+show_lastmod = true
+lastmod = 2013-07-14T13:11:00
 author = "Steven Maude"
 summary = "A tautological job specification."
 slug = "job-advertisements"

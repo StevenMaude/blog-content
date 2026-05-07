@@ -1,6 +1,6 @@
 +++
 title = "Blocking URLs in emails from being opened in Thunderbird"
-date = 2017-01-29T14:40
+date = 2017-01-29T14:40:00
 author = "Steven Maude"
 summary = "Preventing links from emails displayed in Thunderbird from"
 slug = "blocking-links-from-being-opened-in-thunderbird"

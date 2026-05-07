@@ -1,7 +1,8 @@
 +++
 title = "Scraping Nature's job website"
-date = 2013-07-06T18:51
-lastmod = 2013-07-14T13:15
+date = 2013-07-06T18:51:00
+show_lastmod = true
+lastmod = 2013-07-14T13:15:00
 author = "Steven Maude"
 summary = "Description of, and reasons for creating, my Nature job website scraper."
 slug = "scraping-natures-job-website"

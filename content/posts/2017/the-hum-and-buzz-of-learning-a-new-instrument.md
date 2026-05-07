@@ -1,6 +1,6 @@
 +++
 title = "The buzz (and hum) of learning a new instrument"
-date = 2017-01-21T18:41
+date = 2017-01-21T18:41:00
 author = "Steven Maude"
 summary = "Reducing the background noise from keyboards."
 slug = "the-hum-and-buzz-of-learning-a-new-instrument"

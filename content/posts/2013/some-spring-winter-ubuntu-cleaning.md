@@ -1,7 +1,8 @@
 +++
 title = "Some <s>spring</s> winter Ubuntu cleaning"
-date = 2013-12-24T00:04
-lastmod = 2017-04-16T20:58
+date = 2013-12-24T00:04:00
+show_lastmod = true
+lastmod = 2017-04-16T20:58:00
 author = "Steven Maude"
 summary = "Some Ubuntu tips: setting up TRIM on an encrypted drive for 12.04 LTS and freeing up space on the boot partition."
 slug = "some-spring-winter-ubuntu-cleaning"

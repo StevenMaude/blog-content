@@ -1,7 +1,8 @@
 +++
 title = "Ensuring scheduled cron jobs are run using anacron"
-date = 2014-01-31T12:59
-lastmod = 2014-01-31T16:38
+date = 2014-01-31T12:59:00
+show_lastmod = true
+lastmod = 2014-01-31T16:38:00
 author = "Steven Maude"
 summary = "Using anacron to make sure that cron jobs are actually executed for Linux installs where the machine is not running 24/7."
 slug = "ensuring-scheduled-cron-jobs-are-run"

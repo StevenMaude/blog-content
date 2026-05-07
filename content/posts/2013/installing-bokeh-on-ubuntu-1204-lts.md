@@ -1,7 +1,8 @@
 +++
 title = "Installing Bokeh on Ubuntu 12.04 LTS"
-date = 2013-11-27T20:24
-lastmod = 2015-05-22T15:29
+date = 2013-11-27T20:24:00
+show_lastmod = true
+lastmod = 2015-05-22T15:29:00
 author = "Steven Maude"
 summary = "Fixing a problem with installing Bokeh on Ubuntu."
 slug = "installing-bokeh-on-ubuntu-1204-lts"

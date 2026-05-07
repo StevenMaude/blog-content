@@ -1,7 +1,8 @@
 +++
 title = "How universities can help develop researchers' post-university careers"
-date = 2013-08-18T22:20
-lastmod = 2014-12-13T00:27
+date = 2013-08-18T22:20:00
+show_lastmod = true
+lastmod = 2014-12-13T00:27:00
 author = "Steven Maude"
 summary = "My account of a new and intensive career development programme for postdoctoral researchers leaving university."
 slug = "how-universities-can-help-develop"

@@ -1,6 +1,6 @@
 +++
 title = "A digital piano buyers' guide for learners"
-date = 2017-10-22T17:10
+date = 2017-10-22T17:10:00
 author = "Steven Maude"
 summary = "Why I chose a digital piano over an acoustic, what to look out"
 slug = "a-digital-piano-buyers-guide-for-new-learners"

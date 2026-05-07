@@ -1,7 +1,8 @@
 +++
 title = "Updating and rooting Moto G"
-date = 2014-08-25T15:42
-lastmod = 2014-08-25T18:34
+date = 2014-08-25T15:42:00
+show_lastmod = true
+lastmod = 2014-08-25T18:34:00
 author = "Steven Maude"
 summary = "How to restore a Moto G to stock firmware, unlock bootloader and gain root access."
 slug = "updating-and-rooting-moto-g"

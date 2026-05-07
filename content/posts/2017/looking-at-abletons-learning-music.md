@@ -1,6 +1,6 @@
 +++
 title = "Looking at Ableton's Learning Music"
-date = 2017-05-21T20:09
+date = 2017-05-21T20:09:00
 author = "Steven Maude"
 summary = "A look at Ableton's tutorial site to get you started making music."
 slug = "looking-at-abletons-learning-music"

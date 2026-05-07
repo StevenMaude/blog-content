@@ -1,7 +1,8 @@
 +++
 title = "Phone upgrades and privacy downgrades"
-date = 2014-03-28T21:56
-lastmod = 2014-03-28T21:59
+date = 2014-03-28T21:56:00
+show_lastmod = true
+lastmod = 2014-03-28T21:59:00
 author = "Steven Maude"
 summary = "Thoughts on upgrading my phone and app permissions."
 slug = "phone-upgrades-and-privacy-downgrades"

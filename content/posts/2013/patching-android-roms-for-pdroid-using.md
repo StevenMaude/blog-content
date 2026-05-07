@@ -1,7 +1,8 @@
 +++
 title = "Patching Android ROMs for PDroid using Auto-Patcher"
-date = 2013-05-11T14:26
-lastmod = 2014-03-28T22:01
+date = 2013-05-11T14:26:00
+show_lastmod = true
+lastmod = 2014-03-28T22:01:00
 author = "Steven Maude"
 summary = "How to modify Android ROMs using Auto-Patcher to enable the PDroid privacy controls app."
 slug = "patching-android-roms-for-pdroid-using"
