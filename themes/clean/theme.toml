@@ -1,0 +1,8 @@
+name = "clean"
+license = "MIT"
+description = "A clean, minimal theme for Steven Maude's blog"
+homepage = "https://stevenmaude.co.uk"
+min_version = "0.100.0"
+
+[author]
+  name = "Steven Maude"

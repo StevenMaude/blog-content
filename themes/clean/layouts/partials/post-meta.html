@@ -1,0 +1,8 @@
+<div class="post-meta">
+  <span class="badge badge-published">Published</span>
+  {{ .Date.Format "2006-01-02" }}
+  {{ with .Params.tags }}
+  <span class="badge badge-tags">Tags</span>
+  {{ range $i, $tag := . }}{{ if $i }} / {{ end }}<a href="{{ "/tags/" | relURL }}{{ $tag | urlize }}/">{{ $tag }}</a>{{ end }}
+  {{ end }}
+</div>

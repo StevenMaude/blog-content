@@ -1,0 +1,17 @@
+{{ define "main" }}
+<div class="container">
+  <h1 class="page-title">Archives</h1>
+  {{ $posts := where .Site.RegularPages "Section" "posts" }}
+  {{ range ($posts.ByDate.Reverse).GroupByDate "2006" }}
+  <h2 class="archive-year">{{ .Key }}</h2>
+  <ul class="archive-list">
+    {{ range .Pages }}
+    <li class="archive-item">
+      <span class="archive-date">{{ .Date.Format "2006-01-02" }}</span>
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </li>
+    {{ end }}
+  </ul>
+  {{ end }}
+</div>
+{{ end }}
