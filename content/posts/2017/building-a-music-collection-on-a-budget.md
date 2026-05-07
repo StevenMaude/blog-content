@@ -4,9 +4,8 @@ date: 2017-04-04T13:55:00+00:00
 author: Steven Maude
 tags: ["DJ", "MP3", "music"]
 slug: building-a-music-collection-on-a-budget
-description: Some more tips on building a music collection on a
+description: Some more tips on building a music collection on a budget, particularly for digital DJs.
 ---
-
 A couple of months back I wrote something on trying to find inexpensive music
 for DJ sets for DJ TechTools which just [got posted
 there](http://djtechtools.com/2017/04/02/dj-music-for-a-budget-beatmatcher/).

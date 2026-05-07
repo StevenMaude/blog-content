@@ -4,9 +4,8 @@ date: 2020-08-02T14:38:00+00:00
 author: Steven Maude
 tags: ["automation", "continuous delivery", "continuous integration", "GitHub", "GitHub Actions"]
 slug: continuous-integration-with-github-actions
-description: A look at GitHub Actions, and the good and bad of coupling automation
+description: A look at GitHub Actions, and the good and bad of coupling automation to a remote repository provider
 ---
-
 ## A quick review of GitHub Actions
 
 I've been using [GitHub Actions](https://github.com/features/actions) a

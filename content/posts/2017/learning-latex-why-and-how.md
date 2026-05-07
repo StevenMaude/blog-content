@@ -4,9 +4,8 @@ date: 2017-05-01T15:02:00+00:00
 author: Steven Maude
 tags: ["LaTeX", "document preparation", "word processor"]
 slug: learning-latex-why-and-how
-description: The pros and cons of LaTeX and Word; why you might want to learn
+description: The pros and cons of LaTeX and Word; why you might want to learn LaTeX, and how you might do that.
 ---
-
 ## ShareLaTeX
 
 Today I saw [this

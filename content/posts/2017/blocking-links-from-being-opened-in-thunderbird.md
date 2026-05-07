@@ -4,9 +4,8 @@ date: 2017-01-29T14:40:00+00:00
 author: Steven Maude
 tags: ["Thunderbird"]
 slug: blocking-links-from-being-opened-in-thunderbird
-description: Preventing links from emails displayed in Thunderbird from
+description: Preventing links from emails displayed in Thunderbird from being opened in a browser.
 ---
-
 I'd got some unwanted spam message and wondered if it was possible to
 stop accidental clicking on any URLs that are displayed in those cases.
 

@@ -4,9 +4,8 @@ date: 2017-02-04T17:54:00+00:00
 author: Steven Maude
 tags: ["BitLocker", "manage-bde"]
 slug: switching-bitlocker-protection-methods-without-re-encrypting
-description: How to change BitLocker key protectors without having to
+description: How to change BitLocker key protectors without having to decrypt and re-encrypt a drive.
 ---
-
 ## Overzealous TPM protection
 
 I'd set up BitLocker for someone using the Trusted Platform Module (TPM)

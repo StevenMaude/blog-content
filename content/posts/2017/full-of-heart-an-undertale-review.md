@@ -4,9 +4,8 @@ date: 2017-08-20T15:47:00+00:00
 author: Steven Maude
 tags: ["game", "review"]
 slug: full-of-heart-an-undertale-review
-description: "The world doesn't need another review of Undertale."
+description: "The world doesn't need another review of Undertale. Regardless, here's why I think you should play it."
 ---
-
 ## Playing Undertale fills you with determination
 
 Undertale's almost two years old. Yet I only bothered to play it this

@@ -4,9 +4,8 @@ date: 2017-10-22T17:10:00+00:00
 author: Steven Maude
 tags: ["music", "piano"]
 slug: a-digital-piano-buyers-guide-for-new-learners
-description: Why I chose a digital piano over an acoustic, what to look out
+description: Why I chose a digital piano over an acoustic, what to look out for when buying a digital piano, and the advantages of buying used.
 ---
-
 As I've [documented earlier
 here]({{< ref "/posts/2017/five-months-of-learning-piano.md" >}}), I've been
 taking piano lessons since the start of this year. There I also

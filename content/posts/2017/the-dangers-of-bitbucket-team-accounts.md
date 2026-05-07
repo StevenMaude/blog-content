@@ -4,9 +4,8 @@ date: 2017-02-04T21:30:00+00:00
 author: Steven Maude
 tags: ["Bitbucket", "security"]
 slug: the-dangers-of-bitbucket-team-accounts
-description: The security issues of having a legacy Bitbucket team account
+description: The security issues of having a legacy Bitbucket team account still active.
 ---
-
 Last month, I'd been reviewing some of the shared accounts for online
 services we have at work. Often, users have an individual login for
 online services. Some services don't offer that feature and there's a

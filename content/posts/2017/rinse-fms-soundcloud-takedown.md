@@ -5,10 +5,8 @@ lastmod: 2017-07-18T21:56:00+00:00
 author: Steven Maude
 tags: ["music", "radio", "Rinse FM", "SoundCloud"]
 slug: rinse-fms-soundcloud-takedown
-description: "What the deletion of Rinse FM's SoundCloud account for"
+description: "What the deletion of Rinse FM's SoundCloud account for copyright infringement tells us both about music industry short-sightedness and hosting creative projects online."
 ---
-         short-sightedness and hosting creative projects online.
-
 !!! article-edit ""
     Edit 2017-07-18: SoundCloud have now restored [Rinse FM's
     account](https://twitter.com/geeneus/status/887050524067061760).

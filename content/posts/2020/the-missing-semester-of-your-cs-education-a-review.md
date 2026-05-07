@@ -4,9 +4,8 @@ date: 2020-06-07T20:55:00+00:00
 author: Steven Maude
 tags: ["computer science", "course", "Linux"]
 slug: the-missing-semester-of-your-cs-education-a-review
-description: A quick review and recommendation of a useful computer science
+description: A quick review and recommendation of a useful computer science course
 ---
-
 ## Missing semester: singular?
 
 Though I have a science background, I don't have a formal computer

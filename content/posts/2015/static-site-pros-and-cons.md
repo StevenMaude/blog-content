@@ -5,9 +5,8 @@ lastmod: 2015-07-19T00:37:00+00:00
 author: Steven Maude
 tags: ["Blogger", "Pelican", "Wordpress", "static site"]
 slug: static-site-pros-and-cons
-description: The (many) good and the (few) bad aspects of static site
+description: The (many) good and the (few) bad aspects of static site generators.
 ---
-
 When I first thought about moving from Blogger to Pelican, it was
 because I'd had more than enough of Blogger's drawbacks. What hadn't
 crossed my mind, because I had no experience of using them, were the

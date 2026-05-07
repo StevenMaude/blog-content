@@ -4,9 +4,8 @@ date: 2020-11-13T22:35:00+00:00
 author: Steven Maude
 tags: ["Forerunner", "Garmin", "review", "running"]
 slug: garmin-forerunner-35-a-competent-budget-running-watch
-description: A review of the Garmin Forerunner 35 after using for several months,
+description: A review of the Garmin Forerunner 35 after using for several months, comparing with the Forerunner 15.
 ---
-
 ## Replacing a Garmin Forerunner 15 watch
 
 Unsurprisingly, I've been doing a lot more exercise outdoors this year

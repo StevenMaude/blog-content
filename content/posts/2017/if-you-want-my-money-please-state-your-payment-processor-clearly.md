@@ -4,9 +4,8 @@ date: 2017-03-06T23:30:00+00:00
 author: Steven Maude
 tags: ["security", "UI", "UX"]
 slug: if-you-want-my-money-please-state-your-payment-processor-clearly
-description: "Why don't websites always clarify who they're using to handle"
+description: "Why don't websites always clarify who they're using to handle card payments?"
 ---
-
 Today I got a nice letter in the post informing me that my vehicle tax
 was due. Wonderful news.
 

@@ -4,9 +4,8 @@ date: 2016-12-30T00:10:00+00:00
 author: Steven Maude
 tags: ["Linux", "Ubuntu", "Python", "pip", "virtualenv", "virtualenvwrapper"]
 slug: clean-installing-pip-virtualenv-and-virtualenvwrapper
-description: "Don't want to clutter up your system's Python install? Install"
+description: "Don't want to clutter up your system's Python install? Install what you need for Python development cleanly."
 ---
-
 When I reinstalled my PC, I was thinking about the "cleanest" way that I
 could get the Python tools I needed on there. Previously, I'd used the
 pip bundled in the Ubuntu repositories, then found it was left to

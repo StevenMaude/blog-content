@@ -4,9 +4,8 @@ date: 2016-12-16T00:11:00+00:00
 author: Steven Maude
 tags: ["EFI", "UEFI", "boot entry", "efibootmgr"]
 slug: uefaieeee
-description: Recovering a non-booting system when EFI boot entries are
+description: Recovering a non-booting system when EFI boot entries are broken using efibootmgr.
 ---
-
 In writing this, I checked the [valid spelling of
 "aieeee"](https://en.oxforddictionaries.com/definition/aie) and it is
 apparently with four e letters at the end.

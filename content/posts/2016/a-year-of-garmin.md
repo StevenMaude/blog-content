@@ -4,9 +4,8 @@ date: 2016-12-14T15:43:00+00:00
 author: Steven Maude
 tags: ["Garmin", "Forerunner", "review", "running"]
 slug: a-year-of-garmin
-description: After a year running with it, the Garmin Forerunner 15 GPS
+description: After a year running with it, the Garmin Forerunner 15 GPS watch was definitely a great budget choice.
 ---
-
 As I mentioned in [a previous
 post]({{< ref "/posts/2015/using-garmin-forerunner-watches-with-linux.md" >}})
 just after Christmas last year, I bought a new [Garmin

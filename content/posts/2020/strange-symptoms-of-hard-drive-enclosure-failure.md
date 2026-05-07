@@ -4,9 +4,8 @@ date: 2020-05-09T21:35:00+00:00
 author: Steven Maude
 tags: ["hard drive", "hardware", "Windows"]
 slug: strange-symptoms-of-hard-drive-enclosure-failure
-description: Describing some symptoms of a wonky hard drive enclosure on
+description: Describing some symptoms of a wonky hard drive enclosure on Windows
 ---
-
 # Reliable failure
 
 It's sometimes a reassuring comfort to know that computers and

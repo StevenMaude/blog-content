@@ -13,19 +13,26 @@ CONTENT_POSTS = REPO_ROOT / "content" / "posts"
 
 
 def parse_pelican_meta(lines):
-    """Parse Pelican metadata lines into a dict, returning (meta, body_start_idx)."""
+    """Parse Pelican metadata lines into a dict, returning (meta, body_start_idx).
+
+    Handles multi-line values: continuation lines start with whitespace.
+    """
     meta = {}
+    last_key = None
     i = 0
     for i, line in enumerate(lines):
         line = line.rstrip("\n")
         if line.strip() == "":
             break
+        # Continuation line (indented) - append to last key
+        if last_key and line.startswith((" ", "\t")):
+            meta[last_key] = (meta[last_key] + " " + line.strip()).strip()
+            continue
         # Pelican metadata: Key: Value
         m = re.match(r"^([A-Za-z]+):\s*(.*)", line)
         if m:
-            key = m.group(1).strip()
-            value = m.group(2).strip()
-            meta[key] = value
+            last_key = m.group(1).strip()
+            meta[last_key] = m.group(2).strip()
         else:
             # Not metadata anymore - content started without blank line
             break
