@@ -1,0 +1,15 @@
+<header class="site-header">
+  <div class="container site-header__inner">
+    <div>
+      <p class="site-title"><a href="{{ "/" | relURL }}">{{ .Site.Title }}</a></p>
+      <p class="site-tagline">{{ .Site.Params.description }}</p>
+    </div>
+    {{ with .Site.Menus.main }}
+      <nav class="site-nav" aria-label="Main navigation">
+        {{ range . }}
+          <a href="{{ .URL }}">{{ .Name }}</a>
+        {{ end }}
+      </nav>
+    {{ end }}
+  </div>
+</header>

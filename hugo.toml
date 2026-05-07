@@ -1,0 +1,66 @@
+baseURL = 'https://www.stevenmaude.co.uk/'
+languageCode = 'en-gb'
+title = 'Steven Maude'
+enableRobotsTXT = true
+paginate = 10
+summaryLength = 40
+
+[permalinks]
+  posts = '/:year/:month/:slug/'
+
+[taxonomies]
+  tag = 'tags'
+
+[params]
+  description = 'Writing on software, technology, privacy, and other interests.'
+  author = 'Steven Maude'
+  accentColor = '#24577a'
+  dateFormat = '2 January 2006'
+
+[[menus.main]]
+  name = 'Posts'
+  pageRef = '/posts'
+  weight = 10
+
+[[menus.main]]
+  name = 'Tags'
+  pageRef = '/tags'
+  weight = 20
+
+[[menus.main]]
+  name = 'About'
+  pageRef = '/about'
+  weight = 30
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    noClasses = false
+
+[module]
+  [[module.mounts]]
+    source = 'archetypes'
+    target = 'archetypes'
+  [[module.mounts]]
+    source = 'assets'
+    target = 'assets'
+  [[module.mounts]]
+    source = 'content'
+    target = 'content'
+  [[module.mounts]]
+    source = 'data'
+    target = 'data'
+  [[module.mounts]]
+    source = 'i18n'
+    target = 'i18n'
+  [[module.mounts]]
+    source = 'layouts'
+    target = 'layouts'
+  [[module.mounts]]
+    source = 'static'
+    target = 'static'
+  [[module.mounts]]
+    source = 'images'
+    target = 'static/images'

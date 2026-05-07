@@ -1,0 +1,251 @@
+:root {
+  color-scheme: light;
+  --accent: #24577a;
+  --accent-soft: #eef4f8;
+  --border: #d7e0e8;
+  --text: #1d2a33;
+  --text-soft: #50616f;
+  --background: #f7f9fb;
+  --surface: #ffffff;
+  --code-bg: #f1f5f8;
+  --shadow: 0 18px 40px rgba(17, 24, 39, 0.08);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 18px;
+}
+
+body {
+  margin: 0;
+  font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  line-height: 1.75;
+  color: var(--text);
+  background: linear-gradient(180deg, #fbfdff 0%, var(--background) 100%);
+}
+
+a {
+  color: var(--accent);
+  text-decoration-thickness: 0.08em;
+  text-underline-offset: 0.14em;
+}
+
+a:hover {
+  text-decoration-thickness: 0.14em;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+code,
+pre,
+kbd,
+samp {
+  font-family: 'SFMono-Regular', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+}
+
+pre {
+  overflow-x: auto;
+  padding: 1rem;
+  border-radius: 0.9rem;
+  background: var(--code-bg);
+}
+
+:not(pre) > code {
+  padding: 0.14rem 0.35rem;
+  border-radius: 0.35rem;
+  background: var(--code-bg);
+  font-size: 0.92em;
+}
+
+blockquote {
+  margin: 1.75rem 0;
+  padding: 0.25rem 0 0.25rem 1.2rem;
+  border-left: 0.28rem solid var(--border);
+  color: var(--text-soft);
+}
+
+figure,
+.article-figure {
+  margin: 2rem 0;
+}
+
+figcaption {
+  margin-top: 0.7rem;
+  color: var(--text-soft);
+  font-size: 0.92rem;
+}
+
+.container {
+  width: min(100% - 2rem, 46rem);
+  margin: 0 auto;
+}
+
+.site-header {
+  padding: 2.5rem 0 1.5rem;
+}
+
+.site-header__inner {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem 1.5rem;
+}
+
+.site-title {
+  margin: 0;
+  font-size: clamp(1.5rem, 4vw, 2rem);
+}
+
+.site-title a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.site-tagline {
+  margin: 0.3rem 0 0;
+  color: var(--text-soft);
+  font-size: 0.98rem;
+}
+
+.site-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.9rem;
+  font-size: 0.98rem;
+}
+
+.site-nav a {
+  text-decoration: none;
+}
+
+main {
+  padding-bottom: 4rem;
+}
+
+.hero,
+.card,
+.taxonomy-list,
+.article,
+.page-intro {
+  background: var(--surface);
+  border: 1px solid rgba(215, 224, 232, 0.8);
+  border-radius: 1.25rem;
+  box-shadow: var(--shadow);
+}
+
+.hero,
+.page-intro,
+.article {
+  padding: 1.75rem;
+}
+
+.hero {
+  margin-bottom: 1.5rem;
+}
+
+.hero h1,
+.article-title,
+.page-title {
+  margin-top: 0;
+  line-height: 1.2;
+}
+
+.page-intro {
+  margin-bottom: 1.5rem;
+}
+
+.post-list {
+  display: grid;
+  gap: 1rem;
+}
+
+.card {
+  padding: 1.35rem 1.4rem;
+}
+
+.card h2,
+.card h3 {
+  margin: 0 0 0.5rem;
+  line-height: 1.25;
+}
+
+.card p:last-child,
+.article-content > *:last-child {
+  margin-bottom: 0;
+}
+
+.meta,
+.summary,
+.footer-note,
+.taxonomy-list,
+.pagination,
+.single-tags,
+.single-updated {
+  color: var(--text-soft);
+}
+
+.meta,
+.single-tags,
+.single-updated {
+  font-size: 0.94rem;
+}
+
+.taxonomy-list ul,
+.simple-list {
+  padding-left: 1.1rem;
+}
+
+.article {
+  margin-bottom: 1.5rem;
+}
+
+.article-content {
+  overflow-wrap: anywhere;
+}
+
+.article-content .article-image,
+.article-content .break-out-of-list img {
+  margin: 1.5rem auto;
+}
+
+.break-out-of-list {
+  margin: 1.5rem 0;
+}
+
+.pagination {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+
+.site-footer {
+  padding: 0 0 3rem;
+}
+
+.site-footer .container {
+  color: var(--text-soft);
+  font-size: 0.94rem;
+}
+
+@media (max-width: 640px) {
+  html {
+    font-size: 17px;
+  }
+
+  .hero,
+  .page-intro,
+  .article,
+  .card {
+    padding: 1.2rem;
+    border-radius: 1rem;
+  }
+}

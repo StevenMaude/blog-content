@@ -1,0 +1,10 @@
+{{ define "main" }}
+  <section class="page-intro taxonomy-list">
+    <h1 class="page-title">{{ .Title }}</h1>
+    <ul class="simple-list">
+      {{ range .Data.Terms.Alphabetical }}
+        <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a> ({{ .Count }})</li>
+      {{ end }}
+    </ul>
+  </section>
+{{ end }}
