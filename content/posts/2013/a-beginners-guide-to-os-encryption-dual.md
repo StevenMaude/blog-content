@@ -100,13 +100,16 @@ considering this option.
 
 <img class="article-image" src="/images/2013/TrueCrypt.png" alt="TrueCrypt program window showing options to create a new encrypted volume.">
 
-!!! article-edit ""
-    Edit October 2015: There are vulnerabilities in the Windows
-    TrueCrypt driver ([here](https://code.google.com/p/google-security-research/issues/detail?id=537)
-    and [here](https://code.google.com/p/google-security-research/issues/detail?id=538)),
-    so it definitely can't be recommended now. There are newer projects
-    based on TrueCrypt which may be suitable replacements; I haven't
-    looked into them.
+<div class="article-edit">
+
+Edit October 2015: There are vulnerabilities in the Windows
+TrueCrypt driver ([here](https://code.google.com/p/google-security-research/issues/detail?id=537)
+and [here](https://code.google.com/p/google-security-research/issues/detail?id=538)),
+so it definitely can't be recommended now. There are newer projects
+based on TrueCrypt which may be suitable replacements; I haven't
+looked into them.
+
+</div>
 
 The fact that TrueCrypt has its source available is a plus. I'm nowhere
 near smart enough to start understanding the internals of cryptographic

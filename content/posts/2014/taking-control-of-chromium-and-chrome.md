@@ -8,25 +8,34 @@ slug: taking-control-of-chromium-and-chrome
 description: How you can use ublock and HTTP Switchboard to take control of what your browser loads.
 aliases: ["/2014/09/taking-control-of-chromium-and-chrome.html"]
 ---
-!!! article-edit ""
-    Edit 2015-07-24: Slightly involved story aside, the version of
-    uBlock linked here, by the original developer, is now uBlock Origin.
-    I'd recommend searching for that version if installing as an
-    extension.
+<div class="article-edit">
 
-    It's available for both Firefox and Chrome/Chromium.
+Edit 2015-07-24: Slightly involved story aside, the version of
+uBlock linked here, by the original developer, is now uBlock Origin.
+I'd recommend searching for that version if installing as an
+extension.
 
-!!! article-edit ""
-    Edit 2015-05-18: The Chromium bug is fixed which should fix the uMatrix
-    UI sluggishness, and uMatrix is finally available as a Firefox addon.
+It's available for both Firefox and Chrome/Chromium.
 
-!!! article-edit ""
-    Edit 2015-01-09: HTTP Switchboard development is discontinued and has been
-    replaced with [uMatrix](https://github.com/gorhill/uMatrix). The
-    interface is largely unchanged. One problem at the time of writing is a
-    [Chromium bug](https://github.com/gorhill/uBlock/issues/419) which I
-    think is the cause of the UI being really laggy to appear. Hopefully,
-    this should be fixed soon.
+</div>
+
+<div class="article-edit">
+
+Edit 2015-05-18: The Chromium bug is fixed which should fix the uMatrix
+UI sluggishness, and uMatrix is finally available as a Firefox addon.
+
+</div>
+
+<div class="article-edit">
+
+Edit 2015-01-09: HTTP Switchboard development is discontinued and has been
+replaced with [uMatrix](https://github.com/gorhill/uMatrix). The
+interface is largely unchanged. One problem at the time of writing is a
+[Chromium bug](https://github.com/gorhill/uBlock/issues/419) which I
+think is the cause of the UI being really laggy to appear. Hopefully,
+this should be fixed soon.
+
+</div>
 
 After tinkering around with Adblock's filters to block some ads, I
 remembered that I'd read about an alternative to Adblock for

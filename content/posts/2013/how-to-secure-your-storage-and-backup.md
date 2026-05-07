@@ -65,12 +65,15 @@ behaviour]({{< ref "/posts/2013/odd-behaviour-of-bitlocker-or-maybe-my.md" >}})â
 
 ## TrueCrypt
 
-!!! article-edit ""
-    Edit: see my [earlier encryption
-    post]({{< ref "/posts/2013/a-beginners-guide-to-os-encryption-dual.md" >}})
-    for notes on the current state of TrueCrypt; it shouldn't be used
-    anymore (on Windows, for certain), but one of its successors may be a
-    suitable replacement.
+<div class="article-edit">
+
+Edit: see my [earlier encryption
+post]({{< ref "/posts/2013/a-beginners-guide-to-os-encryption-dual.md" >}})
+for notes on the current state of TrueCrypt; it shouldn't be used
+anymore (on Windows, for certain), but one of its successors may be a
+suitable replacement.
+
+</div>
 
 The other main option is TrueCrypt which is
 freely available, and has good cross-platform support, perhaps making it

@@ -7,15 +7,18 @@ tags: ["Pipenv", "Python"]
 slug: a-look-at-pipenv
 description: A quick look at Pipenv, a tool to manage Python packages.
 ---
-!!! article-edit ""
-    Edit 2020-06-19: These days, I just tend to use a manually created
-    virtualenv when working on Python, and a bash one-liner to activate
-    the appropriate virtualenv.
+<div class="article-edit">
 
-    As mentioned below, [poetry](https://github.com/python-poetry/poetry) is
-    another option for managing dependencies and I've seen a lot of
-    positive things written about poetry since I originally wrote this
-    post.
+Edit 2020-06-19: These days, I just tend to use a manually created
+virtualenv when working on Python, and a bash one-liner to activate
+the appropriate virtualenv.
+
+As mentioned below, [poetry](https://github.com/python-poetry/poetry) is
+another option for managing dependencies and I've seen a lot of
+positive things written about poetry since I originally wrote this
+post.
+
+</div>
 
 [Pipenv](https://github.com/pypa/pipenv)[^1] is a tool that aims to
 remove the hassle of using

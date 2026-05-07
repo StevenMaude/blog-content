@@ -8,9 +8,12 @@ slug: patching-android-roms-for-pdroid-using
 description: How to modify Android ROMs using Auto-Patcher to enable the PDroid privacy controls app.
 aliases: ["/2013/05/patching-android-roms-for-pdroid-using.html"]
 ---
-!!! article-edit ""
-    Edit 2014/03/28: Auto-Patcher is deprecated; see [my more recent
-    post]({{< ref "/posts/2014/phone-upgrades-and-privacy-downgrades.md" >}}).
+<div class="article-edit">
+
+Edit 2014/03/28: Auto-Patcher is deprecated; see [my more recent
+post]({{< ref "/posts/2014/phone-upgrades-and-privacy-downgrades.md" >}}).
+
+</div>
 
 Over the past six months or so, I've been running the very slick port of
 CyanogenMod 9.1 to Huawei's G300 phone by Dazzozo and collaborators as

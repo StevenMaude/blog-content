@@ -73,14 +73,17 @@ As linked above, Microsoft's site suggests Secure Boot is supported on Windows
 on Windows 7. It's possible that this is just behaviour out of specification
 that didn't cause any problem until now.
 
-!!! article-edit ""
-    Edit 2016-05-15: It turns out that it was a bad configuration on the
-    part of ASUS as documented by their
-    [FAQ](https://www.asus.com/support/faq/1016356/). Judging from the
-    news stories published around 4th May 2016 and onwards, that note
-    has only been released by ASUS this month. Pretty slow response,
-    really, seeing as this problem's been known for several weeks. Their
-    fix is one of those already suggested here: disable Secure Boot.
+<div class="article-edit">
+
+Edit 2016-05-15: It turns out that it was a bad configuration on the
+part of ASUS as documented by their
+[FAQ](https://www.asus.com/support/faq/1016356/). Judging from the
+news stories published around 4th May 2016 and onwards, that note
+has only been released by ASUS this month. Pretty slow response,
+really, seeing as this problem's been known for several weeks. Their
+fix is one of those already suggested here: disable Secure Boot.
+
+</div>
 
 (It's a while ago since I installed the PC, but I guess that I originally must
 have tried turning on Secure Boot during installation and, since the PC booted
@@ -114,13 +117,16 @@ you've been affected.
 
 What fun will today's later batch of updates brings, I wonder?
 
-!!! article-edit ""
-    Edit 2016-05-20: Marc-Andre Renaud kindly emailed me to share his
-    experience:
+<div class="article-edit">
 
-    > Your hunch about deleting keys while booting in UEFI mode possibly
-    > fixing this was correct. I deleted the keys on my ASUS Sabertooth
-    > z97 motherboard and was able to boot.
+Edit 2016-05-20: Marc-Andre Renaud kindly emailed me to share his
+experience:
+
+> Your hunch about deleting keys while booting in UEFI mode possibly
+> fixing this was correct. I deleted the keys on my ASUS Sabertooth
+> z97 motherboard and was able to boot.
+
+</div>
 
 ## One more thing
 
@@ -138,12 +144,15 @@ Once the upgrade's complete, I'd then expect I could go back to the BIOS and
 install the default Secure Boot keys, which should let you set Secure Boot
 again.
 
-!!! article-edit ""
-    Edit September 2016: Having tested this on a PC with this exact problem,
-    the answer is yes, this works fine. This Windows 7 was installed in UEFI
-    mode, had Secure Boot enabled until this ASUS problem occurred earlier this
-    year, and was then upgraded to Windows 10 with Secure Boot disabled.
-    Enabling Secure Boot after the upgrade was successful.
+<div class="article-edit">
+
+Edit September 2016: Having tested this on a PC with this exact problem,
+the answer is yes, this works fine. This Windows 7 was installed in UEFI
+mode, had Secure Boot enabled until this ASUS problem occurred earlier this
+year, and was then upgraded to Windows 10 with Secure Boot disabled.
+Enabling Secure Boot after the upgrade was successful.
+
+</div>
 
 [^1]: Previously, I had recommended updates set to automatically install, but
 unfortunately it's now necessary to make sure you don't [inadvertently install

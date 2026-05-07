@@ -7,30 +7,33 @@ tags: ["hdparm", "erase"]
 slug: secure-erasing-a-frozen-drive
 description: How to use hdparm to erase hard drives, and what to do if the drive is frozen.
 ---
-!!! article-edit ""
-    Edit 2017-12-29: Justin Smith, who'd read this post, had a
-    discussion by email with me pointing out he'd had some problems
-    with this process: namely, wiping appeared to complete, but then he
-    could still find files present on the disk afterwards. I couldn't
-    figure it out, but suggested Justin contacted hdparm's author, Mark
-    Lord, for advice. Mark diagnosed the problem as the drive not being
-    unmounted first:
+<div class="article-edit">
 
-    > Yes, you MUST unmount anything that got automounted, because stuff
-    > that is mounted gets periodically written to by the kernel
-    > (filesystem timestamps etc), which could account for some of the
-    > non-zero stuff you saw later.
+Edit 2017-12-29: Justin Smith, who'd read this post, had a
+discussion by email with me pointing out he'd had some problems
+with this process: namely, wiping appeared to complete, but then he
+could still find files present on the disk afterwards. I couldn't
+figure it out, but suggested Justin contacted hdparm's author, Mark
+Lord, for advice. Mark diagnosed the problem as the drive not being
+unmounted first:
 
-    Mark's suggestion for wiping the drive was as follows:
+> Yes, you MUST unmount anything that got automounted, because stuff
+> that is mounted gets periodically written to by the kernel
+> (filesystem timestamps etc), which could account for some of the
+> non-zero stuff you saw later.
 
-    > Do this:
-    >
-    > (1) Un-mount all partitions of the drive, including those that got
-    > auto-mounted. Then do "`sync`".
-    >
-    > (2) Set an empty password: `hdparm --security-set-pass NULL /dev/sdX`
-    >
-    > (3) Erase it: `hdparm --security-erase NULL /dev/sdX`
+Mark's suggestion for wiping the drive was as follows:
+
+> Do this:
+>
+> (1) Un-mount all partitions of the drive, including those that got
+> auto-mounted. Then do "`sync`".
+>
+> (2) Set an empty password: `hdparm --security-set-pass NULL /dev/sdX`
+>
+> (3) Erase it: `hdparm --security-erase NULL /dev/sdX`
+
+</div>
 
 Yesterday I was trying to erase a hard drive before I used it for a new
 install. It may well have never been used, but I couldn't remember and,
