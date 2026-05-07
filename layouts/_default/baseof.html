@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="{{ site.Params.htmlLang | default "en-gb" }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} - {{ site.Title }}{{ end }}</title>
+    <meta name="author" content="{{ site.Params.author }}">
+    {{ $description := site.Params.description }}
+    {{ with .Summary }}{{ $description = . | plainify }}{{ end }}
+    {{ with .Description }}{{ $description = . }}{{ end }}
+    <meta name="description" content="{{ $description }}">
+    <link rel="canonical" href="{{ .Permalink }}">
+    <link rel="icon" href="{{ "/images/extra/favicon.ico" | relURL }}">
+    {{ with .OutputFormats.Get "RSS" }}<link rel="alternate" type="{{ .MediaType.Type }}" title="{{ $.Title }}" href="{{ .RelPermalink }}">{{ end }}
+    {{ template "_internal/opengraph.html" . }}
+    {{ template "_internal/twitter_cards.html" . }}
+    {{ $style := resources.Get "css/site.css" | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ $style.RelPermalink }}" integrity="{{ $style.Data.Integrity }}">
+  </head>
+  <body>
+    <header class="site-header">
+      <nav class="top-nav">
+        <div class="top-nav__inner">
+          <a class="site-link" href="{{ "/" | relURL }}">{{ site.Title }}</a>
+          <div class="top-nav__links">
+            <a href="{{ "/pages/contact-me/" | relURL }}">About</a>
+            <a href="{{ "/archives/" | relURL }}">Archives</a>
+          </div>
+        </div>
+      </nav>
+      {{ if or .IsHome (eq .Type "posts") }}
+        <section class="banner">
+          <div class="banner__inner">
+            <div class="banner__panel">
+              <h1>{{ site.Params.bannerTitle }}</h1>
+              <p>{{ site.Params.bannerSubtitle }}</p>
+            </div>
+          </div>
+        </section>
+      {{ end }}
+    </header>
+    <main class="page-shell">
+      {{ block "main" . }}{{ end }}
+    </main>
+    <footer class="site-footer">
+      <div class="page-width">
+        <p><a href="{{ site.Params.github }}">GitHub</a></p>
+      </div>
+    </footer>
+  </body>
+</html>

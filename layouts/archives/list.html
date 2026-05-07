@@ -1,0 +1,20 @@
+{{ define "main" }}
+  <div class="page-width archives-page">
+    <header class="list-header">
+      <h1>{{ .Title }}</h1>
+    </header>
+    {{ range (where site.RegularPages.ByDate.Reverse "Section" "posts").GroupByDate "2006" }}
+      <section class="archive-year">
+        <h2>{{ .Key }}</h2>
+        <ul class="archive-list">
+          {{ range .Pages }}
+            <li>
+              <span class="archive-date">{{ .Date.Format "2006-01-02" }}</span>
+              <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            </li>
+          {{ end }}
+        </ul>
+      </section>
+    {{ end }}
+  </div>
+{{ end }}

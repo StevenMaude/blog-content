@@ -1,0 +1,58 @@
+baseURL = 'https://www.stevenmaude.co.uk/'
+locale = 'en-gb'
+title = 'stevenmaude.co.uk'
+timeZone = 'Europe/London'
+enableRobotsTXT = true
+enableGitInfo = true
+summaryLength = 70
+
+[pagination]
+  pagerSize = 10
+
+[taxonomies]
+  tag = 'tags'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    noClasses = false
+    style = 'monokai'
+
+[params]
+  author = 'Steven Maude'
+  description = 'Words and stuff.'
+  bannerTitle = "Steven Maude's blog"
+  bannerSubtitle = 'Words and stuff.'
+  github = 'https://github.com/StevenMaude'
+  htmlLang = 'en-gb'
+
+[outputs]
+  home = ['HTML', 'RSS']
+  section = ['HTML', 'RSS']
+  taxonomy = ['HTML']
+  term = ['HTML', 'RSS']
+
+[module]
+  [[module.mounts]]
+    source = 'assets'
+    target = 'assets'
+  [[module.mounts]]
+    source = 'content'
+    target = 'content'
+  [[module.mounts]]
+    source = 'data'
+    target = 'data'
+  [[module.mounts]]
+    source = 'i18n'
+    target = 'i18n'
+  [[module.mounts]]
+    source = 'layouts'
+    target = 'layouts'
+  [[module.mounts]]
+    source = 'static'
+    target = 'static'
+  [[module.mounts]]
+    source = 'images'
+    target = 'static/images'

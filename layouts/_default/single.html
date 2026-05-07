@@ -1,0 +1,13 @@
+{{ define "main" }}
+  <article class="page-width article-single{{ if ne .Section "posts" }} page-single{{ end }}">
+    <header class="article-header">
+      <h1>{{ .Title }}</h1>
+    </header>
+    {{ if eq .Section "posts" }}
+      {{ partial "article-meta.html" . }}
+    {{ end }}
+    <div class="entry-content">
+      {{ .Content }}
+    </div>
+  </article>
+{{ end }}

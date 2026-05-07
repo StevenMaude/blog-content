@@ -1,0 +1,12 @@
+<div class="article-meta">
+  <span class="meta-label">Published</span>
+  <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "2006-01-02" }}</time>
+  {{ with .Params.tags }}
+    <span class="meta-label">Tags</span>
+    <span class="meta-tags">{{ range $index, $tag := . }}{{ if $index }} / {{ end }}<a href="{{ (printf "/tags/%s/" ($tag | urlize)) | relURL }}">{{ $tag }}</a>{{ end }}</span>
+  {{ end }}
+  {{ if and .Params.show_lastmod (ne (.Date.Format "2006-01-02T15:04:05Z07:00") (.Lastmod.Format "2006-01-02T15:04:05Z07:00")) }}
+    <span class="meta-label">Updated</span>
+    <time datetime="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Lastmod.Format "2006-01-02" }}</time>
+  {{ end }}
+</div>
