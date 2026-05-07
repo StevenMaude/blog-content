@@ -1,0 +1,15 @@
+{{ define "main" }}
+  <article class="article">
+    <h1 class="article-title">{{ .Title }}</h1>
+    {{ if eq .Section "posts" }}
+      <p class="meta">{{ .Date.Format .Site.Params.dateFormat }}{{ with .Params.tags }} · {{ delimit . ", " }}{{ end }}</p>
+      {{ with .Lastmod }}{{ if ne . $.Date }}<p class="single-updated">Updated {{ .Format $.Site.Params.dateFormat }}</p>{{ end }}{{ end }}
+    {{ end }}
+    <div class="article-content">
+      {{ .Content }}
+    </div>
+    {{ with .Params.tags }}
+      <p class="single-tags">Tagged {{ range $index, $tag := . }}{{ if $index }}, {{ end }}<a href="{{ (printf "/tags/%s/" ($tag | urlize)) | relURL }}">{{ $tag }}</a>{{ end }}</p>
+    {{ end }}
+  </article>
+{{ end }}

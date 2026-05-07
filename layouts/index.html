@@ -1,0 +1,12 @@
+{{ define "main" }}
+  {{ $posts := where site.RegularPages "Section" "posts" }}
+  <section class="hero">
+    <h1>{{ .Site.Title }}</h1>
+    <p>{{ .Site.Params.description }}</p>
+  </section>
+  <section class="post-list">
+    {{ range first 10 $posts.ByDate.Reverse }}
+      {{ partial "post-card.html" . }}
+    {{ end }}
+  </section>
+{{ end }}

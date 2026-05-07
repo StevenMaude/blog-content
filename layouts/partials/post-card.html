@@ -1,0 +1,5 @@
+<article class="card">
+  <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+  <p class="meta">{{ .Date.Format $.Site.Params.dateFormat }}{{ with .Params.tags }} · {{ delimit . ", " }}{{ end }}</p>
+  {{ with .Summary }}<p class="summary">{{ . | plainify }}</p>{{ end }}
+</article>

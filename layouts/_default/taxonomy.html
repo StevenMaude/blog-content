@@ -1,0 +1,11 @@
+{{ define "main" }}
+  <section class="page-intro">
+    <h1 class="page-title">{{ .Title }}</h1>
+    <p>{{ len .Pages }} post{{ if ne (len .Pages) 1 }}s{{ end }}</p>
+  </section>
+  <section class="post-list">
+    {{ range .Pages.ByDate.Reverse }}
+      {{ partial "post-card.html" . }}
+    {{ end }}
+  </section>
+{{ end }}
