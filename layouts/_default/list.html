@@ -1,10 +1,11 @@
 {{ define "main" }}
+  {{ $pages := .Pages.ByDate.Reverse }}
   <section class="page-intro">
     <h1 class="page-title">{{ .Title }}</h1>
     {{ with .Content }}<div>{{ . }}</div>{{ end }}
   </section>
   <section class="post-list">
-    {{ range .Paginator.Pages }}
+    {{ range (.Paginate $pages).Pages }}
       {{ partial "post-card.html" . }}
     {{ else }}
       <article class="card"><p>No content here yet.</p></article>

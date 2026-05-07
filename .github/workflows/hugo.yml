@@ -3,15 +3,13 @@ name: Build and deploy Hugo site
 on:
   pull_request:
   push:
-    branches:
-      - main
   workflow_dispatch:
 
 permissions:
   contents: read
 
 concurrency:
-  group: github-pages
+  group: github-pages-${{ github.ref }}
   cancel-in-progress: true
 
 jobs:
