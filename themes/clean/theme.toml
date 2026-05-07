@@ -1,0 +1,9 @@
+name = "clean"
+license = "MIT"
+licenselink = ""
+description = "A clean, minimal theme for stevenmaude.co.uk"
+homepage = "https://www.stevenmaude.co.uk/"
+min_version = "0.147.0"
+
+[author]
+  name = "Steven Maude"
