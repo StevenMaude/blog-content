@@ -1,0 +1,28 @@
+{{ define "main" }}
+{{ if .IsHome }}
+<div class="hero">
+  <div class="hero-inner">
+    <div class="hero-text">
+      <h1 class="hero-title">{{ .Site.Title }}</h1>
+      <p class="hero-subtitle">{{ .Site.Params.description }}</p>
+    </div>
+  </div>
+</div>
+{{ end }}
+<div class="container">
+  {{ if not .IsHome }}
+  <h1 class="page-title">{{ .Title }}</h1>
+  {{ end }}
+  <div class="post-list">
+    {{ $posts := where .Site.RegularPages "Section" "posts" }}
+    {{ range $posts.ByDate.Reverse }}
+    <article class="post-summary">
+      <h2 class="post-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+      {{ partial "post-meta.html" . }}
+      {{ with .Description }}<p class="post-description">{{ . }}</p>{{ end }}
+      <hr class="post-divider">
+    </article>
+    {{ end }}
+  </div>
+</div>
+{{ end }}

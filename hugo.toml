@@ -1,0 +1,34 @@
+baseURL = "https://stevenmaude.co.uk/"
+languageCode = "en-gb"
+title = "Steven Maude's blog"
+theme = "clean"
+
+[params]
+  description = "Words and stuff."
+  author = "Steven Maude"
+  domain = "stevenmaude.co.uk"
+
+[menus]
+  [[menus.main]]
+    name = "About"
+    url = "/about/"
+    weight = 1
+
+[permalinks]
+  [permalinks.page]
+    posts = "/:year/:month/:slug/"
+
+[taxonomies]
+  tag = "tags"
+
+[pagination]
+  pagerSize = 20
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    style = "monokai"
+    lineNos = false
+    codeFences = true
