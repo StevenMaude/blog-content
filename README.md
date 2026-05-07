@@ -1,4 +1,13 @@
 # blog-content
 
-Posts and pages from [my blog](http://www.stevenmaude.co.uk), in
-Markdown format.
+A Hugo site for [stevenmaude.co.uk](https://www.stevenmaude.co.uk).
+
+## Build locally
+
+Install Hugo and run:
+
+```bash
+hugo --minify
+```
+
+The generated site is written to `public/`.
