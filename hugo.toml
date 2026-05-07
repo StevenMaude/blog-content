@@ -1,0 +1,28 @@
+baseURL = "https://www.stevenmaude.co.uk/"
+title = "stevenmaude.co.uk"
+theme = "clean"
+[pagination]
+  pagerSize = 10
+languageCode = "en-us"
+defaultContentLanguage = "en"
+
+staticDir = ["static", "images"]
+
+[permalinks]
+  posts = "/:slug/"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      footnote = true
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    noClasses = false
+
+[params]
+  author = "Steven Maude"
+  description = "Steven Maude's blog"
+
+[taxonomies]
+  tag = "tags"
