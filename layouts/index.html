@@ -1,0 +1,9 @@
+{{ define "main" }}
+  <div class="page-width">
+    {{ $paginator := .Paginate (where site.RegularPages.ByDate.Reverse "Section" "posts") }}
+    {{ range $paginator.Pages }}
+      {{ partial "post-card.html" . }}
+    {{ end }}
+    {{ partial "pagination.html" . }}
+  </div>
+{{ end }}

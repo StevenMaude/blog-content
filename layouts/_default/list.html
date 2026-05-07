@@ -1,0 +1,12 @@
+{{ define "main" }}
+  <div class="page-width">
+    <header class="list-header">
+      <h1>{{ .Title }}</h1>
+    </header>
+    {{ $pages := .Pages }}
+    {{ if eq .Kind "term" }}{{ $pages = .RegularPagesRecursive.ByDate.Reverse }}{{ else }}{{ $pages = .RegularPagesRecursive.ByDate.Reverse }}{{ end }}
+    {{ range $pages }}
+      {{ partial "post-card.html" . }}
+    {{ end }}
+  </div>
+{{ end }}
