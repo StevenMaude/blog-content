@@ -9,7 +9,7 @@ tags = ["Bitlocker", "build", "PC", "learning", "heatsink", "motherboard", "ASUS
 aliases = ["/2013/12/things-ive-learned-from-building-and.html"]
 +++
 
-<img class="article-image" src="/images/2014/PC.jpg" alt="Image of an assembled PC." width="400">
+![Image of an assembled PC.](/images/2014/PC.jpg)
 
 Delving into the inside of PCs isn't that new to me, I've swapped in and
 out pretty much every part at some point individually. But, building a
@@ -78,7 +78,7 @@ in huge packs very cheaply (I paid a couple of pounds for a hundred).
 4\. **I didn't understand why there were so many complaints about Intel's
 push pin cooler design until I had to install it the second time.**
 
-<img class="article-image" src="/images/2014/Cooler_push_pin.jpg" alt="Close-up image of an Intel heatsink showing the push pin that holds the heatsink in place in a motherboard." width="300">
+![Close-up image of an Intel heatsink showing the push pin that holds the heatsink in place in a motherboard.](/images/2014/Cooler_push_pin.jpg)
 
 You put the pins of the cooler through the motherboard then click them
 in place to open out the pins and lock them there. Sounds easy, until

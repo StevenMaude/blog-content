@@ -9,7 +9,7 @@ tags = ["foolishness", "name", "main", "Python", "fix"]
 aliases = ["/2014/07/arduous-lessons-in-python-why-main-is.html"]
 +++
 
-<img class="article-image" src="/images/2014/python_logo.png" alt="The Python logo.">
+![The Python logo.](/images/2014/python_logo.png)
 
 An ordinary afternoon and I'd wanted to work on some code locally on my
 machine. I knew the tests previously ran without any issue. So, after

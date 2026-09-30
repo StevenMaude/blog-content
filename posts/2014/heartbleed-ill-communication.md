@@ -9,7 +9,7 @@ tags = ["Heartbleed", "security", "communication"]
 aliases = ["/2014/05/heartbleed-ill-communication.html"]
 +++
 
-<img class="article-image" src="/images/2014/heartbleed.png" alt="The Heartbleed logo." width="400">
+![The Heartbleed logo.](/images/2014/heartbleed.png)
 
 Even if you're not particularly into technology, you probably wouldn't
 have escaped hearing about Heartbleed last month.

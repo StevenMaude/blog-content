@@ -10,7 +10,7 @@ aliases = ["/2013/07/uses-for-a-raspberry-pi-part-2.html"]
 +++
 
 
-<img class="article-image" src="/images/2013/Raspberry_Pi.jpg" alt="A Raspberry Pi working hard!">
+![A Raspberry Pi working hard!](/images/2013/Raspberry_Pi.jpg)
 
 In my [last
 post]({{< relref "/posts/2013/uses-for-a-raspberry-pi-part-1.md" >}}),
@@ -171,7 +171,7 @@ reasons.
 
 ### Scheduling the PVR to run
 
-<img class="article-image" src="/images/2013/get_iplayer_crontab.png" alt="Crontab with get_iplayer scheduled.">
+![Crontab with get_iplayer scheduled.](/images/2013/get_iplayer_crontab.png)
 
 However, it is more convenient to run the PVR regularly rather than have
 to run it manually. You can add the command to run the PVR to the [cron

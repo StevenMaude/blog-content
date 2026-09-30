@@ -166,7 +166,7 @@ By virtue of what HTTP Switchboard aims to do — give you full control of
 what is allowed by your browser — this makes its user interface slightly
 more complex, which I'll soon get onto.
 
-<img class="article-image" src="/images/2014/ublock.png" alt="The ublock enable/disable icon." width="174">
+![The ublock enable/disable icon.](/images/2014/ublock.png)
 
 Stripping out this sophistication seems like a smart move, since
 ublock's incredibly easy to use. Really, it requires the same amount of
@@ -200,10 +200,9 @@ I use which all have similar menus to allow or deny permission for a
 site to run scripts or store cookies. These have a text explanation of
 what the option does.
 
-<figure class="article-figure">
-  <img src="/images/2014/Firefox_menus.png" alt="Examples of NoScript, CookieMonster and RequestPolicy permission menus.">
-  <figcaption>From left to right, examples of NoScript, CookieMonster and RequestPolicy permission menus when accessing Google Books.</figcaption>
-</figure>
+![Examples of NoScript, CookieMonster and RequestPolicy permission menus.](/images/2014/Firefox_menus.png)
+
+From left to right, examples of NoScript, CookieMonster and RequestPolicy permission menus when accessing Google Books.
 
 The problem with this menu format is, though it's explicit and clear,
 it's cumbersome when you're dealing with several extensions. For each
@@ -215,10 +214,9 @@ simplicity clicks. HTTP Switchboard opts for a table-like interface.
 Each site is represented as a row, and each type of content is shown as
 a column.
 
-<figure class="article-figure">
-  <img src="/images/2014/HTTP_Switchboard.png" alt="Example of HTTP Switchboard's table interface.">
-  <figcaption>Example of HTTP Switchboard's interface when accessing Google Books.</figcaption>
-</figure>
+![Example of HTTP Switchboard's table interface.](/images/2014/HTTP_Switchboard.png)
+
+Example of HTTP Switchboard's interface when accessing Google Books.
 
 This lets the user approve different permissions for different sites
 quickly. Just read down the list of sites, click on those you want to

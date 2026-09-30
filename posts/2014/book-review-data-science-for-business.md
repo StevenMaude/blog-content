@@ -9,7 +9,7 @@ tags = ["data", "review", "science", "business", "book"]
 aliases = ["/2014/01/book-review-data-science-for-business.html"]
 +++
 
-<img class="article-image" src="/images/2014/Data_Science_for_Business.jpg" alt="Cover of &quot;Data Science for Business&quot; book." width="300">
+![Cover of "Data Science for Business" book.](/images/2014/Data_Science_for_Business.jpg)
 
 I recently read "Data Science for Business" by Foster Provost and Tom
 Fawcett for the upcoming [Data Science Book

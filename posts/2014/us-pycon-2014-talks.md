@@ -9,7 +9,7 @@ tags = ["scraping", "lxml", "BeautifulSoup", "regular", "testing", "Python", "ex
 aliases = ["/2014/04/us-pycon-2014-talks.html"]
 +++
 
-<img class="article-image" src="/images/2014/python_logo.png" alt="The Python logo.">
+![The Python logo.](/images/2014/python_logo.png)
 
 The US PyCon took place over the last week or so and there are a huge
 selection of videos of the talks up at

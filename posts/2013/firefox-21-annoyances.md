@@ -46,7 +46,7 @@ My initial thought was to check the list of MIME types (Options \>
 Applications) to see if anything had changed. No, it still looked just
 as it did before:
 
-<img class="article-image" src="/images/2013/Firefox_MIME_types.png" alt="Firefox MIME types">
+![Firefox MIME types](/images/2013/Firefox_MIME_types.png)
 
 The about:config option to restore the original behaviour is to set
 [media.windows-media-foundation.enabled to

@@ -10,7 +10,7 @@ aliases = ["/2014/06/chatting-about-data-science-careers.html"]
 
 ## Visiting Cambridge
 
-<img class="article-image" src="/images/2014/Cambridge_1.jpg" alt="A photo of a street in Cambridge" width=300>
+![A photo of a street in Cambridge](/images/2014/Cambridge_1.jpg)
 
 I visited Cambridge this week. Though I know Oxford fairly well, somehow
 I'd manage to avoid ever travelling to Cambridge before, so being in a
@@ -64,7 +64,7 @@ a disconnect between employers looking for well qualified PhDs and the
 candidates themselves. The jobs are there. The candidates are there.
 But, for whatever reason, they're missing each other.
 
-<img class="article-image" src="/images/2014/Cambridge_2.jpg" alt="Another photo taken in Cambridge.">
+![Another photo taken in Cambridge.](/images/2014/Cambridge_2.jpg)
 
 From my experience as a researcher, I'd suggest a part of the problem is
 that PhDs and postdocs may be simply unaware of the range of

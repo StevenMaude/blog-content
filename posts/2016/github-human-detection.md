@@ -6,18 +6,16 @@ summary = "GitHub hiding my profile reminds me there are no guarantees of your p
 tags = ["GitHub"]
 +++
 
-<blockquote>
-  <p>Human, human, human, human,<br>
-     Human, human, human, human,<br>
-     Human, human, human, human,<br>
-     Human, human, human after all.
-  </p>
-  <cite>Daft Punk — Human After All</cite>
-</blockquote>
+> Human, human, human, human,\
+> Human, human, human, human,\
+> Human, human, human, human,\
+> Human, human, human after all.
+>
+> — Daft Punk — *Human After All*
 
 I logged into GitHub this week and saw an unusual message:
 
-<img class="article-image" src="/images/2016/GitHub_not_human.png" alt="The GitHub message prompting me that I'm possibly not human.">
+![The GitHub message prompting me that I'm possibly not human.](/images/2016/GitHub_not_human.png)
 
 > One of our mostly harmless robots seems to think you are not a human.
 >

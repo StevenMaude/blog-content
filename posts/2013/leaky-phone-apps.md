@@ -12,10 +12,9 @@ aliases = ["/2013/06/leaky-phone-apps.html"]
 My phone doesn't have a huge number of third party apps installed, but
 saw this chart today and it's a little worrying nonetheless:
 
-<figure class="article-figure">
-  <img src="/images/2013/Free_apps_chart.jpg" alt="Chart showing a substantial proportion of free apps collect data such as location.">
-  <figcaption>Chart courtesy of <a href="http://www.statista.com/topics/876/android/chart/1228/free-apps-are-hungry-for-user-data/">Statista</a>.</figcaption>
-</figure>
+![Chart showing a substantial proportion of free apps collect data such as location.](/images/2013/Free_apps_chart.jpg)
+
+Chart courtesy of [Statista](http://www.statista.com/topics/876/android/chart/1228/free-apps-are-hungry-for-user-data/).
 
 I'm not sure exactly what "account info" describes. I did check the
 [original

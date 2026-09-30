@@ -9,7 +9,7 @@ tags = ["GitHub", "SSH", "remote", "shell", "Ubuntu"]
 aliases = ["/2013/09/how-to-access-github-over-ssh-on-ubuntu.html"]
 +++
 
-<img class="article-image" src="/images/2013/GitHub_logo.png" alt="GitHub logo">
+![GitHub logo](/images/2013/GitHub_logo.png)
 
 [Since starting working at
 ScraperWiki](http://blog.scraperwiki.com/2013/09/02/hi-im-steve/), I've
@@ -43,9 +43,7 @@ it.](https://help.github.com/articles/generating-ssh-keys)
     You should now change the clone URLs GitHub displays to SSH (see the
     image; where it says clone with HTTPS, SSH…, click on SSH).
 
-    <div class="break-out-of-list">
-      <img class="article-image" src="/images/2013/GitHub_clone.png" alt="GitHub sidebar showing the position of the clone URL display.">
-    </div>
+    ![GitHub sidebar showing the position of the clone URL display.](/images/2013/GitHub_clone.png)
 
     Now, the first time you try to perform some action on GitHub via ssh
     (e.g. `git clone`), you should only get asked for the passphrase once and

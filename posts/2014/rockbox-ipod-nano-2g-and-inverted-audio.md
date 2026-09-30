@@ -9,7 +9,7 @@ tags = ["Rockbox", "Nano", "iPod", "bug"]
 aliases = ["/2014/04/rockbox-ipod-nano-2g-and-inverted-audio.html"]
 +++
 
-<img class="article-image" src="/images/2014/rockbox3540.jpg" alt="The Rockbox logo.">
+![The Rockbox logo.](/images/2014/rockbox3540.jpg)
 
 I do a lot of listening to music and podcasts with a trusty old second
 generation iPod Nano running [Rockbox](http://www.rockbox.org). What
