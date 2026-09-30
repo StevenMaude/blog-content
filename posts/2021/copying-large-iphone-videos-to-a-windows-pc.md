@@ -1,8 +1,10 @@
-Title: Copying large iPhone videos to a Windows PC
-Date: 2021-01-25 20:50
-Author: Steven Maude
-Tags: iOS, iPad, iPadOS, iPhone, Windows
-Summary: How to copy iPhone videos that don't appear in Windows File Explorer
++++
+title = "Copying large iPhone videos to a Windows PC"
+date = 2021-01-25T20:50:00
+author = "Steven Maude"
+summary = "How to copy iPhone videos that don't appear in Windows File Explorer"
+tags = ["iOS", "iPad", "iPadOS", "iPhone", "Windows"]
++++
 
 ## A simple task made complicated
 

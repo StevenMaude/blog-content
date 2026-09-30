@@ -1,9 +1,10 @@
-Title: Learning LaTeX: why and how 
-Date: 2017-05-01 15:02
-Author: Steven Maude
-Tags: LaTeX, document preparation, word processor
-Summary: The pros and cons of LaTeX and Word; why you might want to learn
-         LaTeX, and how you might do that.
++++
+title = "Learning LaTeX: why and how"
+date = 2017-05-01T15:02:00
+author = "Steven Maude"
+summary = "The pros and cons of LaTeX and Word; why you might want to learn LaTeX, and how you might do that."
+tags = ["LaTeX", "document preparation", "word processor"]
++++
 
 ## ShareLaTeX
 

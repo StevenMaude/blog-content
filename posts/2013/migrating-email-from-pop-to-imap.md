@@ -1,11 +1,13 @@
-Title: Migrating email from POP to IMAP in Thunderbird
-Date: 2013-07-07 15:24
-Modified: 2014-05-06 18:50
-Author: Steven Maude
-Tags: Thunderbird, migration, POP, IMAP, Gmail
-Slug: migrating-email-from-pop-to-imap
-Summary: How to switch in Thunderbird from using email via POP to IMAP instead.
-Alias: /2013/07/migrating-email-from-pop-to-imap.html
++++
+title = "Migrating email from POP to IMAP in Thunderbird"
+date = 2013-07-07T15:24:00
+lastmod = 2014-05-06T18:50:00
+author = "Steven Maude"
+slug = "migrating-email-from-pop-to-imap"
+summary = "How to switch in Thunderbird from using email via POP to IMAP instead."
+tags = ["Thunderbird", "migration", "POP", "IMAP", "Gmail"]
+aliases = ["/2013/07/migrating-email-from-pop-to-imap.html"]
++++
 
 I had my Gmail account setup to be accessed via
 [POP](https://en.wikipedia.org/wiki/Post_Office_Protocol) in [Mozilla

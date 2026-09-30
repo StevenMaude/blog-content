@@ -1,18 +1,20 @@
-Title: Beatmatching; five reasons why digital DJs should learn, and how Traktor can help
-Date: 2014-01-16 18:24
-Modified: 2014-02-09 20:41
-Author: Steven Maude
-Tags: sync, DJ, laptop, Traktor, beatmatching, digital
-Slug: beatmatching-five-reasons-why-digital
-Summary: Why digital DJs should learn to beatmatch, and the tools that Traktor offers for practice and training.
-Alias: /2014/01/beatmatching-five-reasons-why-digital.html
++++
+title = "Beatmatching; five reasons why digital DJs should learn, and how Traktor can help"
+date = 2014-01-16T18:24:00
+lastmod = 2014-02-09T20:41:00
+author = "Steven Maude"
+slug = "beatmatching-five-reasons-why-digital"
+summary = "Why digital DJs should learn to beatmatch, and the tools that Traktor offers for practice and training."
+tags = ["sync", "DJ", "laptop", "Traktor", "beatmatching", "digital"]
+aliases = ["/2014/01/beatmatching-five-reasons-why-digital.html"]
++++
 
 2014/02/09: An edited version of this post was recently republished on
 [DJ TechTools](http://www.djtechtools.com/2014/01/31/how-traktor-can-help-you-learn-to-beatmatch/).
 
 ## DJ software: complete with the kitsch in sync
 
-<img class="article-image" src="{static}/images/2014/sync.jpg" alt="Sync button from a Vestax VCI-100." width="400">
+![Sync button from a Vestax VCI-100.](/images/2014/sync.jpg)
 
 There's a view — one I guess is primarily propagated by people who were DJing
 long before the likes of Traktor and Serato[^1] came
@@ -86,7 +88,7 @@ learning to do this myself, I shouldn't use any of these tools ." But,
 when you're learning to manually beatmatch, **these features are still
 really useful**. So what do we have?
 
-<img class="article-image" src="{static}/images/2014/Traktor_layout.png" alt="Traktor deck showing sync button, phase meter and grid options with a BPM counter.">
+![Traktor deck showing sync button, phase meter and grid options with a BPM counter.](/images/2014/Traktor_layout.png)
 
 ### Phase meter
 
@@ -149,7 +151,7 @@ the live track; also useful in developing beatmatching skills.
 
 ### Recording
 
-<img class="article-image" src="{static}/images/2014/Audio_recorder.png" alt="Traktor's audio recorder options.">
+![Traktor's audio recorder options.](/images/2014/Audio_recorder.png)
 
 It's not always easy to judge how well your beatmatching is while you're
 actually doing it. Recording your practice and listening back to see how

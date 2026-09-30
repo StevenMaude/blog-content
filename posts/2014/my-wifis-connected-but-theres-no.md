@@ -1,10 +1,12 @@
-Title: My wifi's connected, but there's no internet…? (Intel Centrino versus Ubuntu)
-Date: 2014-07-29 23:15
-Author: Steven Maude
-Tags: connection, Centrino, wifi, Ubuntu, Intel, fix
-Slug: my-wifis-connected-but-theres-no
-Summary: Describes how to fix an issue with Intel Centrino wireless adapters using iwlwifi seeing wifi, but not connecting.
-Alias: /2014/07/my-wifis-connected-but-theres-no.html
++++
+title = "My wifi's connected, but there's no internet…? (Intel Centrino versus Ubuntu)"
+date = 2014-07-29T23:15:00
+author = "Steven Maude"
+slug = "my-wifis-connected-but-theres-no"
+summary = "Describes how to fix an issue with Intel Centrino wireless adapters using iwlwifi seeing wifi, but not connecting."
+tags = ["connection", "Centrino", "wifi", "Ubuntu", "Intel", "fix"]
+aliases = ["/2014/07/my-wifis-connected-but-theres-no.html"]
++++
 
 ## Intel Outside (of my own office)
 

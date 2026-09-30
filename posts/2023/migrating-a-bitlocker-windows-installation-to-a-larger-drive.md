@@ -1,8 +1,10 @@
-Title: Migrating a Bitlocker Windows installation to a larger drive
-Date: 2023-01-02 23:33
-Author: Steven Maude
-Tags: Bitlocker, Windows
-Summary: How to clone a Windows installation to another disk
++++
+title = "Migrating a Bitlocker Windows installation to a larger drive"
+date = 2023-01-02T23:33:00
+author = "Steven Maude"
+summary = "How to clone a Windows installation to another disk"
+tags = ["Bitlocker", "Windows"]
++++
 
 I recently cloned a Windows 10 installation's Bitlocker encrypted drive
 to upgrade a PC's solid state drive (SSD) from a smaller SATA drive to

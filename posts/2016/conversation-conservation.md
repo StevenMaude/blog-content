@@ -1,8 +1,10 @@
-Title: Conversation conservation: recording audio input and output simultaneously in Linux
-Date: 2016-12-01 12:00
-Author: Steven Maude
-Tags: audio, recording, Linux, Ubuntu
-Summary: Recording audio input and output in Linux for screencasts, podcasts and interviews. 
++++
+title = "Conversation conservation: recording audio input and output simultaneously in Linux"
+date = 2016-12-01T12:00:00
+author = "Steven Maude"
+summary = "Recording audio input and output in Linux for screencasts, podcasts and interviews."
+tags = ["audio", "recording", "Linux", "Ubuntu"]
++++
 
 ## Why?
 

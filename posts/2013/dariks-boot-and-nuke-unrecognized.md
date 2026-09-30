@@ -1,18 +1,20 @@
-Title: Darik's Boot and Nuke: fixing an "unrecognized device" error
-Date: 2013-08-29 22:32
-Modified: 2014-01-06 11:21
-Author: Steven Maude
-Tags: device, unrecognized, error, HDD, erase, DBAN
-Slug: dariks-boot-and-nuke-unrecognized
-Summary: Fixing unrecognized device errors in Darik's Boot and Nuke.
-Alias: /2013/08/dariks-boot-and-nuke-unrecognized.html
++++
+title = "Darik's Boot and Nuke: fixing an \"unrecognized device\" error"
+date = 2013-08-29T22:32:00
+lastmod = 2014-01-06T11:21:00
+author = "Steven Maude"
+slug = "dariks-boot-and-nuke-unrecognized"
+summary = "Fixing unrecognized device errors in Darik's Boot and Nuke."
+tags = ["device", "unrecognized", "error", "HDD", "erase", "DBAN"]
+aliases = ["/2013/08/dariks-boot-and-nuke-unrecognized.html"]
++++
 
-!!! article-edit ""
-    Edit 2014/01/04: I've written a [more recent
-    post]({filename}../2014/securely-erasing-ssd-drives.md)
-    which describes how to use hdparm and ATA Secure Erase to wipe drives,
-    which might be of interest if you're thinking of using DBAN, and
-    particularly if you're erasing an SSD.
+> **Updated note**
+> Edit 2014/01/04: I've written a [more recent
+> post]({{< relref "/posts/2014/securely-erasing-ssd-drives.md" >}})
+> which describes how to use hdparm and ATA Secure Erase to wipe drives,
+> which might be of interest if you're thinking of using DBAN, and
+> particularly if you're erasing an SSD.
 
 Over last Bank Holiday weekend, I'd been trying to install a dual boot
 system and having lots of fun. Actually, for "lots of", read none,

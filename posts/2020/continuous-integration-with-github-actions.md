@@ -1,9 +1,10 @@
-Title: Continuous integration with GitHub Actions
-Date: 2020-08-02 14:38
-Author: Steven Maude
-Tags: automation, continuous delivery, continuous integration, GitHub, GitHub Actions
-Summary: A look at GitHub Actions, and the good and bad of coupling automation
-         to a remote repository provider
++++
+title = "Continuous integration with GitHub Actions"
+date = 2020-08-02T14:38:00
+author = "Steven Maude"
+summary = "A look at GitHub Actions, and the good and bad of coupling automation to a remote repository provider"
+tags = ["automation", "continuous delivery", "continuous integration", "GitHub", "GitHub Actions"]
++++
 
 ## A quick review of GitHub Actions
 

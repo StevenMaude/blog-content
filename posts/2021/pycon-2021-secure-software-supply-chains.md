@@ -1,8 +1,10 @@
-Title: PyCon 2021: Secure software supply chains
-Date: 2021-10-15 17:27
-Author: Steven Maude
-Tags: PyCon, Python
-Summary: A summary of a talk by Dustin Ingram at PyCon 2021.
++++
+title = "PyCon 2021: Secure software supply chains"
+date = 2021-10-15T17:27:00
+author = "Steven Maude"
+summary = "A summary of a talk by Dustin Ingram at PyCon 2021."
+tags = ["PyCon", "Python"]
++++
 
 ## Modern Python, less modern me
 

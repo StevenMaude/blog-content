@@ -1,13 +1,15 @@
-Title: A beginner's guide to OS encryption: dual booting and encrypting Windows and Ubuntu
-Date: 2013-09-17 18:48
-Modified: 2015-10-26 17:17
-Author: Steven Maude
-Tags: disk, Bitlocker, Linux, Windows, encryption, TrueCrypt, drive, Ubuntu
-Slug: a-beginners-guide-to-os-encryption-dual
-Summary: How to encrypt Windows and Ubuntu in a dual boot system.
-Alias: /2013/09/a-beginners-guide-to-os-encryption-dual.html
++++
+title = "A beginner's guide to OS encryption: dual booting and encrypting Windows and Ubuntu"
+date = 2013-09-17T18:48:00
+lastmod = 2015-10-26T17:17:00
+author = "Steven Maude"
+slug = "a-beginners-guide-to-os-encryption-dual"
+summary = "How to encrypt Windows and Ubuntu in a dual boot system."
+tags = ["disk", "Bitlocker", "Linux", "Windows", "encryption", "TrueCrypt", "drive", "Ubuntu"]
+aliases = ["/2013/09/a-beginners-guide-to-os-encryption-dual.html"]
++++
 
-<img class="article-image" src="{static}/images/2013/Padlock_and_key.jpg" alt="A padlock with a key." width="320">
+![A padlock with a key.](/images/2013/Padlock_and_key.jpg)
 
 The beginner in the title of this post may or may not refer to you. It
 certainly describes me. Since I was about to setup a new PC, I decided
@@ -72,7 +74,7 @@ please email or [let me know via Twitter](https://twitter.com/StevenMaude).
 
 ## Approach 2: Encrypt Windows 7 Enterprise/Ultimate with Bitlocker; encrypt Ubuntu with LUKS
 
-<img class="article-image" src="{static}/images/2013/Bitlocker.png" alt="Screengrab of Bitlocker's user interface in Windows 7.">
+![Screengrab of Bitlocker's user interface in Windows 7.](/images/2013/Bitlocker.png)
 
 The first issue here is that the only versions of Windows 7 that support
 Bitlocker are Enterprise and Ultimate. If you have Windows 7 Pro, you're
@@ -97,15 +99,15 @@ considering this option.
 
 ## Approach 3: Encrypt Windows 7 (any version) with TrueCrypt; encrypt Ubuntu with LUKS
 
-<img class="article-image" src="{static}/images/2013/TrueCrypt.png" alt="TrueCrypt program window showing options to create a new encrypted volume.">
+![TrueCrypt program window showing options to create a new encrypted volume.](/images/2013/TrueCrypt.png)
 
-!!! article-edit ""
-    Edit October 2015: There are vulnerabilities in the Windows
-    TrueCrypt driver ([here](https://code.google.com/p/google-security-research/issues/detail?id=537)
-    and [here](https://code.google.com/p/google-security-research/issues/detail?id=538)),
-    so it definitely can't be recommended now. There are newer projects
-    based on TrueCrypt which may be suitable replacements; I haven't
-    looked into them.
+> **Updated note**
+> Edit October 2015: There are vulnerabilities in the Windows
+> TrueCrypt driver ([here](https://code.google.com/p/google-security-research/issues/detail?id=537)
+> and [here](https://code.google.com/p/google-security-research/issues/detail?id=538)),
+> so it definitely can't be recommended now. There are newer projects
+> based on TrueCrypt which may be suitable replacements; I haven't
+> looked into them.
 
 The fact that TrueCrypt has its source available is a plus. I'm nowhere
 near smart enough to start understanding the internals of cryptographic

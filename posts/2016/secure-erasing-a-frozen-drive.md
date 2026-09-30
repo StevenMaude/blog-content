@@ -1,34 +1,36 @@
-Title: Securely erasing frozen hard disks with hdparm
-Date: 2016-11-22 13:54
-Modified: 2017-12-29 21:59
-Author: Steven Maude
-Tags: hdparm, erase
-Summary: How to use hdparm to erase hard drives, and what to do if the drive is frozen.
++++
+title = "Securely erasing frozen hard disks with hdparm"
+date = 2016-11-22T13:54:00
+lastmod = 2017-12-29T21:59:00
+author = "Steven Maude"
+summary = "How to use hdparm to erase hard drives, and what to do if the drive is frozen."
+tags = ["hdparm", "erase"]
++++
 
-!!! article-edit ""
-    Edit 2017-12-29: Justin Smith, who'd read this post, had a
-    discussion by email with me pointing out he'd had some problems
-    with this process: namely, wiping appeared to complete, but then he
-    could still find files present on the disk afterwards. I couldn't
-    figure it out, but suggested Justin contacted hdparm's author, Mark
-    Lord, for advice. Mark diagnosed the problem as the drive not being
-    unmounted first:
-
-    > Yes, you MUST unmount anything that got automounted, because stuff
-    > that is mounted gets periodically written to by the kernel
-    > (filesystem timestamps etc), which could account for some of the
-    > non-zero stuff you saw later.
-
-    Mark's suggestion for wiping the drive was as follows:
-
-    > Do this:
-    >
-    > (1) Un-mount all partitions of the drive, including those that got
-    > auto-mounted. Then do "`sync`".
-    >
-    > (2) Set an empty password: `hdparm --security-set-pass NULL /dev/sdX`
-    >
-    > (3) Erase it: `hdparm --security-erase NULL /dev/sdX`
+> **Updated note**
+> Edit 2017-12-29: Justin Smith, who'd read this post, had a
+> discussion by email with me pointing out he'd had some problems
+> with this process: namely, wiping appeared to complete, but then he
+> could still find files present on the disk afterwards. I couldn't
+> figure it out, but suggested Justin contacted hdparm's author, Mark
+> Lord, for advice. Mark diagnosed the problem as the drive not being
+> unmounted first:
+>
+> > Yes, you MUST unmount anything that got automounted, because stuff
+> > that is mounted gets periodically written to by the kernel
+> > (filesystem timestamps etc), which could account for some of the
+> > non-zero stuff you saw later.
+>
+> Mark's suggestion for wiping the drive was as follows:
+>
+> > Do this:
+> >
+> > (1) Un-mount all partitions of the drive, including those that got
+> > auto-mounted. Then do "`sync`".
+> >
+> > (2) Set an empty password: `hdparm --security-set-pass NULL /dev/sdX`
+> >
+> > (3) Erase it: `hdparm --security-erase NULL /dev/sdX`
 
 Yesterday I was trying to erase a hard drive before I used it for a new
 install. It may well have never been used, but I couldn't remember and,
@@ -38,7 +40,7 @@ The best way to erase, especially if the drive is a solid state drive,
 is to use the [ATA Secure
 Erase](https://ata.wiki.kernel.org/index.php/ATA_Secure_Erase) command
 which [I've mentioned
-before]({filename}../2014/securely-erasing-ssd-drives.md).
+before]({{< relref "/posts/2014/securely-erasing-ssd-drives.md" >}}).
 This command should also work for most magnetic hard drives too, unless
 they're ancient.
 

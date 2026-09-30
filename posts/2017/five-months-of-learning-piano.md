@@ -1,8 +1,10 @@
-Title: Do you even Liszt? Five months of learning piano
-Date: 2017-06-11 14:06
-Author: Steven Maude
-Tags: learning, music, piano
-Summary: Taking piano lessons as a late learner.
++++
+title = "Do you even Liszt? Five months of learning piano"
+date = 2017-06-11T14:06:00
+author = "Steven Maude"
+summary = "Taking piano lessons as a late learner."
+tags = ["learning", "music", "piano"]
++++
 
 ## Why learn now?
 

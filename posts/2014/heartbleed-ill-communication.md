@@ -1,13 +1,15 @@
-Title: Heartbleed: ill communication
-Date: 2014-05-04 16:48
-Modified: 2014-05-04 16:49
-Author: Steven Maude
-Tags: Heartbleed, security, communication
-Slug: heartbleed-ill-communication
-Summary: On the lack of communication of websites as to the impact of Heartbleed.
-Alias: /2014/05/heartbleed-ill-communication.html
++++
+title = "Heartbleed: ill communication"
+date = 2014-05-04T16:48:00
+lastmod = 2014-05-04T16:49:00
+author = "Steven Maude"
+slug = "heartbleed-ill-communication"
+summary = "On the lack of communication of websites as to the impact of Heartbleed."
+tags = ["Heartbleed", "security", "communication"]
+aliases = ["/2014/05/heartbleed-ill-communication.html"]
++++
 
-<img class="article-image" src="{static}/images/2014/heartbleed.png" alt="The Heartbleed logo." width="400">
+![The Heartbleed logo.](/images/2014/heartbleed.png)
 
 Even if you're not particularly into technology, you probably wouldn't
 have escaped hearing about Heartbleed last month.

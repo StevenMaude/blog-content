@@ -1,19 +1,21 @@
-Title: Some <s>spring</s> winter Ubuntu cleaning
-Date: 2013-12-24 00:04
-Modified: 2017-04-16 20:58
-Author: Steven Maude
-Tags: clean, free, LTS, TRIM, space, 12.04, kernel, encryption, dm-crypt, Ubuntu, boot
-Slug: some-spring-winter-ubuntu-cleaning
-Summary: Some Ubuntu tips: setting up TRIM on an encrypted drive for 12.04 LTS and freeing up space on the boot partition.
-Alias: /2013/12/some-spring-winter-ubuntu-cleaning.html
++++
+title = "Some <s>spring</s> winter Ubuntu cleaning"
+date = 2013-12-24T00:04:00
+lastmod = 2017-04-16T20:58:00
+author = "Steven Maude"
+slug = "some-spring-winter-ubuntu-cleaning"
+summary = "Some Ubuntu tips: setting up TRIM on an encrypted drive for 12.04 LTS and freeing up space on the boot partition."
+tags = ["clean", "free", "LTS", "TRIM", "space", "12.04", "kernel", "encryption", "dm-crypt", "Ubuntu", "boot"]
+aliases = ["/2013/12/some-spring-winter-ubuntu-cleaning.html"]
++++
 
-!!! article-edit ""
-    Things have changed since this post.
-
-    It now seems that Ubuntu (at least on 16.04) will stick old kernels
-    for autoremote: you can just `sudo apt autoremove` to ditch them.
-
-    You can see how apt's behaviour is configured in `/etc/kernel/postinst.d/apt-auto-removal`.
+> **Updated note**
+> Things have changed since this post.
+>
+> It now seems that Ubuntu (at least on 16.04) will stick old kernels
+> for autoremote: you can just `sudo apt autoremove` to ditch them.
+>
+> You can see how apt's behaviour is configured in `/etc/kernel/postinst.d/apt-auto-removal`.
 
 Did a little quick maintenance to my Ubuntu install[^1] today.
 

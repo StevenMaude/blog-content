@@ -1,8 +1,10 @@
-Title: About
-Author: Steven Maude
-Slug: contact-me
-Summary: Who I am, what I've written and how to contact me.
-Alias: /p/contact.html
++++
+title = "About"
+author = "Steven Maude"
+slug = "contact-me"
+summary = "Who I am, what I've written and how to contact me."
+aliases = ["/p/contact.html"]
++++
 
 Hello! I'm Steve and, rather obviously, this is my blog.
 

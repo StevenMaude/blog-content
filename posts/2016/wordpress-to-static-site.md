@@ -1,8 +1,10 @@
-Title: Archiving a WordPress site with <code>wget</code> and hosting for free
-Date: 2016-09-21 23:54
-Author: Steven Maude
-Tags: WordPress
-Summary: Migrating WordPress to a static GitHub Pages site.
++++
+title = "Archiving a WordPress site with <code>wget</code> and hosting for free"
+date = 2016-09-21T23:54:00
+author = "Steven Maude"
+summary = "Migrating WordPress to a static GitHub Pages site."
+tags = ["WordPress"]
++++
 
 After what seems quite a long time from when the idea was first mentioned to
 change the name of my employer, it's finally happened, and they've got a [new

@@ -1,11 +1,13 @@
-Title: Windows Update locking up on XP when checking for updates: fixing the svchost.exe CPU usage problem
-Date: 2013-12-11 10:36
-Modified: 2014-01-04 11:27
-Author: Steven Maude
-Tags: hog, 100%, XP, Windows, freeze, CPU, update, security, fix
-Slug: windows-update-locking-up-on-xp-when
-Summary: How to fix the recent (2013) freezing of Windows Update on XP machines due to svchost.exe being stuck at full (100%) CPU usage.
-Alias: /2013/12/windows-update-locking-up-on-xp-when.html
++++
+title = "Windows Update locking up on XP when checking for updates: fixing the svchost.exe CPU usage problem"
+date = 2013-12-11T10:36:00
+lastmod = 2014-01-04T11:27:00
+author = "Steven Maude"
+slug = "windows-update-locking-up-on-xp-when"
+summary = "How to fix the recent (2013) freezing of Windows Update on XP machines due to svchost.exe being stuck at full (100%) CPU usage."
+tags = ["hog", "100%", "XP", "Windows", "freeze", "CPU", "update", "security", "fix"]
+aliases = ["/2013/12/windows-update-locking-up-on-xp-when.html"]
++++
 
 It does seem ridiculous that Windows XP has been around for quite so
 long. Of course, you should be thinking about moving away from Windows

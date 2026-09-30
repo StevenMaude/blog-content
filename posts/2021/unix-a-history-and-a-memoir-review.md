@@ -1,9 +1,11 @@
-Title: A review of "UNIX: A History and a Memoir" 
-Date: 2021-05-08 00:12
-Modified: 2021-05-08 12:16
-Author: Steven Maude
-Tags: book, computing, history, Linux, review, UNIX
-Summary: A quick recommendation of an easy-to-read and brisk summary of the development of UNIX.
++++
+title = "A review of \"UNIX: A History and a Memoir\""
+date = 2021-05-08T00:12:00
+lastmod = 2021-05-08T12:16:00
+author = "Steven Maude"
+summary = "A quick recommendation of an easy-to-read and brisk summary of the development of UNIX."
+tags = ["book", "computing", "history", "Linux", "review", "UNIX"]
++++
 
 "UNIX: A History and a Memoir" is from the perspective of Brian
 Kernighan, who was around at the inception of UNIX, and is well-known in

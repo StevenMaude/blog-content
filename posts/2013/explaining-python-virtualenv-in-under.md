@@ -1,11 +1,13 @@
-Title: Explaining Python virtualenv (in under two minutes)
-Date: 2013-08-22 20:31
-Modified: 2013-08-30 22:02
-Author: Steven Maude
-Tags: virtualenv, development, Linux, programming, Python, Ubuntu, coding
-Slug: explaining-python-virtualenv-in-under
-Summary: How to setup virtualenvs to simplify Python software development.
-Alias: /2013/08/explaining-python-virtualenv-in-under.html
++++
+title = "Explaining Python virtualenv (in under two minutes)"
+date = 2013-08-22T20:31:00
+lastmod = 2013-08-30T22:02:00
+author = "Steven Maude"
+slug = "explaining-python-virtualenv-in-under"
+summary = "How to setup virtualenvs to simplify Python software development."
+tags = ["virtualenv", "development", "Linux", "programming", "Python", "Ubuntu", "coding"]
+aliases = ["/2013/08/explaining-python-virtualenv-in-under.html"]
++++
 
 I've been busy the last couple of weeks. Recently, I started a late
 summer/early autumn internship at

@@ -1,10 +1,12 @@
-Title: Fixing Chromium on Ubuntu video playback issues (no video, black screen)
-Date: 2013-09-22 21:49
-Author: Steven Maude
-Tags: video, YouTube, screen, black, Chromium, Ubuntu
-Slug: fixing-chromium-on-ubuntu-video
-Summary: How to fix playback of online videos in Chromium on Ubuntu 12.04.
-Alias: /2013/09/fixing-chromium-on-ubuntu-video.html
++++
+title = "Fixing Chromium on Ubuntu video playback issues (no video, black screen)"
+date = 2013-09-22T21:49:00
+author = "Steven Maude"
+slug = "fixing-chromium-on-ubuntu-video"
+summary = "How to fix playback of online videos in Chromium on Ubuntu 12.04."
+tags = ["video", "YouTube", "screen", "black", "Chromium", "Ubuntu"]
+aliases = ["/2013/09/fixing-chromium-on-ubuntu-video.html"]
++++
 
 Had an issue where YouTube's HTML5 video wasn't working in Chromium on
 Ubuntu 12.04 LTS, and didn't really want to install Flash Player if I

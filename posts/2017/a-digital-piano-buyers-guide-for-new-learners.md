@@ -1,12 +1,13 @@
-Title: A digital piano buyers' guide for learners
-Date: 2017-10-22 17:10
-Author: Steven Maude
-Tags: music, piano 
-Summary: Why I chose a digital piano over an acoustic, what to look out
-         for when buying a digital piano, and the advantages of buying used.
++++
+title = "A digital piano buyers' guide for learners"
+date = 2017-10-22T17:10:00
+author = "Steven Maude"
+summary = "Why I chose a digital piano over an acoustic, what to look out for when buying a digital piano, and the advantages of buying used."
+tags = ["music", "piano"]
++++
 
 As I've [documented earlier
-here]({filename}../2017/five-months-of-learning-piano.md), I've been
+here](/2017/06/five-months-of-learning-piano/), I've been
 taking piano lessons since the start of this year. There I also
 mentioned I'd been using a keyboard to learn. Since then, I've switched
 to a second-hand digital piano for practising.
@@ -143,7 +144,7 @@ around, there are some general considerations you can think about:
 
 * headphone noise; after I had an experience with a keyboard's headphone
   output being [distractingly
-  noisy]({filename}../2017/the-hum-and-buzz-of-learning-a-new-instrument.md),
+  noisy](/2017/01/the-hum-and-buzz-of-learning-a-new-instrument/),
   I knew I should check this on any piano I bought.  Just remember to
   take the pair of headphones you use with you when looking at a piano
   to test this. Trying to concentrate with a distracting buzz in your

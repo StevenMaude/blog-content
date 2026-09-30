@@ -1,8 +1,10 @@
-Title: The buzz (and hum) of learning a new instrument
-Date: 2017-01-21 18:41
-Author: Steven Maude
-Tags: keyboard, music, noise
-Summary: Reducing the background noise from keyboards.
++++
+title = "The buzz (and hum) of learning a new instrument"
+date = 2017-01-21T18:41:00
+author = "Steven Maude"
+summary = "Reducing the background noise from keyboards."
+tags = ["keyboard", "music", "noise"]
++++
 
 Because I want to improve my skills in producing music, I've started taking
 piano lessons. To start out with, I'm using a borrowed 61 key, touch sensitive

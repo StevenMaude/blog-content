@@ -1,11 +1,13 @@
-Title: Job advertisements
-Date: 2013-05-23 17:31
-Modified: 2013-07-14 13:11
-Author: Steven Maude
-Tags: vacancy, advert, job, fraction
-Slug: job-advertisements
-Summary: A tautological job specification.
-Alias: /2013/05/job-advertisements.html
++++
+title = "Job advertisements"
+date = 2013-05-23T17:31:00
+lastmod = 2013-07-14T13:11:00
+author = "Steven Maude"
+slug = "job-advertisements"
+summary = "A tautological job specification."
+tags = ["vacancy", "advert", "job", "fraction"]
+aliases = ["/2013/05/job-advertisements.html"]
++++
 
 As my current work contract ends in a couple of months, I'm frantically
 looking for work which, of course, means reading many job postings.
@@ -17,7 +19,7 @@ Usually, job specifications are pretty much just as you would expect
 from the job title. I'm not entirely sure whether the highlighted point
 in this vacancy was really necessary though:
 
-<img class="article-image" src="{static}/images/2013/Job_specification.png" alt="A job vacancy posting.">
+![A job vacancy posting.](/images/2013/Job_specification.png)
 
 "So, you're a maths expert. That's great for this role! Oh, one final
 thing, if we happen to have a cake day at the office, are you going to

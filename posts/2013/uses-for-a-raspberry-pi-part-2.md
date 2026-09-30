@@ -1,17 +1,19 @@
-Title: Uses for a Raspberry Pi (part 2)
-Date: 2013-07-17 19:32
-Modified: 2015-01-09 16:59
-Author: Steven Maude
-Tags: server, Samba, radio, Pi, tracklisting, Raspberry, iplayer, Python, get_iplayer
-Slug: uses-for-a-raspberry-pi-part-2
-Summary: Running the Raspberry Pi as a file and media server, and as a PVR with get_iplayer.
-Alias: /2013/07/uses-for-a-raspberry-pi-part-2.html
++++
+title = "Uses for a Raspberry Pi (part 2)"
+date = 2013-07-17T19:32:00
+lastmod = 2015-01-09T16:59:00
+author = "Steven Maude"
+slug = "uses-for-a-raspberry-pi-part-2"
+summary = "Running the Raspberry Pi as a file and media server, and as a PVR with get_iplayer."
+tags = ["server", "Samba", "radio", "Pi", "tracklisting", "Raspberry", "iplayer", "Python", "get_iplayer"]
+aliases = ["/2013/07/uses-for-a-raspberry-pi-part-2.html"]
++++
 
 
-<img class="article-image" src="{static}/images/2013/Raspberry_Pi.jpg" alt="A Raspberry Pi working hard!">
+![A Raspberry Pi working hard!](/images/2013/Raspberry_Pi.jpg)
 
 In my [last
-post]({filename}../2013/uses-for-a-raspberry-pi-part-1.md),
+post]({{< relref "/posts/2013/uses-for-a-raspberry-pi-part-1.md" >}}),
 I described a few simple, but effective uses for a Raspberry Pi. Here
 are two more!
 
@@ -169,7 +171,7 @@ reasons.
 
 ### Scheduling the PVR to run
 
-<img class="article-image" src="{static}/images/2013/get_iplayer_crontab.png" alt="Crontab with get_iplayer scheduled.">
+![Crontab with get_iplayer scheduled.](/images/2013/get_iplayer_crontab.png)
 
 However, it is more convenient to run the PVR regularly rather than have
 to run it manually. You can add the command to run the PVR to the [cron

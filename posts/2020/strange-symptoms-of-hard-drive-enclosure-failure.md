@@ -1,9 +1,10 @@
-Title: Strange symptoms of hard drive enclosure failure
-Date: 2020-05-09 21:35
-Author: Steven Maude
-Tags: hard drive, hardware, Windows
-Summary: Describing some symptoms of a wonky hard drive enclosure on
-         Windows
++++
+title = "Strange symptoms of hard drive enclosure failure"
+date = 2020-05-09T21:35:00
+author = "Steven Maude"
+summary = "Describing some symptoms of a wonky hard drive enclosure on Windows"
+tags = ["hard drive", "hardware", "Windows"]
++++
 
 # Reliable failure
 

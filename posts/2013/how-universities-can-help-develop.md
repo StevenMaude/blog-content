@@ -1,18 +1,19 @@
-Title: How universities can help develop researchers' post-university careers
-Date: 2013-08-18 22:20
-Modified: 2014-12-13 00:27
-Author: Steven Maude
-Tags: researcher, university, postdoc, PhD, job, career
-Slug: how-universities-can-help-develop
-Summary: My account of a new and intensive career development programme for postdoctoral researchers leaving university.
-Alias: /2013/08/how-universities-can-help-develop.html
++++
+title = "How universities can help develop researchers' post-university careers"
+date = 2013-08-18T22:20:00
+lastmod = 2014-12-13T00:27:00
+author = "Steven Maude"
+slug = "how-universities-can-help-develop"
+summary = "My account of a new and intensive career development programme for postdoctoral researchers leaving university."
+tags = ["researcher", "university", "postdoc", "PhD", "job", "career"]
+aliases = ["/2013/08/how-universities-can-help-develop.html"]
++++
 
-<blockquote>
-  <p>You do three years, then a couple
-  more, and then – my God, what next? A master's, a PhD &hellip; and never a
-  job at the end of it.</p>
-  <cite><a href="http://www.guardian.co.uk/world/2013/jul/01/jobless-europe-young-qualified">Sylvia Melchiorre</a></cite>
-</blockquote>
+> You do three years, then a couple
+> more, and then – my God, what next? A master's, a PhD … and never a
+> job at the end of it.
+>
+> — [Sylvia Melchiorre](http://www.guardian.co.uk/world/2013/jul/01/jobless-europe-young-qualified)
 
 In embarking on research work at university, there's always a risk that
 you can get dragged along uncontrollably with the tide. When finishing

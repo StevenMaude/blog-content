@@ -1,8 +1,10 @@
-Title: Type:Rider: A Re:view 
-Date: 2017-03-29 00:31
-Author: Steven Maude
-Tags: game, review
-Summary: What the PC game, Type:Rider, taught me about fonts.
++++
+title = "Type:Rider: A Re:view"
+date = 2017-03-29T00:31:00
+author = "Steven Maude"
+summary = "What the PC game, Type:Rider, taught me about fonts."
+tags = ["game", "review"]
++++
 
 ## A journey through history
 

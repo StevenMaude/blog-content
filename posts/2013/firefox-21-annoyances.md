@@ -1,11 +1,13 @@
-Title: Firefox 21 annoyances
-Date: 2013-05-17 12:10
-Modified: 2013-07-14 13:10
-Author: Steven Maude
-Tags: annoyance, Windows, Firefox
-Slug: firefox-21-annoyances
-Summary: A couple of recent Firefox features that annoyed me.
-Alias: /2013/05/firefox-21-annoyances.html
++++
+title = "Firefox 21 annoyances"
+date = 2013-05-17T12:10:00
+lastmod = 2013-07-14T13:10:00
+author = "Steven Maude"
+slug = "firefox-21-annoyances"
+summary = "A couple of recent Firefox features that annoyed me."
+tags = ["annoyance", "Windows", "Firefox"]
+aliases = ["/2013/05/firefox-21-annoyances.html"]
++++
 
 This week Firefox 21 was released
 and there are two features of it that have irritated me.
@@ -44,7 +46,7 @@ My initial thought was to check the list of MIME types (Options \>
 Applications) to see if anything had changed. No, it still looked just
 as it did before:
 
-<img class="article-image" src="{static}/images/2013/Firefox_MIME_types.png" alt="Firefox MIME types">
+![Firefox MIME types](/images/2013/Firefox_MIME_types.png)
 
 The about:config option to restore the original behaviour is to set
 [media.windows-media-foundation.enabled to

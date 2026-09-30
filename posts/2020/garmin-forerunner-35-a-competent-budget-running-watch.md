@@ -1,9 +1,10 @@
-Title: Garmin Forerunner 35: a competent budget running watch
-Date: 2020-11-13 22:35
-Author: Steven Maude
-Tags: Forerunner, Garmin, review, running
-Summary: A review of the Garmin Forerunner 35 after using for several months,
-         comparing with the Forerunner 15.
++++
+title = "Garmin Forerunner 35: a competent budget running watch"
+date = 2020-11-13T22:35:00
+author = "Steven Maude"
+summary = "A review of the Garmin Forerunner 35 after using for several months, comparing with the Forerunner 15."
+tags = ["Forerunner", "Garmin", "review", "running"]
++++
 
 ## Replacing a Garmin Forerunner 15 watch
 
@@ -13,7 +14,7 @@ try out the Garmin Forerunner 35 GPS watch I've had since the end of
 2019.
 
 I have owned a [Garmin Forerunner
-15]({filename}../2016/a-year-of-garmin.md) watch for a few years and,
+15](/2016/12/a-year-of-garmin/) watch for a few years and,
 especially considering what it cost, it served me well. The main issue
 with it was that the battery life seemed to have deteriorated over its
 lifetime. Changing the battery isn't too complex a procedure — there are

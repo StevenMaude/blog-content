@@ -1,13 +1,15 @@
-Title: Book review: "Data Science for Business"
-Date: 2014-01-14 18:35
-Modified: 2014-01-16 18:30
-Author: Steven Maude
-Tags: data, review, science, business, book
-Slug: book-review-data-science-for-business
-Summary: A review of Foster Provost and Tom Fawcett's introductory data science book: "Data Science for Business".
-Alias: /2014/01/book-review-data-science-for-business.html
++++
+title = "Book review: \"Data Science for Business\""
+date = 2014-01-14T18:35:00
+lastmod = 2014-01-16T18:30:00
+author = "Steven Maude"
+slug = "book-review-data-science-for-business"
+summary = "A review of Foster Provost and Tom Fawcett's introductory data science book: \"Data Science for Business\"."
+tags = ["data", "review", "science", "business", "book"]
+aliases = ["/2014/01/book-review-data-science-for-business.html"]
++++
 
-<img class="article-image" src="{static}/images/2014/Data_Science_for_Business.jpg" alt="Cover of &quot;Data Science for Business&quot; book." width="300">
+![Cover of "Data Science for Business" book.](/images/2014/Data_Science_for_Business.jpg)
 
 I recently read "Data Science for Business" by Foster Provost and Tom
 Fawcett for the upcoming [Data Science Book

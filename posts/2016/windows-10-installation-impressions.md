@@ -1,8 +1,10 @@
-Title: Windows 10 installation impressions
-Date: 2016-07-02 23:35
-Author: Steven Maude
-Tags: Windows, installation
-Summary: A late look at Windows 10, particularly installation improvements.
++++
+title = "Windows 10 installation impressions"
+date = 2016-07-02T23:35:00
+author = "Steven Maude"
+summary = "A late look at Windows 10, particularly installation improvements."
+tags = ["Windows", "installation"]
++++
 
 Windows 10 is only a free upgrade from Windows 7 or 8.1 until the end of
 this month[^1]. If you've hesitated so far, you might be a bit unsure as
@@ -92,7 +94,7 @@ single update, which means there's very little that a new system needs.
 The downside of this, of course, is that you can't pick and choose what
 applies. The past has seen cases where rogue Windows updates can
 critically break systems: [recently, in my
-experience]({filename}../2016/windows-7-secure-boot.md). With Windows
+experience](/2016/04/windows-7-secure-boot/). With Windows
 10, all you can do is not apply *any* subsequent updates whatsoever
 until your issue with the updates gets resolved. Relying on the
 stability of a house of cards doesn't seem that wise.
@@ -198,7 +200,7 @@ used Windows 10.
    interface design.
 
 6. The issue where you need to use [the `systempropertiesperformance`
-   fix]({filename}../2014/making-aero-theme-settings-stick-in.md) to
+   fix]({{< relref "/posts/2014/making-aero-theme-settings-stick-in.md" >}}) to
    disable animations and other visual enhancements for non-admin users
    still remains. Otherwise, changes made disappear once you log out.
 

@@ -1,9 +1,11 @@
-Title: Book (and talk) review: Making Music. 74 Creative Strategies for Electronic Music Producers.
-Date: 2016-06-26 12:40
-Modified: 2017-05-21 20:28
-Author: Steven Maude
-Tags: book review, music, production 
-Summary: Reviewing an Ableton tutorial book on production, and a talk by the author that discussed it.
++++
+title = "Book (and talk) review: Making Music. 74 Creative Strategies for Electronic Music Producers."
+date = 2016-06-26T12:40:00
+lastmod = 2017-05-21T20:28:00
+author = "Steven Maude"
+summary = "Reviewing an Ableton tutorial book on production, and a talk by the author that discussed it."
+tags = ["book review", "music", "production"]
++++
 
 Last week, I went to Sónar for a second time, and the sunshine and music
 there feels a hazy and distant dream today. Nonetheless, it reminded me

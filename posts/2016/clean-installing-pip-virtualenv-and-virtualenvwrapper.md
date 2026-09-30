@@ -1,9 +1,10 @@
-Title: Installing pip, virtualenv and virtualenvwrapper tidily in Linux
-Date: 2016-12-30 00:10
-Author: Steven Maude
-Tags: Linux, Ubuntu, Python, pip, virtualenv, virtualenvwrapper
-Summary: Don't want to clutter up your system's Python install? Install
-         what you need for Python development cleanly.
++++
+title = "Installing pip, virtualenv and virtualenvwrapper tidily in Linux"
+date = 2016-12-30T00:10:00
+author = "Steven Maude"
+summary = "Don't want to clutter up your system's Python install? Install what you need for Python development cleanly."
+tags = ["Linux", "Ubuntu", "Python", "pip", "virtualenv", "virtualenvwrapper"]
++++
 
 When I reinstalled my PC, I was thinking about the "cleanest" way that I
 could get the Python tools I needed on there. Previously, I'd used the

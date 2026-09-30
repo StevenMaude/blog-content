@@ -1,14 +1,16 @@
-Title: Chatting about data science careers
-Date: 2014-06-22 21:47
-Author: Steven Maude
-Tags: data, careers, university, research, science, Cambridge
-Slug: chatting-about-data-science-careers
-Summary: Write-up of a careers event I participated in at the University of Cambridge.
-Alias: /2014/06/chatting-about-data-science-careers.html
++++
+title = "Chatting about data science careers"
+date = 2014-06-22T21:47:00
+author = "Steven Maude"
+slug = "chatting-about-data-science-careers"
+summary = "Write-up of a careers event I participated in at the University of Cambridge."
+tags = ["data", "careers", "university", "research", "science", "Cambridge"]
+aliases = ["/2014/06/chatting-about-data-science-careers.html"]
++++
 
 ## Visiting Cambridge
 
-<img class="article-image" src="{static}/images/2014/Cambridge_1.jpg" alt="A photo of a street in Cambridge" width=300>
+![A photo of a street in Cambridge](/images/2014/Cambridge_1.jpg)
 
 I visited Cambridge this week. Though I know Oxford fairly well, somehow
 I'd manage to avoid ever travelling to Cambridge before, so being in a
@@ -62,7 +64,7 @@ a disconnect between employers looking for well qualified PhDs and the
 candidates themselves. The jobs are there. The candidates are there.
 But, for whatever reason, they're missing each other.
 
-<img class="article-image" src="{static}/images/2014/Cambridge_2.jpg" alt="Another photo taken in Cambridge.">
+![Another photo taken in Cambridge.](/images/2014/Cambridge_2.jpg)
 
 From my experience as a researcher, I'd suggest a part of the problem is
 that PhDs and postdocs may be simply unaware of the range of

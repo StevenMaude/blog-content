@@ -1,10 +1,12 @@
-Title: 52 weeks, 52 posts
-Date: 2014-05-10 17:52
-Author: Steven Maude
-Tags: self-indulgence, musings
-Slug: 52-weeks-52-posts
-Summary: Thoughts on writing a blog for a year.
-Alias: /2014/05/52-weeks-52-posts.html
++++
+title = "52 weeks, 52 posts"
+date = 2014-05-10T17:52:00
+author = "Steven Maude"
+slug = "52-weeks-52-posts"
+summary = "Thoughts on writing a blog for a year."
+tags = ["self-indulgence", "musings"]
+aliases = ["/2014/05/52-weeks-52-posts.html"]
++++
 
 A year ago, I started writing this blog. I didn't really have any
 expectations of what I wanted to get out of it, but I think it's been

@@ -1,10 +1,11 @@
-Title: Thinking of using a static site generator for your blog?
-Date: 2015-07-18 23:54
-Modified: 2015-07-19 00:37
-Author: Steven Maude
-Tags: Blogger, Pelican, Wordpress, static site
-Summary: The (many) good and the (few) bad aspects of static site
-         generators.
++++
+title = "Thinking of using a static site generator for your blog?"
+date = 2015-07-18T23:54:00
+lastmod = 2015-07-19T00:37:00
+author = "Steven Maude"
+summary = "The (many) good and the (few) bad aspects of static site generators."
+tags = ["Blogger", "Pelican", "Wordpress", "static site"]
++++
 
 When I first thought about moving from Blogger to Pelican, it was
 because I'd had more than enough of Blogger's drawbacks. What hadn't

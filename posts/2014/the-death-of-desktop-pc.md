@@ -1,11 +1,13 @@
-Title: The death of the desktop PC?
-Date: 2014-03-17 19:04
-Modified: 2014-03-17 19:11
-Author: Steven Maude
-Tags: laptop, tablet, desktop, PC
-Slug: the-death-of-desktop-pc
-Summary: On why desktop PCs still have life in them yet.
-Alias: /2014/03/the-death-of-desktop-pc.html
++++
+title = "The death of the desktop PC?"
+date = 2014-03-17T19:04:00
+lastmod = 2014-03-17T19:11:00
+author = "Steven Maude"
+slug = "the-death-of-desktop-pc"
+summary = "On why desktop PCs still have life in them yet."
+tags = ["laptop", "tablet", "desktop", "PC"]
+aliases = ["/2014/03/the-death-of-desktop-pc.html"]
++++
 
 Today I saw [this clip](https://www.youtube.com/watch?v=zO4JIg-68gg)
 which declares that desktop PCs are ready to be consigned to the

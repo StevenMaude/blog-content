@@ -1,11 +1,13 @@
-Title: Blogger versus WordPress
-Date: 2013-05-11 12:55
-Modified: 2013-07-14 10:56
-Author: Steven Maude
-Tags: Wordpress, Blogger, blogging
-Slug: blogger-versus-wordpress
-Summary: Deciding on what blogging platform to use.
-Alias: /2013/05/blogger-versus-wordpress.html
++++
+title = "Blogger versus WordPress"
+date = 2013-05-11T12:55:00
+lastmod = 2013-07-14T10:56:00
+author = "Steven Maude"
+slug = "blogger-versus-wordpress"
+summary = "Deciding on what blogging platform to use."
+tags = ["Wordpress", "Blogger", "blogging"]
+aliases = ["/2013/05/blogger-versus-wordpress.html"]
++++
 
 I've been wanting to start writing more and I figured a blog would be a
 sensible outlet for that. The problem is that it's very easy —

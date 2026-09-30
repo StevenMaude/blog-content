@@ -1,8 +1,10 @@
-Title: git: nice and lease-y
-Date: 2018-11-10 13:23
-Author: Steven Maude
-Tags: git 
-Summary: Why generally using `git push --force-with-lease` over `git push --force` seems sensible.
++++
+title = "git: nice and lease-y"
+date = 2018-11-10T13:23:00
+author = "Steven Maude"
+summary = "Why generally using `git push --force-with-lease` over `git push --force` seems sensible."
+tags = ["git"]
++++
 
 ## Can you feel the `--force`?
 

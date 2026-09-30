@@ -1,8 +1,10 @@
-Title: Restoring a tag cloud dispersed by Pelican 3.6.0
-Date: 2015-07-12 11:51
-Author: Steven Maude
-Tags: Pelican, tag cloud, plugin
-Summary: How to fix tag clouds in Pelican 3.6.0.
++++
+title = "Restoring a tag cloud dispersed by Pelican 3.6.0"
+date = 2015-07-12T11:51:00
+author = "Steven Maude"
+summary = "How to fix tag clouds in Pelican 3.6.0."
+tags = ["Pelican", "tag cloud", "plugin"]
++++
 
 ## The case of the disappearing tag cloud
 

@@ -1,8 +1,10 @@
-Title: Still rocking Rockbox
-Date: 2016-12-10 23:06
-Author: Steven Maude
-Tags: open source, Rockbox
-Summary: Explaining why Rockbox is my portable audio player software of choice, and how you can try it out.
++++
+title = "Still rocking Rockbox"
+date = 2016-12-10T23:06:00
+author = "Steven Maude"
+summary = "Explaining why Rockbox is my portable audio player software of choice, and how you can try it out."
+tags = ["open source", "Rockbox"]
++++
 
 In the days of the iPod, when travelling on public transport, in the UK
 at least, those trademark white earphones were everywhere. But it seems

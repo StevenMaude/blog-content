@@ -1,11 +1,13 @@
-Title: It's not often that I think of technical fixes as favourites, but…
-Date: 2013-11-10 16:49
-Modified: 2013-11-10 17:12
-Author: Steven Maude
-Tags: LED, Revolution, charging, bash, mouse, Logitech, slam, MX, red, fix
-Slug: its-not-often-that-i-think-of-technical
-Summary: Fixing a common charging issue of the Logitech MX Revolution where the battery red LED flashes when charging.
-Alias: /2013/11/its-not-often-that-i-think-of-technical.html
++++
+title = "It's not often that I think of technical fixes as favourites, but…"
+date = 2013-11-10T16:49:00
+lastmod = 2013-11-10T17:12:00
+author = "Steven Maude"
+slug = "its-not-often-that-i-think-of-technical"
+summary = "Fixing a common charging issue of the Logitech MX Revolution where the battery red LED flashes when charging."
+tags = ["LED", "Revolution", "charging", "bash", "mouse", "Logitech", "slam", "MX", "red", "fix"]
+aliases = ["/2013/11/its-not-often-that-i-think-of-technical.html"]
++++
 
 …this one is great. Normally I'm just relieved I've got something
 finally working and file the problem under 'done'.
