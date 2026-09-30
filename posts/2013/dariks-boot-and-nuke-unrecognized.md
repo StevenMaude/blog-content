@@ -11,7 +11,7 @@ aliases = ["/2013/08/dariks-boot-and-nuke-unrecognized.html"]
 
 > **Updated note**
 > Edit 2014/01/04: I've written a [more recent
-> post](/2014/01/securely-erasing-ssd-drives/)
+> post]({{< relref "/posts/2014/securely-erasing-ssd-drives.md" >}})
 > which describes how to use hdparm and ATA Secure Erase to wipe drives,
 > which might be of interest if you're thinking of using DBAN, and
 > particularly if you're erasing an SSD.

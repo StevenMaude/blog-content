@@ -13,7 +13,7 @@ aliases = ["/2013/07/uses-for-a-raspberry-pi-part-2.html"]
 <img class="article-image" src="/images/2013/Raspberry_Pi.jpg" alt="A Raspberry Pi working hard!">
 
 In my [last
-post](/2013/07/uses-for-a-raspberry-pi-part-1/),
+post]({{< relref "/posts/2013/uses-for-a-raspberry-pi-part-1.md" >}}),
 I described a few simple, but effective uses for a Raspberry Pi. Here
 are two more!
 

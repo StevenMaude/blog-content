@@ -11,7 +11,7 @@ aliases = ["/2014/01/securely-erasing-ssd-drives.html"]
 
 So, it turns out that [I was wrong about the motherboard being the cause
 of my recent Windows hibernate
-issues](/2013/12/things-ive-learned-from-building-and/).
+issues]({{< relref "/posts/2013/things-ive-learned-from-building-and.md" >}}).
 The failure to resume on hibernate still occurred after that, although
 perhaps more rarely. There's always the possibility that there's some
 strange problem common to the chipset (both boards are based on Intel's
@@ -28,7 +28,7 @@ course, meant that I had to ensure that any data on it was wiped
 completely.
 
 I'd previously written about using [DBAN to wipe
-drives](/2013/08/dariks-boot-and-nuke-unrecognized/).
+drives]({{< relref "/posts/2013/dariks-boot-and-nuke-unrecognized.md" >}}).
 What I learned this week is that using the [ATA Secure
 Erase](https://en.wikipedia.org/wiki/Write_amplification#Secure_erase)
 function is the best way to go. [This is particularly the case for SSDs

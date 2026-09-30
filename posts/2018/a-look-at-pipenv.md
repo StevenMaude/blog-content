@@ -19,7 +19,7 @@ tags = ["Pipenv", "Python"]
 
 [Pipenv](https://github.com/pypa/pipenv)[^1] is a tool that aims to
 remove the hassle of using
-[virtualenvs](/2013/08/explaining-python-virtualenv-in-under/)
+[virtualenvs]({{< relref "/posts/2013/explaining-python-virtualenv-in-under.md" >}})
 (Python runtime environments to keep separate Python setups for
 different projects independent), and also help manage requirements. It
 also aims to help provide deterministic builds of software.

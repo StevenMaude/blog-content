@@ -25,7 +25,7 @@ certificate](https://en.wikipedia.org/wiki/MOT_test) (which establishes
 your vehicle's roadworthiness) and then asks you for payment.
 
 Because I'm using
-[uMatrix](/2014/09/taking-control-of-chromium-and-chrome/) in
+[uMatrix]({{< relref "/posts/2014/taking-control-of-chromium-and-chrome.md" >}}) in
 my browser, I can spot which sites other than the one I'm directly
 visiting have content which is supposed to be loaded into the current
 page. The payment form didn't initially load and I noticed a blocked

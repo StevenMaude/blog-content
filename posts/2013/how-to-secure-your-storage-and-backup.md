@@ -16,7 +16,7 @@ well be storing personal data on them, meaning that if you lost them and
 they're unencrypted, anyone can read their contents.
 
 Compared with the painful time [I previously
-spent](/2013/09/a-beginners-guide-to-os-encryption-dual/)
+spent]({{< relref "/posts/2013/a-beginners-guide-to-os-encryption-dual.md" >}})
 encrypting operating system drives, it's a relief that encrypting
 non-system drives is far, far simpler.
 
@@ -62,13 +62,13 @@ writing).
 
 Update 2: USB 3 works fine, but there's [some weird Bitlocker or drive
 specific issue
-behaviour](/2013/10/odd-behaviour-of-bitlocker-or-maybe-my/)…
+behaviour]({{< relref "/posts/2013/odd-behaviour-of-bitlocker-or-maybe-my.md" >}})…
 
 ## TrueCrypt
 
 > **Updated note**
 > Edit: see my [earlier encryption
-> post](/2013/09/a-beginners-guide-to-os-encryption-dual/#approach-3-encrypt-windows-7-any-version-with-truecrypt-encrypt-ubuntu-with-luks)
+> post]({{< relref "/posts/2013/a-beginners-guide-to-os-encryption-dual.md" >}}#approach-3-encrypt-windows-7-any-version-with-truecrypt-encrypt-ubuntu-with-luks)
 > for notes on the current state of TrueCrypt; it shouldn't be used
 > anymore (on Windows, for certain), but one of its successors may be a
 > suitable replacement.

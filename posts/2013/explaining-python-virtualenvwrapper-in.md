@@ -10,7 +10,7 @@ aliases = ["/2013/09/explaining-python-virtualenvwrapper-in.html"]
 +++
 
 As I wrote previously,
-[virtualenv](/2013/08/explaining-python-virtualenv-in-under/)
+[virtualenv]({{< relref "/posts/2013/explaining-python-virtualenv-in-under.md" >}})
 in Python simplifies development life and dependency handling by
 allowing you to effectively use a fresh Python install for each project
 you work on.

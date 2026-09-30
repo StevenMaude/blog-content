@@ -6,7 +6,7 @@ summary = "Pros and cons of Blogger and Wordpress, and why neither of these was 
 tags = ["Blogger", "Wordpress"]
 +++
 
-If you look back, the [first post](/2013/05/blogger-versus-wordpress/)
+If you look back, the [first post]({{< relref "/posts/2013/blogger-versus-wordpress.md" >}})
 on this blog was agonising over what blogging system to use. At the
 time, my reasoning for choosing Blogger was that it was quick to get
 started with.

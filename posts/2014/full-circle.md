@@ -13,7 +13,7 @@ aliases = ["/2014/03/full-circle.html"]
 
 To me, it doesn't seem that long ago, but I wrote the first post on this
 blog ten months ago. Funnily enough, [it
-discussed](/2013/05/blogger-versus-wordpress/)
+discussed]({{< relref "/posts/2013/blogger-versus-wordpress.md" >}})
 what I'm thinking about right now: how best to blog.
 
 Writing using the Blogger editor is not a great experience. Not great,

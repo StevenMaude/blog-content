@@ -200,7 +200,7 @@ used Windows 10.
    interface design.
 
 6. The issue where you need to use [the `systempropertiesperformance`
-   fix](/2014/01/making-aero-theme-settings-stick-in/) to
+   fix]({{< relref "/posts/2014/making-aero-theme-settings-stick-in.md" >}}) to
    disable animations and other visual enhancements for non-admin users
    still remains. Otherwise, changes made disappear once you log out.
 

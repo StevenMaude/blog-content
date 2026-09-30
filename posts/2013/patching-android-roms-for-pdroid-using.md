@@ -11,7 +11,7 @@ aliases = ["/2013/05/patching-android-roms-for-pdroid-using.html"]
 
 > **Updated note**
 > Edit 2014/03/28: Auto-Patcher is deprecated; see [my more recent
-> post](/2014/03/phone-upgrades-and-privacy-downgrades/).
+> post]({{< relref "/posts/2014/phone-upgrades-and-privacy-downgrades.md" >}}).
 
 Over the past six months or so, I've been running the very slick port of
 CyanogenMod 9.1 to Huawei's G300 phone by Dazzozo and collaborators as

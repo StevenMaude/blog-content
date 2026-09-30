@@ -20,7 +20,7 @@ Power Management:on
 
 Unfortunately, the [method I wrote about
 previously to disable wifi power
-management](/2013/11/horrible-wireless-network-pings-in/) no
+management]({{< relref "/posts/2013/horrible-wireless-network-pings-in.md" >}}) no
 longer works. My guess is that this is due to Ubuntu switching to
 systemd in 2015.
 

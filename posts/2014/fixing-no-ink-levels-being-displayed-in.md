@@ -9,7 +9,7 @@ aliases = ["/2014/01/fixing-no-ink-levels-being-displayed-in.html"]
 +++
 
 [Having recently installed a new Windows
-PC](/2013/12/things-ive-learned-from-building-and/)
+PC]({{< relref "/posts/2013/things-ive-learned-from-building-and.md" >}})
 I'd installed an Epson printer (SX515W). The printer itself was
 connected via wifi and behaving apart from one thing. It wasn't
 displaying the ink levels when checking them in Epson Status Monitor

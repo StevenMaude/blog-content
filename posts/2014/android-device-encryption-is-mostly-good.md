@@ -11,12 +11,12 @@ aliases = ["/2014/04/android-device-encryption-is-mostly-good.html"]
 
 If you've read other posts here, you might notice that I've gone through
 a phase of
-[encrypting](/2013/09/how-to-secure-your-storage-and-backup/)
-[new](/2013/09/a-beginners-guide-to-os-encryption-dual/)
+[encrypting]({{< relref "/posts/2013/how-to-secure-your-storage-and-backup.md" >}})
+[new]({{< relref "/posts/2013/a-beginners-guide-to-os-encryption-dual.md" >}})
 devices I have.
 
 My [new
-phone](/2014/03/phone-upgrades-and-privacy-downgrades/)
+phone]({{< relref "/posts/2014/phone-upgrades-and-privacy-downgrades.md" >}})
 is now no different.
 
 In trying to research what problems can arise if you encrypt Android, it

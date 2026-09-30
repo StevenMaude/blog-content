@@ -7,7 +7,7 @@ tags = ["BitLocker", "encryption", "LUKS", "Ubuntu", "Windows"]
 +++
 
 Previously I wrote about setting up my laptop to [dual boot Windows and
-Ubuntu](/2013/09/a-beginners-guide-to-os-encryption-dual/).
+Ubuntu]({{< relref "/posts/2013/a-beginners-guide-to-os-encryption-dual.md" >}}).
 As the Ubuntu LTS I had installed was now aging badly[^1], it really,
 really, *really* needed upgrading.
 

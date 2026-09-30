@@ -40,7 +40,7 @@ The best way to erase, especially if the drive is a solid state drive,
 is to use the [ATA Secure
 Erase](https://ata.wiki.kernel.org/index.php/ATA_Secure_Erase) command
 which [I've mentioned
-before](/2014/01/securely-erasing-ssd-drives/).
+before]({{< relref "/posts/2014/securely-erasing-ssd-drives.md" >}}).
 This command should also work for most magnetic hard drives too, unless
 they're ancient.
 
