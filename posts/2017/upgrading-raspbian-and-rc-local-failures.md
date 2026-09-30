@@ -1,9 +1,10 @@
-Title: Upgrading Raspbian and <code>rc.local</code> failures
-Date: 2017-12-10 20:13
-Author: Steven Maude
-Tags: Raspberry Pi, Raspbian, Linux
-Summary: Using a Raspberry Pi as a wireless bridge, in-place upgrading Raspbian
-         and dealing with `rc.local` not running tasks as planned.
++++
+title = "Upgrading Raspbian and <code>rc.local</code> failures"
+date = 2017-12-10T20:13:00
+author = "Steven Maude"
+summary = "Using a Raspberry Pi as a wireless bridge, in-place upgrading Raspbian and dealing with `rc.local` not running tasks as planned."
+tags = ["Raspberry Pi", "Raspbian", "Linux"]
++++
 
 ## A Raspberry Pi as a wireless bridge for old hardware
 

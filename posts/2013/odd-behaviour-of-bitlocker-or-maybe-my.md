@@ -1,14 +1,16 @@
-Title: Odd behaviour of Bitlocker, or maybe my HDD…
-Date: 2013-10-13 20:36
-Modified: 2013-10-13 20:55
-Author: Steven Maude
-Tags: partition, Bitlocker, backup, enclosure, bug, drive
-Slug: odd-behaviour-of-bitlocker-or-maybe-my
-Summary: Description of some strange behaviour I observed when setting up a USB drive with Bitlocker.
-Alias: /2013/10/odd-behaviour-of-bitlocker-or-maybe-my.html
++++
+title = "Odd behaviour of Bitlocker, or maybe my HDD…"
+date = 2013-10-13T20:36:00
+lastmod = 2013-10-13T20:55:00
+author = "Steven Maude"
+slug = "odd-behaviour-of-bitlocker-or-maybe-my"
+summary = "Description of some strange behaviour I observed when setting up a USB drive with Bitlocker."
+tags = ["partition", "Bitlocker", "backup", "enclosure", "bug", "drive"]
+aliases = ["/2013/10/odd-behaviour-of-bitlocker-or-maybe-my.html"]
++++
 
 As [I'd previously
-mentioned]({filename}../2013/how-to-secure-your-storage-and-backup.md),
+mentioned](/2013/09/how-to-secure-your-storage-and-backup/),
 I'd had issues with a USB 3 drive enclosure when trying to set up a
 backup drive with Bitlocker on Windows 7. When I replaced the USB 3
 enclosure with a slower, USB 2 enclosure, I found exactly the same

@@ -1,19 +1,19 @@
-Title: Rinse FM's SoundCloud account takedown
-Date: 2017-07-15 23:11
-Modified: 2017-07-18 21:56
-Author: Steven Maude
-Tags: music, radio, Rinse FM, SoundCloud
-Summary: What the deletion of Rinse FM's SoundCloud account for
-         copyright infringement tells us both about music industry
-         short-sightedness and hosting creative projects online.
++++
+title = "Rinse FM's SoundCloud account takedown"
+date = 2017-07-15T23:11:00
+lastmod = 2017-07-18T21:56:00
+author = "Steven Maude"
+summary = "What the deletion of Rinse FM's SoundCloud account for copyright infringement tells us both about music industry short-sightedness and hosting creative projects online."
+tags = ["music", "radio", "Rinse FM", "SoundCloud"]
++++
 
-!!! article-edit ""
-    Edit 2017-07-18: SoundCloud have now restored [Rinse FM's
-    account](https://twitter.com/geeneus/status/887050524067061760).
-
-    Nonetheless, the points below still stand in relation to hosting
-    content under online accounts that have the potential for
-    copyright takedowns.
+> **Updated note**
+> Edit 2017-07-18: SoundCloud have now restored [Rinse FM's
+> account](https://twitter.com/geeneus/status/887050524067061760).
+>
+> Nonetheless, the points below still stand in relation to hosting
+> content under online accounts that have the potential for
+> copyright takedowns.
 
 ## And it's shutdown
 
@@ -147,5 +147,5 @@ Hedging your bets seems the only viable solution.
       to discover and hear, it's such a pity that show producers and
       station bosses are often so unadventurous.
 
-[^2]: Look [what happened to my GitHub account last year]({filename}../2016/github-human-detection.md),
+[^2]: Look [what happened to my GitHub account last year](/2016/09/github-human-detection/),
       for example.

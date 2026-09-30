@@ -1,8 +1,10 @@
-Title: Stopping Windows from rebooting at the BitLocker boot password prompt
-Date: 2016-09-17 23:52
-Author: Steven Maude
-Tags: BitLocker
-Summary: How to prevent Windows from rebooting after a short timeout when waiting for a boot BitLocker password.
++++
+title = "Stopping Windows from rebooting at the BitLocker boot password prompt"
+date = 2016-09-17T23:52:00
+author = "Steven Maude"
+summary = "How to prevent Windows from rebooting after a short timeout when waiting for a boot BitLocker password."
+tags = ["BitLocker"]
++++
 
 Short post, but more noting this for myself more than anything. There
 are several times when I've blogged little fixes and they've proven

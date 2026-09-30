@@ -1,11 +1,13 @@
-Title: Scraping Nature's job website
-Date: 2013-07-06 18:51
-Modified: 2013-07-14 13:15
-Author: Steven Maude
-Tags: scraping, Nature, naturejobs, web, Python, script
-Slug: scraping-natures-job-website
-Summary: Description of, and reasons for creating, my Nature job website scraper.
-Alias: /2013/07/scraping-natures-job-website.html
++++
+title = "Scraping Nature's job website"
+date = 2013-07-06T18:51:00
+lastmod = 2013-07-14T13:15:00
+author = "Steven Maude"
+slug = "scraping-natures-job-website"
+summary = "Description of, and reasons for creating, my Nature job website scraper."
+tags = ["scraping", "Nature", "naturejobs", "web", "Python", "script"]
+aliases = ["/2013/07/scraping-natures-job-website.html"]
++++
 
 Around six months ago, [I wrote a Python
 script](https://github.com/StevenMaude/naturejobs_scraper) to scrape

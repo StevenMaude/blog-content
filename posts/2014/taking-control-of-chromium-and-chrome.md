@@ -1,31 +1,33 @@
-Title: Taking control of Chromium (and Chrome) with ublock and HTTP Switchboard
-Date: 2014-09-28 00:02
-Modified: 2015-08-02 17:24
-Author: Steven Maude
-Tags: ad, µBlock, HTTP Switchboard, blocking, privacy, adblock, ublock
-Slug: taking-control-of-chromium-and-chrome
-Summary: How you can use ublock and HTTP Switchboard to take control of what your browser loads.
-Alias: /2014/09/taking-control-of-chromium-and-chrome.html
++++
+title = "Taking control of Chromium (and Chrome) with ublock and HTTP Switchboard"
+date = 2014-09-28T00:02:00
+lastmod = 2015-08-02T17:24:00
+author = "Steven Maude"
+slug = "taking-control-of-chromium-and-chrome"
+summary = "How you can use ublock and HTTP Switchboard to take control of what your browser loads."
+tags = ["ad", "µBlock", "HTTP Switchboard", "blocking", "privacy", "adblock", "ublock"]
+aliases = ["/2014/09/taking-control-of-chromium-and-chrome.html"]
++++
 
-!!! article-edit ""
-    Edit 2015-07-24: Slightly involved story aside, the version of
-    uBlock linked here, by the original developer, is now uBlock Origin.
-    I'd recommend searching for that version if installing as an
-    extension.
+> **Updated note**
+> Edit 2015-07-24: Slightly involved story aside, the version of
+> uBlock linked here, by the original developer, is now uBlock Origin.
+> I'd recommend searching for that version if installing as an
+> extension.
+>
+> It's available for both Firefox and Chrome/Chromium.
 
-    It's available for both Firefox and Chrome/Chromium.
+> **Updated note**
+> Edit 2015-05-18: The Chromium bug is fixed which should fix the uMatrix
+> UI sluggishness, and uMatrix is finally available as a Firefox addon.
 
-!!! article-edit ""
-    Edit 2015-05-18: The Chromium bug is fixed which should fix the uMatrix
-    UI sluggishness, and uMatrix is finally available as a Firefox addon.
-
-!!! article-edit ""
-    Edit 2015-01-09: HTTP Switchboard development is discontinued and has been
-    replaced with [uMatrix](https://github.com/gorhill/uMatrix). The
-    interface is largely unchanged. One problem at the time of writing is a
-    [Chromium bug](https://github.com/gorhill/uBlock/issues/419) which I
-    think is the cause of the UI being really laggy to appear. Hopefully,
-    this should be fixed soon.
+> **Updated note**
+> Edit 2015-01-09: HTTP Switchboard development is discontinued and has been
+> replaced with [uMatrix](https://github.com/gorhill/uMatrix). The
+> interface is largely unchanged. One problem at the time of writing is a
+> [Chromium bug](https://github.com/gorhill/uBlock/issues/419) which I
+> think is the cause of the UI being really laggy to appear. Hopefully,
+> this should be fixed soon.
 
 After tinkering around with Adblock's filters to block some ads, I
 remembered that I'd read about an alternative to Adblock for
@@ -164,7 +166,7 @@ By virtue of what HTTP Switchboard aims to do — give you full control of
 what is allowed by your browser — this makes its user interface slightly
 more complex, which I'll soon get onto.
 
-<img class="article-image" src="{static}/images/2014/ublock.png" alt="The ublock enable/disable icon." width="174">
+<img class="article-image" src="/images/2014/ublock.png" alt="The ublock enable/disable icon." width="174">
 
 Stripping out this sophistication seems like a smart move, since
 ublock's incredibly easy to use. Really, it requires the same amount of
@@ -199,7 +201,7 @@ site to run scripts or store cookies. These have a text explanation of
 what the option does.
 
 <figure class="article-figure">
-  <img src="{static}/images/2014/Firefox_menus.png" alt="Examples of NoScript, CookieMonster and RequestPolicy permission menus.">
+  <img src="/images/2014/Firefox_menus.png" alt="Examples of NoScript, CookieMonster and RequestPolicy permission menus.">
   <figcaption>From left to right, examples of NoScript, CookieMonster and RequestPolicy permission menus when accessing Google Books.</figcaption>
 </figure>
 
@@ -214,7 +216,7 @@ Each site is represented as a row, and each type of content is shown as
 a column.
 
 <figure class="article-figure">
-  <img src="{static}/images/2014/HTTP_Switchboard.png" alt="Example of HTTP Switchboard's table interface.">
+  <img src="/images/2014/HTTP_Switchboard.png" alt="Example of HTTP Switchboard's table interface.">
   <figcaption>Example of HTTP Switchboard's interface when accessing Google Books.</figcaption>
 </figure>
 

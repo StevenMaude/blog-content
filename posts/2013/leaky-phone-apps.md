@@ -1,17 +1,19 @@
-Title: Leaky phone apps
-Date: 2013-06-28 21:03
-Modified: 2013-07-14 13:13
-Author: Steven Maude
-Tags: data, app, leaky, Android, Juniper, privacy, PDroid
-Slug: leaky-phone-apps
-Summary: My view on third party phone apps that leak data.
-Alias: /2013/06/leaky-phone-apps.html
++++
+title = "Leaky phone apps"
+date = 2013-06-28T21:03:00
+lastmod = 2013-07-14T13:13:00
+author = "Steven Maude"
+slug = "leaky-phone-apps"
+summary = "My view on third party phone apps that leak data."
+tags = ["data", "app", "leaky", "Android", "Juniper", "privacy", "PDroid"]
+aliases = ["/2013/06/leaky-phone-apps.html"]
++++
 
 My phone doesn't have a huge number of third party apps installed, but
 saw this chart today and it's a little worrying nonetheless:
 
 <figure class="article-figure">
-  <img src="{static}/images/2013/Free_apps_chart.jpg" alt="Chart showing a substantial proportion of free apps collect data such as location.">
+  <img src="/images/2013/Free_apps_chart.jpg" alt="Chart showing a substantial proportion of free apps collect data such as location.">
   <figcaption>Chart courtesy of <a href="http://www.statista.com/topics/876/android/chart/1228/free-apps-are-hungry-for-user-data/">Statista</a>.</figcaption>
 </figure>
 
@@ -34,5 +36,5 @@ permissions to enable the user to install an app without necessarily
 giving it access to e.g. your address book. The only options on stock
 Android are to take the app, warts and all, or do without. So,
 definitely worth considering installing
-[PDroid]({filename}../2013/patching-android-roms-for-pdroid-using.md)
+[PDroid](/2013/05/patching-android-roms-for-pdroid-using/)
 to help deal with this issue.

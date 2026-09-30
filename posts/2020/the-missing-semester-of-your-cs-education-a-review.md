@@ -1,9 +1,10 @@
-Title: "The Missing Semester of Your CS Education": a course review
-Date: 2020-06-07 20:55
-Author: Steven Maude
-Tags: computer science, course, Linux
-Summary: A quick review and recommendation of a useful computer science
-         course
++++
+title = "\"The Missing Semester of Your CS Education\": a course review"
+date = 2020-06-07T20:55:00
+author = "Steven Maude"
+summary = "A quick review and recommendation of a useful computer science course"
+tags = ["computer science", "course", "Linux"]
++++
 
 ## Missing semester: singular?
 

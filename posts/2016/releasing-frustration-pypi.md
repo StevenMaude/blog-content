@@ -1,8 +1,10 @@
-Title: PyPI: releasing frustration 
-Date: 2016-05-15 12:34
-Author: Steven Maude
-Tags: Python, PyPI
-Summary: My first attempt at publishing a Python package on PyPI.
++++
+title = "PyPI: releasing frustration"
+date = 2016-05-15T12:34:00
+author = "Steven Maude"
+summary = "My first attempt at publishing a Python package on PyPI."
+tags = ["Python", "PyPI"]
++++
 
 A while back I wrote an [automatic tracklisting downloader for BBC radio
 shows](https://github.com/StevenMaude/bbc-radio-tracklisting-downloader) in

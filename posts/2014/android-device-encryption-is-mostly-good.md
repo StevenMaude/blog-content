@@ -1,20 +1,22 @@
-Title: Android device encryption is (mostly) good
-Date: 2014-04-05 10:21
-Modified: 2014-04-05 10:32
-Author: Steven Maude
-Tags: encryption, Android
-Slug: android-device-encryption-is-mostly-good
-Summary: Encrypting Android and the usability issues that arise.
-Alias: /2014/04/android-device-encryption-is-mostly-good.html
++++
+title = "Android device encryption is (mostly) good"
+date = 2014-04-05T10:21:00
+lastmod = 2014-04-05T10:32:00
+author = "Steven Maude"
+slug = "android-device-encryption-is-mostly-good"
+summary = "Encrypting Android and the usability issues that arise."
+tags = ["encryption", "Android"]
+aliases = ["/2014/04/android-device-encryption-is-mostly-good.html"]
++++
 
 If you've read other posts here, you might notice that I've gone through
 a phase of
-[encrypting]({filename}../2013/how-to-secure-your-storage-and-backup.md)
-[new]({filename}../2013/a-beginners-guide-to-os-encryption-dual.md)
+[encrypting](/2013/09/how-to-secure-your-storage-and-backup/)
+[new](/2013/09/a-beginners-guide-to-os-encryption-dual/)
 devices I have.
 
 My [new
-phone]({filename}../2014/phone-upgrades-and-privacy-downgrades.md)
+phone](/2014/03/phone-upgrades-and-privacy-downgrades/)
 is now no different.
 
 In trying to research what problems can arise if you encrypt Android, it

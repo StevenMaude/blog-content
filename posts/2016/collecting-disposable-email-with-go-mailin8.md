@@ -1,8 +1,10 @@
-Title: Collecting disposable email with go-mailin8
-Date: 2016-11-12 21:47
-Author: Steven Maude
-Tags: golang, Mailinator, email
-Summary: go-mailin8 lets you read the latest message from disposable Mailinator inboxes.
++++
+title = "Collecting disposable email with go-mailin8"
+date = 2016-11-12T21:47:00
+author = "Steven Maude"
+summary = "go-mailin8 lets you read the latest message from disposable Mailinator inboxes."
+tags = ["golang", "Mailinator", "email"]
++++
 
 [go-mailin8](https://github.com/StevenMaude/go-mailin8) is a command
 line utility I've created to get the most recent message from a

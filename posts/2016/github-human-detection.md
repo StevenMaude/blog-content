@@ -1,8 +1,10 @@
-Title: What happens when GitHub decides you're not a human
-Date: 2016-09-11 23:47
-Tags: GitHub
-Author: Steven Maude
-Summary: GitHub hiding my profile reminds me there are no guarantees of your presence on online services.
++++
+title = "What happens when GitHub decides you're not a human"
+date = 2016-09-11T23:47:00
+author = "Steven Maude"
+summary = "GitHub hiding my profile reminds me there are no guarantees of your presence on online services."
+tags = ["GitHub"]
++++
 
 <blockquote>
   <p>Human, human, human, human,<br>
@@ -15,7 +17,7 @@ Summary: GitHub hiding my profile reminds me there are no guarantees of your pre
 
 I logged into GitHub this week and saw an unusual message:
 
-<img class="article-image" src="{static}/images/2016/GitHub_not_human.png" alt="The GitHub message prompting me that I'm possibly not human.">
+<img class="article-image" src="/images/2016/GitHub_not_human.png" alt="The GitHub message prompting me that I'm possibly not human.">
 
 > One of our mostly harmless robots seems to think you are not a human.
 >

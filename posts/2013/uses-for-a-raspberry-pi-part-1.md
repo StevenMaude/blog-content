@@ -1,13 +1,15 @@
-Title: Uses for a Raspberry Pi (part 1)
-Date: 2013-07-10 21:21
-Modified: 2013-07-14 13:45
-Author: Steven Maude
-Tags: adapter, Pi, Airprint, Raspberry, wireless, wifi
-Slug: uses-for-a-raspberry-pi-part-1
-Summary: A few simple, but useful, applications for a Raspberry Pi, including a wireless adapter and AirPrint server.
-Alias: /2013/07/uses-for-a-raspberry-pi-part-1.html
++++
+title = "Uses for a Raspberry Pi (part 1)"
+date = 2013-07-10T21:21:00
+lastmod = 2013-07-14T13:45:00
+author = "Steven Maude"
+slug = "uses-for-a-raspberry-pi-part-1"
+summary = "A few simple, but useful, applications for a Raspberry Pi, including a wireless adapter and AirPrint server."
+tags = ["adapter", "Pi", "Airprint", "Raspberry", "wireless", "wifi"]
+aliases = ["/2013/07/uses-for-a-raspberry-pi-part-1.html"]
++++
 
-<img class="article-image" src="{static}/images/2013/Raspberry_Pi.jpg" alt="A powered on Raspberry Pi.">
+<img class="article-image" src="/images/2013/Raspberry_Pi.jpg" alt="A powered on Raspberry Pi.">
 
 <blockquote>
   <p>Don’t buy one and put it in the cupboard; buy one and do an
@@ -92,7 +94,7 @@ port was going unused. It's relatively straightforward to configure the
 Pi to enable a device connected to it by Ethernet to use the Pi's wifi
 connection to access the network
 
-<img class="article-image" src="{static}/images/2013/Wifi_dongle.jpg" alt="Wifi adapter for the Pi.">
+<img class="article-image" src="/images/2013/Wifi_dongle.jpg" alt="Wifi adapter for the Pi.">
 
 Wifi is a common feature of networked devices these days, but the Xbox
 360 is an exception to this rule. Earlier this year, I explained in [a

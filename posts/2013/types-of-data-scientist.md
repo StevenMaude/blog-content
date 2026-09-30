@@ -1,11 +1,13 @@
-Title: Types of data scientist
-Date: 2013-07-02 17:22
-Modified: 2013-07-14 13:14
-Author: Steven Maude
-Tags: data, big, science, career
-Slug: types-of-data-scientist
-Summary: My take on the "Analyzing the Analyzers" report by Harlan Harris and co-authors.
-Alias: /2013/07/types-of-data-scientist.html
++++
+title = "Types of data scientist"
+date = 2013-07-02T17:22:00
+lastmod = 2013-07-14T13:14:00
+author = "Steven Maude"
+slug = "types-of-data-scientist"
+summary = "My take on the \"Analyzing the Analyzers\" report by Harlan Harris and co-authors."
+tags = ["data", "big", "science", "career"]
+aliases = ["/2013/07/types-of-data-scientist.html"]
++++
 
 A couple of days ago, I read this O'Reilly report, [Analyzing the
 Analyzers](http://oreilly.com/data/stratareports/analyzing-the-analyzers.csp),

@@ -1,13 +1,15 @@
-Title: Arduous lessons in Python: why main() is useful
-Date: 2014-07-05 11:34
-Modified: 2014-07-05 11:42
-Author: Steven Maude
-Tags: foolishness, name, main, Python, fix
-Slug: arduous-lessons-in-python-why-main-is
-Summary: Why if `__name__ == '__main__'` is a sensible check in code you're reusing.
-Alias: /2014/07/arduous-lessons-in-python-why-main-is.html
++++
+title = "Arduous lessons in Python: why main() is useful"
+date = 2014-07-05T11:34:00
+lastmod = 2014-07-05T11:42:00
+author = "Steven Maude"
+slug = "arduous-lessons-in-python-why-main-is"
+summary = "Why if `__name__ == '__main__'` is a sensible check in code you're reusing."
+tags = ["foolishness", "name", "main", "Python", "fix"]
+aliases = ["/2014/07/arduous-lessons-in-python-why-main-is.html"]
++++
 
-<img class="article-image" src="{static}/images/2014/python_logo.png" alt="The Python logo.">
+<img class="article-image" src="/images/2014/python_logo.png" alt="The Python logo.">
 
 An ordinary afternoon and I'd wanted to work on some code locally on my
 machine. I knew the tests previously ran without any issue. So, after

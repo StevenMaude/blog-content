@@ -1,11 +1,13 @@
-Title: Beware Python's pyc files
-Date: 2014-05-09 21:29
-Modified: 2014-05-09 22:35
-Author: Steven Maude
-Tags: Python, pyc
-Slug: beware-pythons-pyc-files
-Summary: When Python's pyc files cause errors, it's time to remove them.
-Alias: /2014/05/beware-pythons-pyc-files.html
++++
+title = "Beware Python's pyc files"
+date = 2014-05-09T21:29:00
+lastmod = 2014-05-09T22:35:00
+author = "Steven Maude"
+slug = "beware-pythons-pyc-files"
+summary = "When Python's pyc files cause errors, it's time to remove them."
+tags = ["Python", "pyc"]
+aliases = ["/2014/05/beware-pythons-pyc-files.html"]
++++
 
 A quick reminder to myself more than anything.
 

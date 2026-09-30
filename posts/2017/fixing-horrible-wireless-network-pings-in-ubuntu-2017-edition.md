@@ -1,8 +1,10 @@
-Title: Fixing horrible wireless network pings in Ubuntu (2017 edition)
-Date: 2017-03-03 16:44
-Author: Steven Maude
-Tags: high, ping, latency, wireless, wifi, Ubuntu
-Summary: How to disable wifi power management in Ubuntu. Again.
++++
+title = "Fixing horrible wireless network pings in Ubuntu (2017 edition)"
+date = 2017-03-03T16:44:00
+author = "Steven Maude"
+summary = "How to disable wifi power management in Ubuntu. Again."
+tags = ["high", "ping", "latency", "wireless", "wifi", "Ubuntu"]
++++
 
 Today I was using my laptop on battery power and I remembered that I
 hadn't disabled wifi power management since I reinstalled Ubuntu in
@@ -18,7 +20,7 @@ Power Management:on
 
 Unfortunately, the [method I wrote about
 previously to disable wifi power
-management]({filename}../2013/horrible-wireless-network-pings-in.md) no
+management](/2013/11/horrible-wireless-network-pings-in/) no
 longer works. My guess is that this is due to Ubuntu switching to
 systemd in 2015.
 

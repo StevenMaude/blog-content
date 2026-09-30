@@ -1,9 +1,10 @@
-Title: UEFaIeeee 
-Date: 2016-12-16 00:11
-Author: Steven Maude
-Tags: EFI, UEFI, boot entry, efibootmgr 
-Summary: Recovering a non-booting system when EFI boot entries are
-         broken using efibootmgr.
++++
+title = "UEFaIeeee"
+date = 2016-12-16T00:11:00
+author = "Steven Maude"
+summary = "Recovering a non-booting system when EFI boot entries are broken using efibootmgr."
+tags = ["EFI", "UEFI", "boot entry", "efibootmgr"]
++++
 
 In writing this, I checked the [valid spelling of
 "aieeee"](https://en.oxforddictionaries.com/definition/aie) and it is

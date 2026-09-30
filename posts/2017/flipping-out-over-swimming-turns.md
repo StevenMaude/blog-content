@@ -1,8 +1,10 @@
-Title: Flipping out over swimming turns
-Date: 2017-07-29 12:18
-Author: Steven Maude
-Tags: swimming
-Summary: Some tips on how to learn to tumble (or flip) turn.
++++
+title = "Flipping out over swimming turns"
+date = 2017-07-29T12:18:00
+author = "Steven Maude"
+summary = "Some tips on how to learn to tumble (or flip) turn."
+tags = ["swimming"]
++++
 
 Note that I actually learned how to flip (or tumble) turn a while ago,
 drafted this back then and only just got round to posting it.

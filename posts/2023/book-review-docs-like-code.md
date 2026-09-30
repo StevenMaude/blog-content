@@ -1,8 +1,10 @@
-Title: "Docs Like Code": a book review 
-Date: 2023-04-02 14:23
-Author: Steven Maude
-Tags: documentation, docs as code
-Summary: A review of "Docs Like Code" by Anne Gentle, and some thoughts on docs as code
++++
+title = "\"Docs Like Code\": a book review"
+date = 2023-04-02T14:23:00
+author = "Steven Maude"
+summary = "A review of \"Docs Like Code\" by Anne Gentle, and some thoughts on docs as code"
+tags = ["documentation", "docs as code"]
++++
 
 ## What is "docs as code" anyway?
 

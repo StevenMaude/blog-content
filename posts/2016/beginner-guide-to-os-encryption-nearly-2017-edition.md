@@ -1,11 +1,13 @@
-Title: A beginner's guide to OS encryption: (almost) 2017 edition
-Date: 2016-11-28 00:26
-Author: Steven Maude
-Tags: BitLocker, encryption, LUKS, Ubuntu, Windows
-Summary: How to dual boot Windows with Ubuntu and encrypt them both.
++++
+title = "A beginner's guide to OS encryption: (almost) 2017 edition"
+date = 2016-11-28T00:26:00
+author = "Steven Maude"
+summary = "How to dual boot Windows with Ubuntu and encrypt them both."
+tags = ["BitLocker", "encryption", "LUKS", "Ubuntu", "Windows"]
++++
 
 Previously I wrote about setting up my laptop to [dual boot Windows and
-Ubuntu]({filename}../2013/a-beginners-guide-to-os-encryption-dual.md).
+Ubuntu](/2013/09/a-beginners-guide-to-os-encryption-dual/).
 As the Ubuntu LTS I had installed was now aging badly[^1], it really,
 really, *really* needed upgrading.
 

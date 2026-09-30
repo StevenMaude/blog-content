@@ -1,11 +1,13 @@
-Title: Close to the edit: what researchers can learn from journal editing
-Date: 2013-05-25 18:32
-Modified: 2013-07-14 13:12
-Author: Steven Maude
-Tags: journal, research, job, academic, editing, publishing
-Slug: close-to-edit-what-researchers-can
-Summary: What scientific researchers can get out of working at journals; my experience of applying for a role as editor at a high-profile journal.
-Alias: /2013/05/close-to-edit-what-researchers-can.html
++++
+title = "Close to the edit: what researchers can learn from journal editing"
+date = 2013-05-25T18:32:00
+lastmod = 2013-07-14T13:12:00
+author = "Steven Maude"
+slug = "close-to-edit-what-researchers-can"
+summary = "What scientific researchers can get out of working at journals; my experience of applying for a role as editor at a high-profile journal."
+tags = ["journal", "research", "job", "academic", "editing", "publishing"]
+aliases = ["/2013/05/close-to-edit-what-researchers-can.html"]
++++
 
 As I mentioned previously, I've been looking for a new job over the past
 few months, since my current research contract is ending imminently.

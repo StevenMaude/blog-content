@@ -1,11 +1,13 @@
-Title: Phone upgrades and privacy downgrades
-Date: 2014-03-28 21:56
-Modified: 2014-03-28 21:59
-Author: Steven Maude
-Tags: Moto, G300, XPrivacy, Android, PDroid, Auto-Patcher
-Slug: phone-upgrades-and-privacy-downgrades
-Summary: Thoughts on upgrading my phone and app permissions.
-Alias: /2014/03/phone-upgrades-and-privacy-downgrades.html
++++
+title = "Phone upgrades and privacy downgrades"
+date = 2014-03-28T21:56:00
+lastmod = 2014-03-28T21:59:00
+author = "Steven Maude"
+slug = "phone-upgrades-and-privacy-downgrades"
+summary = "Thoughts on upgrading my phone and app permissions."
+tags = ["Moto", "G300", "XPrivacy", "Android", "PDroid", "Auto-Patcher"]
+aliases = ["/2014/03/phone-upgrades-and-privacy-downgrades.html"]
++++
 
 ## G300 to Moto G
 
@@ -54,7 +56,7 @@ it incredibly invasive when apps that don't have any reasonable reason
 to, say, know your location want to find where you are.
 
 Since I last installed a custom ROM, I found that
-[Auto-Patcher]({filename}../2013/patching-android-roms-for-pdroid-using.md)
+[Auto-Patcher](/2013/05/patching-android-roms-for-pdroid-using/)
 has been deprecated and [XPrivacy](https://github.com/M66B/XPrivacy)
 seems to be the permission control app of choice for Android now. You
 still need root permissions to use it, though it doesn't require ROM

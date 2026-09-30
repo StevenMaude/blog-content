@@ -1,17 +1,19 @@
-Title: Full circle
-Date: 2014-03-22 14:55
-Modified: 2014-03-22 14:59
-Author: Steven Maude
-Tags: Wordpress, blog, static, Jekyll, blogging, site, Pelican
-Slug: full-circle
-Summary: Thoughts on moving away from Blogger to a static site.
-Alias: /2014/03/full-circle.html
++++
+title = "Full circle"
+date = 2014-03-22T14:55:00
+lastmod = 2014-03-22T14:59:00
+author = "Steven Maude"
+slug = "full-circle"
+summary = "Thoughts on moving away from Blogger to a static site."
+tags = ["Wordpress", "blog", "static", "Jekyll", "blogging", "site", "Pelican"]
+aliases = ["/2014/03/full-circle.html"]
++++
 
 ## Blogger and blogging
 
 To me, it doesn't seem that long ago, but I wrote the first post on this
 blog ten months ago. Funnily enough, [it
-discussed]({filename}../2013/blogger-versus-wordpress.md)
+discussed](/2013/05/blogger-versus-wordpress/)
 what I'm thinking about right now: how best to blog.
 
 Writing using the Blogger editor is not a great experience. Not great,

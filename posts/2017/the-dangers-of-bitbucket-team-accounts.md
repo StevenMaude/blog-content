@@ -1,9 +1,10 @@
-Title: The dangers of long forgotten Bitbucket team accounts
-Date: 2017-02-04 21:30
-Author: Steven Maude
-Tags: Bitbucket, security
-Summary: The security issues of having a legacy Bitbucket team account
-         still active.
++++
+title = "The dangers of long forgotten Bitbucket team accounts"
+date = 2017-02-04T21:30:00
+author = "Steven Maude"
+summary = "The security issues of having a legacy Bitbucket team account still active."
+tags = ["Bitbucket", "security"]
++++
 
 Last month, I'd been reviewing some of the shared accounts for online
 services we have at work. Often, users have an individual login for

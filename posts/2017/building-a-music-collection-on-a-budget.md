@@ -1,9 +1,10 @@
-Title: Building a music collection on a budget
-Date: 2017-04-04 13:55
-Author: Steven Maude
-Tags: DJ, MP3, music
-Summary: Some more tips on building a music collection on a
-         budget, particularly for digital DJs.
++++
+title = "Building a music collection on a budget"
+date = 2017-04-04T13:55:00
+author = "Steven Maude"
+summary = "Some more tips on building a music collection on a budget, particularly for digital DJs."
+tags = ["DJ", "MP3", "music"]
++++
 
 A couple of months back I wrote something on trying to find inexpensive music
 for DJ sets for DJ TechTools which just [got posted

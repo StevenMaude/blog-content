@@ -1,10 +1,12 @@
-Title: Hiding draft articles in Pelican
-Date: 2015-05-31 20:16
-Modified: 2015-06-01 13:53
-Author: Steven Maude
-Tags: draft,article,Pelican
-Slug: hiding-draft-articles-in-pelican
-Summary: How to hide articles you don't want to be published yet.
++++
+title = "Hiding draft articles in Pelican"
+date = 2015-05-31T20:16:00
+lastmod = 2015-06-01T13:53:00
+author = "Steven Maude"
+slug = "hiding-draft-articles-in-pelican"
+summary = "How to hide articles you don't want to be published yet."
+tags = ["draft", "article", "Pelican"]
++++
 
 What I thought I'd get done in a week, actually took about four
 months. But I'm finally free of Blogger and have moved to

@@ -1,11 +1,13 @@
-Title: Ensuring scheduled cron jobs are run using anacron
-Date: 2014-01-31 12:59
-Modified: 2014-01-31 16:38
-Author: Steven Maude
-Tags: Raspbian, anacron, Pi, Linux, Raspberry, cron, schedule
-Slug: ensuring-scheduled-cron-jobs-are-run
-Summary: Using anacron to make sure that cron jobs are actually executed for Linux installs where the machine is not running 24/7.
-Alias: /2014/01/ensuring-scheduled-cron-jobs-are-run.html
++++
+title = "Ensuring scheduled cron jobs are run using anacron"
+date = 2014-01-31T12:59:00
+lastmod = 2014-01-31T16:38:00
+author = "Steven Maude"
+slug = "ensuring-scheduled-cron-jobs-are-run"
+summary = "Using anacron to make sure that cron jobs are actually executed for Linux installs where the machine is not running 24/7."
+tags = ["Raspbian", "anacron", "Pi", "Linux", "Raspberry", "cron", "schedule"]
+aliases = ["/2014/01/ensuring-scheduled-cron-jobs-are-run.html"]
++++
 
 So, I was tinkering around with my [Raspberry
 Pi](http://raspberrypi.org) (running Raspbian) over SSH and in doing so

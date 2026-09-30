@@ -1,12 +1,14 @@
-Title: Things I have learned from rebuilding a PC in 2021
-Date: 2021-02-26 14:02
-Author: Steven Maude
-Tags: PC, build
-Summary: What are you buying? What are you selling?
++++
+title = "Things I have learned from rebuilding a PC in 2021"
+date = 2021-02-26T14:02:00
+author = "Steven Maude"
+summary = "What are you buying? What are you selling?"
+tags = ["PC", "build"]
++++
 
 Despite working with computers (supposedly) professionally, I don't
 often build PCs or upgrade PC hardware. A few years ago, I learned a few
-lessons from [building a PC]({filename}../2013/things-ive-learned-from-building-and.md).
+lessons from [building a PC](/2013/12/things-ive-learned-from-building-and/).
 
 Over the 2020 Christmas holidays, I was upgrading someone's PC for them,
 so here are my lessons I've thought about in 2021.
@@ -139,7 +141,7 @@ Two very disparate ideas in the heading there; let's see if there's
 anything like a cohesive argument here.
 
 Last time I wrote about [building a
-PC]({filename}../2013/things-ive-learned-from-building-and.md), I had
+PC](/2013/12/things-ive-learned-from-building-and/), I had
 lots of fun installing Intel's push pins. This time I had fun with
 fitting a cooler to an AMD setup. It didn't use screws. Instead the
 cooler used long metal tweezer-like clips to fit over the tabs on the

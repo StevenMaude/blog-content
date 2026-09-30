@@ -1,23 +1,25 @@
-Title: Using Garmin Forerunner watches with Linux
-Date: 2015-12-30 23:30
-Modified: 2016-09-16 23:40
-Author: Steven Maude
-Tags: Garmin, Forerunner, Linux, GPS, running
-Summary: A quick look at Garmin's Forerunner 15 watch and using it with Linux.
++++
+title = "Using Garmin Forerunner watches with Linux"
+date = 2015-12-30T23:30:00
+lastmod = 2016-09-16T23:40:00
+author = "Steven Maude"
+summary = "A quick look at Garmin's Forerunner 15 watch and using it with Linux."
+tags = ["Garmin", "Forerunner", "Linux", "GPS", "running"]
++++
 
-!!! article-edit ""
-    Edit September 2016: What I didn't mention here was how you could
-    get EPO data when on Linux. This can help reduce the time it takes
-    for your watch to get a GPS signal lock. There's a helpful
-    [blog post](https://www.kluenter.de/2014/03/23/garmin-ephemeris-files-and-linux.html)
-    that gives a lot of the details. There's a
-    [Ruby utility](https://github.com/scrapper/postrunner/) that manages
-    FIT files and features an option to collect the EPO data from
-    Garmin's servers. Alternatively, I also wrote a [Go
-    program](https://github.com/StevenMaude/armstrong) (which
-    just compiles to a single binary rather than needing lots of
-    dependencies) to collect this data which I've been using on Linux;
-    you should be able to compile it easily to work on OS X or Windows.
+> **Updated note**
+> Edit September 2016: What I didn't mention here was how you could
+> get EPO data when on Linux. This can help reduce the time it takes
+> for your watch to get a GPS signal lock. There's a helpful
+> [blog post](https://www.kluenter.de/2014/03/23/garmin-ephemeris-files-and-linux.html)
+> that gives a lot of the details. There's a
+> [Ruby utility](https://github.com/scrapper/postrunner/) that manages
+> FIT files and features an option to collect the EPO data from
+> Garmin's servers. Alternatively, I also wrote a [Go
+> program](https://github.com/StevenMaude/armstrong) (which
+> just compiles to a single binary rather than needing lots of
+> dependencies) to collect this data which I've been using on Linux;
+> you should be able to compile it easily to work on OS X or Windows.
 
 I'm now the owner of a Garmin GPS watch. When I was looking at GPS
 watches, I couldn't find a huge amount of information on using them with

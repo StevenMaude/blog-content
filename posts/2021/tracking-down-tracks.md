@@ -1,8 +1,10 @@
-Title: Tracking down tracks 
-Date: 2021-04-24 22:45
-Author: Steven Maude
-Tags: DJ, music
-Summary: Strategies for finding details on elusive pieces of music.
++++
+title = "Tracking down tracks"
+date = 2021-04-24T22:45:00
+author = "Steven Maude"
+summary = "Strategies for finding details on elusive pieces of music."
+tags = ["DJ", "music"]
++++
 
 Having recently gone through an extensive process — well, thirty minutes
 or so of searching — to find a piece of music, I wanted to document the

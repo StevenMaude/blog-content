@@ -1,9 +1,10 @@
-Title: If you want my money, please state your payment processor clearly
-Date: 2017-03-06 23:30
-Author: Steven Maude
-Tags: security, UI, UX
-Summary: Why don't websites always clarify who they're using to handle
-         card payments?
++++
+title = "If you want my money, please state your payment processor clearly"
+date = 2017-03-06T23:30:00
+author = "Steven Maude"
+summary = "Why don't websites always clarify who they're using to handle card payments?"
+tags = ["security", "UI", "UX"]
++++
 
 Today I got a nice letter in the post informing me that my vehicle tax
 was due. Wonderful news.
@@ -24,7 +25,7 @@ certificate](https://en.wikipedia.org/wiki/MOT_test) (which establishes
 your vehicle's roadworthiness) and then asks you for payment.
 
 Because I'm using
-[uMatrix]({filename}../2014/taking-control-of-chromium-and-chrome.md) in
+[uMatrix](/2014/09/taking-control-of-chromium-and-chrome/) in
 my browser, I can spot which sites other than the one I'm directly
 visiting have content which is supposed to be loaded into the current
 page. The payment form didn't initially load and I noticed a blocked

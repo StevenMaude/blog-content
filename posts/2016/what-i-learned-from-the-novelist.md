@@ -1,8 +1,10 @@
-Title: The Novelist: a haunting experience
-Date: 2016-12-24 19:59
-Author: Steven Maude
-Tags: game, review
-Summary: What I made of the PC indie title, The Novelist.
++++
+title = "The Novelist: a haunting experience"
+date = 2016-12-24T19:59:00
+author = "Steven Maude"
+summary = "What I made of the PC indie title, The Novelist."
+tags = ["game", "review"]
++++
 
 Despite "game" being in the official site's domain name, I think
 recommending [The Novelist](http://www.thenovelistgame.com/) as *a game*

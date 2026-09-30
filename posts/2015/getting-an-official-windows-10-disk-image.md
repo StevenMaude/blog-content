@@ -1,8 +1,10 @@
-Title: Getting an official Windows 10 disk image
-Date: 2015-10-26 17:00
-Author: Steven Maude
-Tags: Windows, ISO, disk
-Summary: How to get a Windows 10 ISO directly from Microsoft. No install required.
++++
+title = "Getting an official Windows 10 disk image"
+date = 2015-10-26T17:00:00
+author = "Steven Maude"
+summary = "How to get a Windows 10 ISO directly from Microsoft. No install required."
+tags = ["Windows", "ISO", "disk"]
++++
 
 Currently looking to test out installing Windows 10 and one stumbling block was
 just getting hold of an official disk image. (I'm cautious these days and want

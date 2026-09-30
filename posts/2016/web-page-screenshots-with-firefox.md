@@ -1,8 +1,10 @@
-Title: Taking web page screenshots smartly with Firefox's Developer Tools
-Date: 2016-04-20 20:30
-Author: Steven Maude
-Tags: Firefox, screenshot 
-Summary: Using Firefox's Developer Tools to take full page web screenshots without stitching by hand.
++++
+title = "Taking web page screenshots smartly with Firefox's Developer Tools"
+date = 2016-04-20T20:30:00
+author = "Steven Maude"
+summary = "Using Firefox's Developer Tools to take full page web screenshots without stitching by hand."
+tags = ["Firefox", "screenshot"]
++++
 
 ## Snap happy
 

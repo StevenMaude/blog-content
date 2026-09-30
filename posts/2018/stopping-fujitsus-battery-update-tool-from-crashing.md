@@ -1,10 +1,10 @@
-Title: Stopping Fujitsu's Battery Charging Control Update Tool from crashing Windows 10
-Date: 2018-12-10 21:16
-Author: Steven Maude
-Tags: fix, Windows
-Summary: Preventing Fujitsu's Battery Charging Control Update from
-         making Windows 10 crash with a blue screen error caused by
-         tdklib64.sys.
++++
+title = "Stopping Fujitsu's Battery Charging Control Update Tool from crashing Windows 10"
+date = 2018-12-10T21:16:00
+author = "Steven Maude"
+summary = "Preventing Fujitsu's Battery Charging Control Update from making Windows 10 crash with a blue screen error caused by tdklib64.sys."
+tags = ["fix", "Windows"]
++++
 
 (NB: There's some background here just by way of introduction. If you encounter
 this problem and don't want to endure my waffling, check the setting I [mention

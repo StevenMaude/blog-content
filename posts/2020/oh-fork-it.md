@@ -1,9 +1,11 @@
-Title: Oh, fork it
-Date: 2020-06-19 12:35
-Modified: 2020-06-19 20:39
-Author: Steven Maude
-Tags: GitHub
-Summary: Why you should fork obscure, interesting repositories
++++
+title = "Oh, fork it"
+date = 2020-06-19T12:35:00
+lastmod = 2020-06-19T20:39:00
+author = "Steven Maude"
+summary = "Why you should fork obscure, interesting repositories"
+tags = ["GitHub"]
++++
 
 ## Lost…
 
@@ -31,7 +33,7 @@ not easily discoverable.[^1]
 Things shared on the internet have no guarantee of longevity. You are
 subject to the whims either of service providers either disappearing
 entirely, or [removing a user and all their
-content]({filename}../2017/rinse-fms-soundcloud-takedown.md).
+content](/2017/07/rinse-fms-soundcloud-takedown/).
 
 Users themselves may also delete things they've previously shared.
 Especially in a post-GDPR world, where people are likely far more aware

@@ -1,12 +1,13 @@
-Title: A Year of Garmin: a Forerunner 15 review
-Date: 2016-12-14 15:43
-Author: Steven Maude
-Tags: Garmin, Forerunner, review, running
-Summary: After a year running with it, the Garmin Forerunner 15 GPS
-         watch was definitely a great budget choice.
++++
+title = "A Year of Garmin: a Forerunner 15 review"
+date = 2016-12-14T15:43:00
+author = "Steven Maude"
+summary = "After a year running with it, the Garmin Forerunner 15 GPS watch was definitely a great budget choice."
+tags = ["Garmin", "Forerunner", "review", "running"]
++++
 
 As I mentioned in [a previous
-post]({filename}../2015/using-garmin-forerunner-watches-with-linux.md)
+post](/2015/12/using-garmin-forerunner-watches-with-linux/)
 just after Christmas last year, I bought a new [Garmin
 watch](https://buy.garmin.com/en-GB/GB/p/145621). That's also the first
 GPS watch I've owned. Now I've been using it regularly for the best part
@@ -16,7 +17,7 @@ about it.
 And I like the Forerunner 15 a lot. Many of my favourite things focus on
 doing one or a small number of tasks well. It's [why I use Rockbox on
 dedicated audio player
-hardware]({filename}../2016/still-rocking-rockbox.md) as opposed to some
+hardware](/2016/12/still-rocking-rockbox/) as opposed to some
 music player app on a phone, and why I tend to use a separate camera,
 not a phone, for taking photographs.
 
@@ -51,7 +52,7 @@ It's also possible to download this data from Garmin without using their
 software; I've mentioned solutions, [including my
 own](https://github.com/StevenMaude/armstrong), in the previous post I
 made on [Garmin watches and
-Linux]({filename}../2015/using-garmin-forerunner-watches-with-linux.md).
+Linux](/2015/12/using-garmin-forerunner-watches-with-linux/).
 
 Without that data to hand, the time to get a location lock can
 occasionally be long enough that I've warmed up and just set off and

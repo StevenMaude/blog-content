@@ -1,12 +1,14 @@
-Title: Answers to some Windows 10 activation questions
-Date: 2016-01-12 22:23
-Author: Steven Maude
-Tags: Windows, activation
-Summary: Some details of Windows 10 activation post-Threshold 2 release.
++++
+title = "Answers to some Windows 10 activation questions"
+date = 2016-01-12T22:23:00
+author = "Steven Maude"
+summary = "Some details of Windows 10 activation post-Threshold 2 release."
+tags = ["Windows", "activation"]
++++
 
 With a Windows 10 1511 Threshold 2 ISO that I downloaded (using the
 [source I've previously
-described]({filename}../2015/getting-an-official-windows-10-disk-image.md)),
+described](/2015/10/getting-an-official-windows-10-disk-image/)),
 I was recently testing out Windows 10.
 
 The Threshold 2 release was the first major release of Windows 10 since

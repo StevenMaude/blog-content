@@ -1,11 +1,13 @@
-Title: How to secure your storage and backup drives on Windows and Linux
-Date: 2013-09-28 17:03
-Modified: 2015-10-26 17:17
-Author: Steven Maude
-Tags: Bitlocker, backup, encryption, USB, HDD, external, TrueCrypt, drive
-Slug: how-to-secure-your-storage-and-backup
-Summary: A guide to securing data on external and backup drives by encrypting them.
-Alias: /2013/09/how-to-secure-your-storage-and-backup.html
++++
+title = "How to secure your storage and backup drives on Windows and Linux"
+date = 2013-09-28T17:03:00
+lastmod = 2015-10-26T17:17:00
+author = "Steven Maude"
+slug = "how-to-secure-your-storage-and-backup"
+summary = "A guide to securing data on external and backup drives by encrypting them."
+tags = ["Bitlocker", "backup", "encryption", "USB", "HDD", "external", "TrueCrypt", "drive"]
+aliases = ["/2013/09/how-to-secure-your-storage-and-backup.html"]
++++
 
 If you use computers even a little, you'll probably have acquired a few
 external USB drives. They're cheap, reasonably quick and small, so it's
@@ -14,11 +16,11 @@ well be storing personal data on them, meaning that if you lost them and
 they're unencrypted, anyone can read their contents.
 
 Compared with the painful time [I previously
-spent]({filename}../2013/a-beginners-guide-to-os-encryption-dual.md)
+spent](/2013/09/a-beginners-guide-to-os-encryption-dual/)
 encrypting operating system drives, it's a relief that encrypting
 non-system drives is far, far simpler.
 
-<img class="article-image" src="{static}/images/2013/Bitlocker_context_menu.png" alt="Bitlocker drive context menu.">
+<img class="article-image" src="/images/2013/Bitlocker_context_menu.png" alt="Bitlocker drive context menu.">
 
 ## Bitlocker
 
@@ -29,7 +31,7 @@ self-explanatory instructions.
 Right clicking an external drive in Explorer brings up the Bitlocker
 option (as shown to the right).
 
-<img class="article-image" src="{static}/images/2013/Bitlocker_unlock_menu.png" alt="Bitlocker drive unlock menu.">
+<img class="article-image" src="/images/2013/Bitlocker_unlock_menu.png" alt="Bitlocker drive unlock menu.">
 
 Next, you then choose a password to unlock the drive, then save or print
 a recovery key in case you forget your password. All that's left is to
@@ -60,23 +62,23 @@ writing).
 
 Update 2: USB 3 works fine, but there's [some weird Bitlocker or drive
 specific issue
-behaviour]({filename}../2013/odd-behaviour-of-bitlocker-or-maybe-my.md)…
+behaviour](/2013/10/odd-behaviour-of-bitlocker-or-maybe-my/)…
 
 ## TrueCrypt
 
-!!! article-edit ""
-    Edit: see my [earlier encryption
-    post]({filename}../2013/a-beginners-guide-to-os-encryption-dual.md#approach-3-encrypt-windows-7-any-version-with-truecrypt-encrypt-ubuntu-with-luks)
-    for notes on the current state of TrueCrypt; it shouldn't be used
-    anymore (on Windows, for certain), but one of its successors may be a
-    suitable replacement.
+> **Updated note**
+> Edit: see my [earlier encryption
+> post](/2013/09/a-beginners-guide-to-os-encryption-dual/#approach-3-encrypt-windows-7-any-version-with-truecrypt-encrypt-ubuntu-with-luks)
+> for notes on the current state of TrueCrypt; it shouldn't be used
+> anymore (on Windows, for certain), but one of its successors may be a
+> suitable replacement.
 
 The other main option is TrueCrypt which is
 freely available, and has good cross-platform support, perhaps making it
 a better choice. Go to Volumes > Create New Volume… and you'll see
 this menu:
 
-<img class="article-image" src="{static}/images/2013/TrueCrypt_menu.png" alt="The TrueCrypt volume creation wizard.">
+<img class="article-image" src="/images/2013/TrueCrypt_menu.png" alt="The TrueCrypt volume creation wizard.">
 
 You can optionally use an encrypted drive container, which is a virtual
 disk in a file, should you want to store unencrypted files on your drive
@@ -84,17 +86,17 @@ alongside encrypted ones. My preference is just to encrypt the entire
 thing, so there's no risk of me inadvertently storing something
 containing personal information in the unencrypted part.
 
-<img class="article-image" src="{static}/images/2013/TrueCrypt_volume_type.png" alt="Specifying TrueCrypt volume type.">
+<img class="article-image" src="/images/2013/TrueCrypt_volume_type.png" alt="Specifying TrueCrypt volume type.">
 
 Here, TrueCrypt asks if you want to hide the volume. In my case, a
 standard volume is sufficient.
 
-<img class="article-image" src="{static}/images/2013/TrueCrypt_volume_location.png" alt="Specifying TrueCrypt volume location.">
+<img class="article-image" src="/images/2013/TrueCrypt_volume_location.png" alt="Specifying TrueCrypt volume location.">
 
 Click Select Device, choose the drive you want to encrypt and click
 Next.
 
-<img class="article-image" src="{static}/images/2013/TrueCrypt_encryption_options.png" alt="The TrueCrypt volume creation window.">
+<img class="article-image" src="/images/2013/TrueCrypt_encryption_options.png" alt="The TrueCrypt volume creation window.">
 
 If you've nothing on the drive already, you can format it. Otherwise,
 you'll have to encrypt it in place which will take longer. On the next
@@ -102,13 +104,13 @@ page after this, it allows you to specify the encryption algorithms, I
 leave these as default. It will then tell you the volume size so that
 you can double check you've specified the correct drive.
 
-<img class="article-image" src="{static}/images/2013/TrueCrypt_format_options.png" alt="The TrueCrypt volume format window.">
+<img class="article-image" src="/images/2013/TrueCrypt_format_options.png" alt="The TrueCrypt volume format window.">
 
 After that, you enter a password, choose what kind of filesystem (e.g.
 FAT or NTFS) you want for the drive, move the mouse in the TrueCrypt for
 a while to generate random data and click Format.
 
-<img class="article-image" src="{static}/images/2013/TrueCrypt_drive_menu.png" alt="The TrueCrypt window showing a list of drives and drive letters to mount.">
+<img class="article-image" src="/images/2013/TrueCrypt_drive_menu.png" alt="The TrueCrypt window showing a list of drives and drive letters to mount.">
 
 To mount the drive, you launch TrueCrypt, choose Select Device, select
 your TrueCrypt drive, select an empty drive letter and choose Mount.

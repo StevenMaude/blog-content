@@ -1,13 +1,15 @@
-Title: US PyCon 2014 talks
-Date: 2014-04-19 15:57
-Modified: 2014-04-19 16:31
-Author: Steven Maude
-Tags: scraping, lxml, BeautifulSoup, regular, testing, Python, expressions
-Slug: us-pycon-2014-talks
-Summary: Rundown of some great US PyCon talks I recently watched.
-Alias: /2014/04/us-pycon-2014-talks.html
++++
+title = "US PyCon 2014 talks"
+date = 2014-04-19T15:57:00
+lastmod = 2014-04-19T16:31:00
+author = "Steven Maude"
+slug = "us-pycon-2014-talks"
+summary = "Rundown of some great US PyCon talks I recently watched."
+tags = ["scraping", "lxml", "BeautifulSoup", "regular", "testing", "Python", "expressions"]
+aliases = ["/2014/04/us-pycon-2014-talks.html"]
++++
 
-<img class="article-image" src="{static}/images/2014/python_logo.png" alt="The Python logo.">
+<img class="article-image" src="/images/2014/python_logo.png" alt="The Python logo.">
 
 The US PyCon took place over the last week or so and there are a huge
 selection of videos of the talks up at

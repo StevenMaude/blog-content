@@ -1,8 +1,10 @@
-Title: As easy as 123(-reg) 
-Date: 2015-12-11 17:04
-Author: Steven Maude
-Tags: domain, Namecheap, registrar, transfer 
-Summary: Transferring a .co.uk domain from 123-reg to Namecheap with no downtime.
++++
+title = "As easy as 123(-reg)"
+date = 2015-12-11T17:04:00
+author = "Steven Maude"
+summary = "Transferring a .co.uk domain from 123-reg to Namecheap with no downtime."
+tags = ["domain", "Namecheap", "registrar", "transfer"]
++++
 
 ## Two factor or not two factor
 

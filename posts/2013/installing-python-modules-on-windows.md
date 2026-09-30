@@ -1,11 +1,13 @@
-Title: Installing Python modules on Windows: unable to find vcvarsall.bat
-Date: 2013-06-09 13:43
-Modified: 2013-10-05 21:42
-Author: Steven Maude
-Tags: scikit-learn, install, Python
-Slug: installing-python-modules-on-windows
-Summary: How to install scientific modules in Python on Windows.
-Alias: /2013/06/installing-python-modules-on-windows.html
++++
+title = "Installing Python modules on Windows: unable to find vcvarsall.bat"
+date = 2013-06-09T13:43:00
+lastmod = 2013-10-05T21:42:00
+author = "Steven Maude"
+slug = "installing-python-modules-on-windows"
+summary = "How to install scientific modules in Python on Windows."
+tags = ["scikit-learn", "install", "Python"]
+aliases = ["/2013/06/installing-python-modules-on-windows.html"]
++++
 
 I'm in the middle of taking the [Coursera Data
 Science](https://www.coursera.org/course/datasci) course which is

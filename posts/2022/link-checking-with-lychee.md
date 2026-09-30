@@ -1,8 +1,10 @@
-Title: Link checking with lychee
-Date: 2022-09-07 21:11
-Author: Steven Maude
-Tags: blog, documentation, documentation as code, link, lychee, URL, research software engineering, writing
-Summary: A rundown of validating URLs with lychee
++++
+title = "Link checking with lychee"
+date = 2022-09-07T21:11:00
+author = "Steven Maude"
+summary = "A rundown of validating URLs with lychee"
+tags = ["blog", "documentation", "documentation as code", "link", "lychee", "URL", "research software engineering", "writing"]
++++
 
 ## The use of URLs in writing
 

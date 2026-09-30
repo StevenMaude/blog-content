@@ -1,9 +1,10 @@
-Title: Switching BitLocker protection methods without re-encrypting
-Date: 2017-02-04 17:54
-Author: Steven Maude
-Tags: BitLocker, manage-bde
-Summary: How to change BitLocker key protectors without having to
-         decrypt and re-encrypt a drive.
++++
+title = "Switching BitLocker protection methods without re-encrypting"
+date = 2017-02-04T17:54:00
+author = "Steven Maude"
+summary = "How to change BitLocker key protectors without having to decrypt and re-encrypt a drive."
+tags = ["BitLocker", "manage-bde"]
++++
 
 ## Overzealous TPM protection
 

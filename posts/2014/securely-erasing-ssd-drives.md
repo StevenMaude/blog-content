@@ -1,15 +1,17 @@
-Title: Securely erasing SSD drives
-Date: 2014-01-04 11:22
-Modified: 2014-01-12 15:13
-Author: Steven Maude
-Tags: hdparm, ATA, Secure, erase
-Slug: securely-erasing-ssd-drives
-Summary: How to securely erase drives with the ATA Secure Erase function via hdparm.
-Alias: /2014/01/securely-erasing-ssd-drives.html
++++
+title = "Securely erasing SSD drives"
+date = 2014-01-04T11:22:00
+lastmod = 2014-01-12T15:13:00
+author = "Steven Maude"
+slug = "securely-erasing-ssd-drives"
+summary = "How to securely erase drives with the ATA Secure Erase function via hdparm."
+tags = ["hdparm", "ATA", "Secure", "erase"]
+aliases = ["/2014/01/securely-erasing-ssd-drives.html"]
++++
 
 So, it turns out that [I was wrong about the motherboard being the cause
 of my recent Windows hibernate
-issues]({filename}../2013/things-ive-learned-from-building-and.md).
+issues](/2013/12/things-ive-learned-from-building-and/).
 The failure to resume on hibernate still occurred after that, although
 perhaps more rarely. There's always the possibility that there's some
 strange problem common to the chipset (both boards are based on Intel's
@@ -26,7 +28,7 @@ course, meant that I had to ensure that any data on it was wiped
 completely.
 
 I'd previously written about using [DBAN to wipe
-drives]({filename}../2013/dariks-boot-and-nuke-unrecognized.md).
+drives](/2013/08/dariks-boot-and-nuke-unrecognized/).
 What I learned this week is that using the [ATA Secure
 Erase](https://en.wikipedia.org/wiki/Write_amplification#Secure_erase)
 function is the best way to go. [This is particularly the case for SSDs

@@ -1,9 +1,10 @@
-Title: Full of heart: an Undertale review 
-Date: 2017-08-20 15:47
-Author: Steven Maude
-Tags: game, review
-Summary: The world doesn't need another review of Undertale.
-         Regardless, here's why I think you should play it.
++++
+title = "Full of heart: an Undertale review"
+date = 2017-08-20T15:47:00
+author = "Steven Maude"
+summary = "The world doesn't need another review of Undertale. Regardless, here's why I think you should play it."
+tags = ["game", "review"]
++++
 
 ## Playing Undertale fills you with determination
 

@@ -1,8 +1,10 @@
-Title: Solve your problem with sloppy Python
-Date: 2018-05-20 17:24
-Author: Steven Maude
-Tags: PyCon, Python
-Summary: A summary of a talk by Larry Hastings at PyCon 2018.
++++
+title = "Solve your problem with sloppy Python"
+date = 2018-05-20T17:24:00
+author = "Steven Maude"
+summary = "A summary of a talk by Larry Hastings at PyCon 2018."
+tags = ["PyCon", "Python"]
++++
 
 ## PyCon 2018: A quick note
 

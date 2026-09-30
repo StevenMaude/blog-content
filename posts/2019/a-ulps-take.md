@@ -1,8 +1,10 @@
-Title: A ULPS take: Windows 10 black screens and slow boot
-Date: 2019-12-21 12:29
-Author: Steven Maude
-Tags: Windows
-Summary: Disabling ULPS on laptops that Windows 10 doesn't play nicely with.
++++
+title = "A ULPS take: Windows 10 black screens and slow boot"
+date = 2019-12-21T12:29:00
+author = "Steven Maude"
+summary = "Disabling ULPS on laptops that Windows 10 doesn't play nicely with."
+tags = ["Windows"]
++++
 
 # A slow boot problem
 

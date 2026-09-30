@@ -1,8 +1,10 @@
-Title: Beatmatching to beat grid in Traktor 
-Date: 2015-12-21 13:50
-Author: Steven Maude
-Tags: Traktor, beatmatching, DJ, beat grid
-Summary: Beatmatching by ear can help you beat grid music in Traktor.
++++
+title = "Beatmatching to beat grid in Traktor"
+date = 2015-12-21T13:50:00
+author = "Steven Maude"
+summary = "Beatmatching by ear can help you beat grid music in Traktor."
+tags = ["Traktor", "beatmatching", "DJ", "beat grid"]
++++
 
 ## Tracks that beat Traktor's beat detection
 

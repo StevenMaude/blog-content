@@ -1,11 +1,13 @@
-Title: Looking at Ableton's Learning Music
-Date: 2017-05-21 20:09
-Author: Steven Maude
-Tags: Ableton, music, music theory
-Summary: A look at Ableton's tutorial site to get you started making music.
++++
+title = "Looking at Ableton's Learning Music"
+date = 2017-05-21T20:09:00
+author = "Steven Maude"
+summary = "A look at Ableton's tutorial site to get you started making music."
+tags = ["Ableton", "music", "music theory"]
++++
 
 Previously I [looked at Ableton's book of ideas for music
-producers]({filename}../2016/making-music-book-review.md) that came out
+producers](/2016/06/making-music-book-review/) that came out
 a while back, geared to people with some experience of making music
 already. That did well in summarising suggestions for creativity into
 short, easily digestible chapters.

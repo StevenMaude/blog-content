@@ -1,8 +1,10 @@
-Title: Learning from other projects: pelican-themes 
-Date: 2019-12-16 22:41
-Author: Steven Maude
-Tags: git, project management
-Summary: Taking a look at pelican-themes — a project I currently use — to learn from it.
++++
+title = "Learning from other projects: pelican-themes"
+date = 2019-12-16T22:41:00
+author = "Steven Maude"
+summary = "Taking a look at pelican-themes — a project I currently use — to learn from it."
+tags = ["git", "project management"]
++++
 
 ## Lack of updates
 

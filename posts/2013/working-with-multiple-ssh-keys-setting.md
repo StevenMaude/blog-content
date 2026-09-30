@@ -1,11 +1,13 @@
-Title: Working with multiple SSH keys: setting up git over SSH with GitHub and Bitbucket
-Date: 2013-10-08 19:33
-Modified: 2013-10-08 19:41
-Author: Steven Maude
-Tags: GitHub, key, SSH, Bitbucket
-Slug: working-with-multiple-ssh-keys-setting
-Summary: How to setup `.ssh/config` to use different ssh keys for different servers, e.g. when connecting to GitHub and Bitbucket.
-Alias: /2013/10/working-with-multiple-ssh-keys-setting.html
++++
+title = "Working with multiple SSH keys: setting up git over SSH with GitHub and Bitbucket"
+date = 2013-10-08T19:33:00
+lastmod = 2013-10-08T19:41:00
+author = "Steven Maude"
+slug = "working-with-multiple-ssh-keys-setting"
+summary = "How to setup `.ssh/config` to use different ssh keys for different servers, e.g. when connecting to GitHub and Bitbucket."
+tags = ["GitHub", "key", "SSH", "Bitbucket"]
+aliases = ["/2013/10/working-with-multiple-ssh-keys-setting.html"]
++++
 
 My SSH key was setup for GitHub and working fine, but I wanted to add a
 separate one for Bitbucket[^1]. It was daunting playing around with this
